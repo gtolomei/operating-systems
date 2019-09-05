@@ -23,7 +23,7 @@ I concetti generali previsti per il corso, ampliamente coperti dal materiale bib
 
 | Lezione \# | Argomento                                     | Materiale      | 
 |------------|-----------------------------------------------|----------------|
-| Lecture 1  | Introduzione                                  | [Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_00_Preliminaries.pdf)                |
-| Lecture 2  | Richiami di Architettura di un Elaboratore    | [Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_01_Introduction_And_Environment_Setup.pdf)               |
-| Lecture 3  | Struttura di un Sistema Operativo             | [Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_02_Python_Basics.pdf)               |
-| Lecture 4  | I Processi                                    | [Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_03_Python_Data_Types_1.pdf)               |
+| Lezione 1  | Introduzione                                  | [Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_00_Preliminaries.pdf)                |
+| Lezione 2  | Richiami di Architettura di un Elaboratore    | [Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_01_Introduction_And_Environment_Setup.pdf)               |
+| Lezione 3  | Struttura di un Sistema Operativo             | [Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_02_Python_Basics.pdf)               |
+| Lezione 4  | I Processi                                    | [Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_03_Python_Data_Types_1.pdf)               |
