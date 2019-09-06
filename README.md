@@ -6,7 +6,7 @@ Benvenuti sul sito web del corso di Sistemi Operativi!
 
 Il corso si svolge al primo semestre del secondo anno della [Laurea Triennale in Informatica della Sapienza Università di Roma](https://www.studiareinformatica.uniroma1.it/laurea).
 
-Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2019/20.
+Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2019/20 limitatamente al II canale (M-Z).
 
 ### Orario delle Lezioni
 - Martedì dalle 17:00 alle 19:00 (Aula P2)
