@@ -25,8 +25,14 @@ Allo scopo di fornire tali basi, durante il corso verranno discussi alcuni conce
 I concetti generali previsti per il corso, ampliamente coperti dal materiale bibliografico consigliato, verranno discussi a lezione in maniera relativamente indipendente da specifici sistemi operativi. Essi saranno comunque esemplificati facendo riferimento a sistemi operativi noti e di utilizzo comune, come ad esempio UNIX/Linux, Windows, Mac, Android, iOS, etc.
 
 ### Modalità di Esame
+TBA
+
+<hr>
 
 ## Syllabus
+TBA
+
+<hr>
 
 ## Materiale Didattico
 
