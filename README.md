@@ -25,20 +25,43 @@ Allo scopo di fornire tali basi, durante il corso verranno discussi alcuni conce
 I concetti generali previsti per il corso, ampliamente coperti dal materiale bibliografico consigliato, verranno discussi a lezione in maniera relativamente indipendente da specifici sistemi operativi. Essi saranno comunque esemplificati facendo riferimento a sistemi operativi noti e di utilizzo comune, come ad esempio UNIX/Linux, Windows, Mac, Android, iOS, etc.
 
 ### Modalità di Esame
-Per il superamento dell'esame è prevista una prova scritta a cui può far seguito una prova orale opzionale (a discrezione del docente).
+Per il superamento dell'esame è prevista una **prova scritta** a cui può far seguito una prova orale _opzionale_ (a discrezione del docente).
 
 <hr>
 
 ## Syllabus
-TBA
+Introduzione
+-  Concetti di base
+-  Storia dei sistemi operativi
+-  Relazione tra macchina fisica (HW) e sistemi operativi
+-  Struttura dei sistemi operativi
+Gestione dei Processi
+-  Processi
+-  Threads
+-  Sincronizzazione
+-  CPU Scheduling
+-  Deadlocks
+Gestione della memoria
+-  Memoria principale (RAM)
+-  Memoria virtuale
+Gestione dei sistemi di I/O
+-  Dispositivi di memoria di massa
+-  Interfaccia del file system
+-  Implementazione del file system
+-  Sistemi di I/O
+Concetti avanzati
+-  Protezione
+-  Sicurezza
+-  Sistemi distribuiti
+-  Sistemi per dispositivi mobili
 
 <hr>
 
 ## Materiale Didattico
 
-| Lezione \# | Argomento                                     | Materiale      | 
-|------------|-----------------------------------------------|----------------|
-| Lezione 1  | Introduzione                                  | [Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_01_Intro.pdf)                |
-| Lezione 2  | Richiami di Architettura di un Elaboratore    | [Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_02_OS_And_Computer_Architecture.pdf)               |
-| Lezione 3  | Struttura di un Sistema Operativo             | [Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_03_OS_Structure.pdf)               |
-| Lezione 4  | I Processi                                    | [Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_04_Processes.pdf)               |
+| Lezione \# | Data | Argomento                                     | Materiale      | 
+|------------|------|-----------------------------------------------|----------------|
+| Lezione 1  | 23/09/2019 | Introduzione                                  | [Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_01_Intro.pdf)                |
+| Lezione 2  | 27/09/2019 | Richiami di Architettura di un Elaboratore    | [Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_02_OS_And_Computer_Architecture.pdf)               |
+| Lezione 3  | 01/10/2019 | Struttura di un Sistema Operativo             | [Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_03_OS_Structure.pdf)               |
+| Lezione 4  | 05/10/2019 | I Processi                                    | [Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_04_Processes.pdf)               |
