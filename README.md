@@ -9,11 +9,11 @@ Il corso si svolge al primo semestre del secondo anno della [Laurea Triennale in
 Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2019/20, limitatamente al II canale (M-Z).
 
 ### Orario delle Lezioni
-- Martedì dalle 17:00 alle 19:00 (Aula P2)
-- Venerdì dalle 16:00 alle 19:00 (Aula P2)
+- Martedì dalle 17:00 alle 19:00 (Aula III - edificio MATEMATICA G. CASTELNUOVO [CU006])
+- Venerdì dalle 16:00 alle 19:00 (Aula III - edificio MATEMATICA G. CASTELNUOVO [CU006])
 
 ### Orario di Ricevimento
-- 
+- Giovedì dalle 10:00 alle 12:00 (TBA)
 
 ### Obiettivi del Corso
 I sistemi operativi sono parte essenziale di un sistema di calcolo e costituiscono l'esempio ideale di un concetto fondamentale e trasversale all'intero percorso di studio in Informatica, ossia quello dell'_astrazione_. 
