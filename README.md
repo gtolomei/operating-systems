@@ -13,7 +13,7 @@ Questo repository contiene il materiale didattico del corso sottoforma di slide 
 - **Venerdì** dalle **16:00** alle **19:00** (Aula III - edificio MATEMATICA G. CASTELNUOVO [CU006])
 
 ### Orario di Ricevimento
-- Giovedì dalle 10:00 alle 12:00 (TBA)
+- **Giovedì** dalle **10:00** alle **12:00** (TBA)
 
 ### Obiettivi del Corso
 I sistemi operativi sono parte essenziale di un sistema di calcolo e costituiscono l'esempio ideale di un concetto fondamentale e trasversale all'intero percorso di studio in Informatica, ossia quello dell'_astrazione_. 
@@ -30,30 +30,34 @@ Per il superamento dell'esame è prevista una **prova scritta** a cui può far s
 <hr>
 
 ## Syllabus
-Introduzione
--  Concetti di base
--  Storia dei sistemi operativi
--  Relazione tra macchina fisica (HW) e sistemi operativi
--  Struttura dei sistemi operativi
-Gestione dei Processi
--  Processi
--  Threads
--  Sincronizzazione
--  CPU Scheduling
--  Deadlocks
-Gestione della memoria
--  Memoria principale (RAM)
--  Memoria virtuale
-Gestione dei sistemi di I/O
--  Dispositivi di memoria di massa
--  Interfaccia del file system
--  Implementazione del file system
--  Sistemi di I/O
-Concetti avanzati
--  Protezione
--  Sicurezza
--  Sistemi distribuiti
--  Sistemi per dispositivi mobili
+**Introduzione**
+- Concetti di base
+- Storia dei sistemi operativi
+- Relazione tra macchina fisica (HW) e sistemi operativi
+- Struttura dei sistemi operativi
+
+**Gestione dei Processi**
+- Processi
+- Threads
+- Sincronizzazione
+- CPU Scheduling
+- Deadlocks
+
+**Gestione della memoria**
+- Memoria principale (RAM)
+- Memoria virtuale
+
+**Gestione dei sistemi di I/O**
+- Dispositivi di memoria di massa
+- Interfaccia del file system
+- Implementazione del file system
+- Sistemi di I/O
+
+**Concetti avanzati**
+- Protezione
+- Sicurezza
+- Sistemi distribuiti
+- Sistemi per dispositivi mobili
 
 <hr>
 
