@@ -65,7 +65,8 @@ Per il superamento dell'esame è prevista una **prova scritta** a cui può far s
 
 | Lezione \# | Data | Argomento                                     | Materiale      | 
 |------------|------|-----------------------------------------------|----------------|
-| Lezione 1  | 23/09/2019 | Introduzione                                  | [Slides]()                 | <!-- https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_01_Intro.pdf -->
-| Lezione 2  | 27/09/2019 | Richiami di Architettura di un Elaboratore    | [Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_02_OS_And_Computer_Architecture.pdf)               |
-| Lezione 3  | 01/10/2019 | Struttura di un Sistema Operativo             | [Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_03_OS_Structure.pdf)               |
-| Lezione 4  | 05/10/2019 | I Processi                                    | [Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_04_Processes.pdf)               |
+| Lezione 1  | 23/09/2019 | Introduzione                                  | <!--[Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_01_Intro.pdf) -->                |
+| Lezione 2  | 27/09/2019 | Richiami di Architettura di un Elaboratore    | <!--[Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_02_OS_And_Computer_Architecture.pdf) -->               |
+| Lezione 3  | 01/10/2019 | Struttura di un Sistema Operativo             | <!--[Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_03_OS_Structure.pdf) -->               |
+| Lezione 4  | 05/10/2019 | I Processi                                    | <!--[Slides](https://github.com/gtolomei/operating-systems/blob/master/lectures/slides/Lecture_04_Processes.pdf) -->              |
+
