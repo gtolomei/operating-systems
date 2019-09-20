@@ -9,8 +9,8 @@ Il corso si svolge al primo semestre del secondo anno della [Laurea Triennale in
 Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2019/20, limitatamente al II canale (M-Z).
 
 ### Orario delle Lezioni
-- Martedì dalle 17:00 alle 19:00 (Aula III - edificio MATEMATICA G. CASTELNUOVO [CU006])
-- Venerdì dalle 16:00 alle 19:00 (Aula III - edificio MATEMATICA G. CASTELNUOVO [CU006])
+- **Martedì** dalle **17:00** alle **19:00** (Aula III - edificio MATEMATICA G. CASTELNUOVO [CU006])
+- **Venerdì** dalle **16:00** alle **19:00** (Aula III - edificio MATEMATICA G. CASTELNUOVO [CU006])
 
 ### Orario di Ricevimento
 - Giovedì dalle 10:00 alle 12:00 (TBA)
@@ -25,7 +25,7 @@ Allo scopo di fornire tali basi, durante il corso verranno discussi alcuni conce
 I concetti generali previsti per il corso, ampliamente coperti dal materiale bibliografico consigliato, verranno discussi a lezione in maniera relativamente indipendente da specifici sistemi operativi. Essi saranno comunque esemplificati facendo riferimento a sistemi operativi noti e di utilizzo comune, come ad esempio UNIX/Linux, Windows, Mac, Android, iOS, etc.
 
 ### Modalità di Esame
-TBA
+Per il superamento dell'esame è prevista una prova scritta a cui può far seguito una prova orale opzionale (a discrezione del docente).
 
 <hr>
 
