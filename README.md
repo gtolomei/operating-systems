@@ -1,8 +1,8 @@
-# Sistemi Operativi
+# Sistemi Operativi - I Modulo
 
 ## Informazioni Generali
 
-Benvenuti sul sito web del corso di Sistemi Operativi!
+Benvenuti sul sito web del corso di Sistemi Operativi - I Modulo!
 
 Il corso si svolge al primo semestre del secondo anno della [Laurea Triennale in Informatica della Sapienza Università di Roma](https://www.studiareinformatica.uniroma1.it/laurea).
 
@@ -22,7 +22,7 @@ Più specificamente, grazie al processo di virtualizzazione delle risorse fisich
 
 Allo scopo di fornire tali basi, durante il corso verranno discussi alcuni concetti fondamentali relativi ai sistemi operativi cosiddetti _general purpose_ (tipicamente installati su PC/laptop) e alle loro funzionalità primarie (gestione dei processori, della memoria e dei dispositivi di ingresso/uscita). Verranno altresì forniti cenni sulle caratteristiche principali dei sistemi operativi installati sui dispositivi mobili (tablet/smartphone).
 
-I concetti generali previsti per il corso, ampliamente coperti dal materiale bibliografico consigliato, verranno discussi a lezione in maniera relativamente indipendente da specifici sistemi operativi. Essi saranno comunque esemplificati facendo riferimento a sistemi operativi noti e di utilizzo comune, come ad esempio UNIX/Linux, Windows, Mac, Android, iOS, etc.
+I concetti generali previsti per il corso, ampiamente coperti dal materiale bibliografico consigliato, verranno discussi a lezione in maniera relativamente indipendente da specifici sistemi operativi. Essi saranno comunque esemplificati facendo riferimento a sistemi operativi noti e di utilizzo comune, come ad esempio UNIX/Linux, Windows, Mac, Android, iOS, etc.
 
 ### Modalità di Esame
 Per il superamento dell'esame è prevista una **prova scritta** a cui può far seguito una prova orale _opzionale_ (a discrezione del docente).
