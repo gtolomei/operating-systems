@@ -66,7 +66,7 @@ Per il superamento dell'esame è prevista una **prova scritta** a cui può far s
 | Lezione \# | Data | Argomento                                     | Materiale      | 
 |------------|------|-----------------------------------------------|----------------|
 | Lezione 1  | 24/09/2019 | Introduzione | slides [ [PDF] ](./lectures/slides/Lecture_01_Intro.pdf) |
-| Lezione 2  | 27/09/2019 | Relazione tra OS e HW | slides [ [PDF] ](./lectures/slides/Lecture_02_OS_and_Computer_Architecture.pdf) |
+| Lezione 2  | 27/09/2019 | Relazione tra Sistema Operativo e Architettura Hardware | slides [ [PDF] ](./lectures/slides/Lecture_02_OS_and_Computer_Architecture.pdf) |
 | Lezioni 3 - 4  | 01/10/2019 - 04/10/2019 | Struttura di un Sistema Operativo | slides [ [PDF] ](./lectures/slides/Lecture_03_OS_Structure.pdf) |
 <!--| Lezione 4  | 05/10/2019 | I Processi | <!--[Slides](./lectures/slides/Lecture_04_Processes.pdf) | -->
 
