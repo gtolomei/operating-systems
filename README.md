@@ -15,6 +15,9 @@ Questo repository contiene il materiale didattico del corso sottoforma di slide 
 ### Orario di Ricevimento
 - **Giovedì** dalle **10:00** alle **12:00** (TBA)
 
+### Pagina Moodle del Corso
+Gli studenti devono registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=8017
+
 ### Obiettivi del Corso
 I sistemi operativi sono parte essenziale di un sistema di calcolo e costituiscono l'esempio ideale di un concetto fondamentale e trasversale all'intero percorso di studio in Informatica, ossia quello dell'_astrazione_. 
 
@@ -27,6 +30,10 @@ I concetti generali previsti per il corso, ampiamente coperti dal materiale bibl
 ### Modalità di Esame
 Per il superamento dell'esame è prevista una **prova scritta** a cui può far seguito una prova orale _opzionale_ (a discrezione del docente).
 
+### Libri di Testo Consigliati
+- Sistemi Operativi. Concetti ed Esempi [ [Silberschatz et al.] ];
+- I Moderni Sistemi Operativi [ [Tanenbaum et al.] ]
+ 
 <hr>
 
 ## Syllabus
