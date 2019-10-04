@@ -34,7 +34,7 @@ Per il superamento dell'esame è prevista una **prova scritta** a cui può far s
 Sebbene non obbligatori ai fini del superamento dell'esame, i seguenti libri di testo (preferibilmente in lingua inglese) costituiscono una fonte utile per assimilare più approfonditamente i concetti esposti durante le lezioni:
 - _Operating System Concepts_ [Silberschatz _et al._];
 - _Modern Operating Systems_ [Tanenbaum _et al._];
-- _Operating Systems: Three Easy Pieces_ [Remzi] ( [available online] )(http://pages.cs.wisc.edu/~remzi/OSTEP/).
+- _Operating Systems: Three Easy Pieces_ [Remzi] [available online](http://pages.cs.wisc.edu/~remzi/OSTEP/).
 
 I primi due libri sono comunque disponibili anche in versione italiana:
 - _Sistemi Operativi. Concetti ed Esempi_ [Silberschatz _et al._];
