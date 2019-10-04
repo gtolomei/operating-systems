@@ -31,14 +31,14 @@ I concetti generali previsti per il corso, ampiamente coperti dal materiale bibl
 Per il superamento dell'esame è prevista una **prova scritta** a cui può far seguito una prova orale _opzionale_ (a discrezione del docente).
 
 ### Libri di Testo Consigliati
-Sebbene non obbligatori ai fini del superamento dell'esame, i seguenti libri di testo (preferibilmente in lingua inglese) costituiscono una fonte utile per assimilare più approfonditamente i concetti esposti durante le lezioni.
-- Operating System Concepts [Silberschatz _et al._];
-- Modern Operating Systems [Tanenbaum _et al._];
-- Operating Systems: Three Easy Pieces [Remzi] ([available online])(http://pages.cs.wisc.edu/~remzi/OSTEP/).
+Sebbene non obbligatori ai fini del superamento dell'esame, i seguenti libri di testo (preferibilmente in lingua inglese) costituiscono una fonte utile per assimilare più approfonditamente i concetti esposti durante le lezioni:
+- _Operating System Concepts_ [Silberschatz _et al._];
+- _Modern Operating Systems_ [Tanenbaum _et al._];
+- _Operating Systems: Three Easy Pieces_ [Remzi] [available online](http://pages.cs.wisc.edu/~remzi/OSTEP/).
 
 I primi due libri sono comunque disponibili anche in versione italiana:
-- Sistemi Operativi. Concetti ed Esempi [Silberschatz _et al._];
-- I Moderni Sistemi Operativi [Tanenbaum _et al._]
+- _Sistemi Operativi. Concetti ed Esempi_ [Silberschatz _et al._];
+- _I Moderni Sistemi Operativi_ [Tanenbaum _et al._]
  
 <hr>
 
