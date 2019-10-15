@@ -82,4 +82,5 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 2  | 27/09/2019 | Relazione tra Sistema Operativo e Hardware | slides [ [PDF] ](./lectures/slides/02_OS_and_Computer_Architecture.pdf) |
 | Lezioni 3 - 4  | 01/10/2019 - 04/10/2019 | Struttura di un Sistema Operativo | slides [ [PDF] ](./lectures/slides/03_OS_Structure.pdf) |
 | Lezioni 5 - 6  | 08/10/2019 - 11/10/2019 | I Processi | slides [ [PDF] ](./lectures/slides/04_Processes.pdf) |
+| Lezione 7  | 15/10/2019 | Scheduling della CPU (1) | slides [ [PDF] ](./lectures/slides/05_CPU_Scheduling_1.pdf) |
 
