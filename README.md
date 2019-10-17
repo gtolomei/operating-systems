@@ -13,7 +13,7 @@ Questo repository contiene il materiale didattico del corso sottoforma di slide 
 - **Venerdì** dalle **16:00** alle **19:00** (Aula III - edificio MATEMATICA G. CASTELNUOVO [CU006])
 
 ### Orario di Ricevimento
-- **Giovedì** dalle **10:00** alle **12:00** (TBA)
+- **Giovedì** dalle **10:00** alle **12:00** in viale Regina Elena 295 c/o Palazzina G, III piano, stanza G49
 
 ### Pagina Moodle del Corso
 Gli studenti devono registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=8017
