@@ -1,6 +1,8 @@
 # Sistemi Operativi - I Modulo
 
 ## News
+-  **25/10/2019**<br/>
+A causa dello sciopero nazionale dei trasporti, la lezione di Sistemi Operativi di **venerdì 25/10** terminerà in anticipo rispetto al solito, presumibilmente intorno alle **17:30**.
 
 ## Informazioni Generali
 
