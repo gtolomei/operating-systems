@@ -88,5 +88,5 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezioni 5 - 6  | 08/10/2019 - 11/10/2019 | I Processi | slides [ [PDF] ](./lectures/slides/04_Processes.pdf) |
 | Lezione 7  | 15/10/2019 | Scheduling della CPU (1) | slides [ [PDF] ](./lectures/slides/05_CPU_Scheduling_1.pdf) |
 | Lezioni 8 - 9 | 18/10/2019 - 22/10/2019 | Scheduling della CPU (2) | slides [ [PDF] ](./lectures/slides/05_CPU_Scheduling_2.pdf) |
-| Lezione 10 | 25/10/2019 | Threads | slides [ [PDF] ](./lectures/slides/06_Threads.pdf) |
+| Lezione 10 | 25/10/2019 | I Threads | slides [ [PDF] ](./lectures/slides/06_Threads.pdf) |
 
