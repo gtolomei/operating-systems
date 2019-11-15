@@ -90,4 +90,5 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezioni 8 - 9 | 18/10/2019 - 22/10/2019 | Scheduling della CPU (2) | slides [ [PDF] ](./lectures/slides/05_CPU_Scheduling_2.pdf) |
 | Lezioni 10 - 11 | 25/10/2019 - 29/10/2019 | Threads | slides [ [PDF] ](./lectures/slides/06_Threads.pdf) |
 | Lezione 12 | 12/11/2019 | Sincronizzazione tra Processi/Thread (1) | slides [ [PDF] ](./lectures/slides/07_Synchronization_1.pdf) |
+| Lezione 13 | 15/11/2019 | Sincronizzazione tra Processi/Thread (2) | slides [ [PDF] ](./lectures/slides/08_Synchronization_2.pdf) |
 
