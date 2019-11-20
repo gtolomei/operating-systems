@@ -1,6 +1,10 @@
 # Sistemi Operativi - I Modulo
 
 ## News
+-  **22/11/2019**<br/>
+Durante la lezione di **venerdì 22/11** sarà dedicato uno spazio di **almeno 15 minuti** nel quale gli studenti saranno invitati a compilare il Questionario delle Opinioni degli Studenti (OPIS), traimte i propri dispositivi mobili.<br/>
+Ulteriori dettagli e istruzioni sulle modalità di compilazione del questionario verranno forniti durante la lezione.<br/>
+Si invitano gli studenti alla massima partecipazione.<br/>
 -  **25/10/2019**<br/>
 A causa dello sciopero nazionale dei trasporti, la lezione di Sistemi Operativi di **venerdì 25/10** terminerà in anticipo rispetto al solito, presumibilmente intorno alle **17:30**.
 
