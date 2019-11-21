@@ -62,7 +62,7 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 - CPU Scheduling
 - Threads
 - Sincronizzazione
-- Deadlocks
+- Deadlock
 
 **Gestione della memoria**
 - Memoria principale (RAM)
