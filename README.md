@@ -96,6 +96,6 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 12 | 12/11/2019 | Sincronizzazione tra Processi/Thread (1) | [slides: <a href="./lectures/slides/07_Synchronization_1.pdf" target="_blank">PDF</a>]|
 | Lezione 13 | 15/11/2019 | Sincronizzazione tra Processi/Thread (2) | [slides: <a href="./lectures/slides/07_Synchronization_2.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
 | Lezioni 14 - 15 | 19/11/2019 - 22/11/2019 | Deadlock | [slides: <a href="./lectures/slides/08_Deadlock.pdf" target="_blank">PDF</a>] |
-| Lezione 16 | 26/11/2019 | Esercitazione I | [slides: <a href="./lectures/slides/Questions_I.pdf" target="_blank">PDF</a>] |
+| Lezione 16 | 26/11/2019 | Esercitazione I | [slides: <a href="./exercises/Questions_I.pdf" target="_blank">PDF</a>] |
 | Lezione 17 | 29/11/2019 | Gestione della Memoria (1) | [slides: <a href="./lectures/slides/09_Memory_Management.pdf" target="_blank">PDF</a>] |
 
