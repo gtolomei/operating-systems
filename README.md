@@ -1,6 +1,8 @@
 # Sistemi Operativi - I Modulo
 
 ## News
+- **Lezione del 20/12/2019**<br/>
+Come annunciato quest'oggi in aula, la lezione del **20/12/2019** **non** si svolgerà a causa della mancanza di un'aula dalla capacità adeguata. Pertanto, l'ultima lezione del corso coinciderà con la seconda lezione di recupero che si svolgerà **mercoledì 18/12/2019** dalle ore **10:00** alle ore **12:00** in aula T2.
 - **Lezioni di Recupero**<br/>
 Il giorno **giovedì 12/12/2019** dalle ore **11:00** alle ore **13:00** presso l'Aula T2 di Giurisprudenza [CU046] si svolgerà la prima delle due lezioni di recupero previste.<br/>
 La seconda lezione di recupero avrà luogo **mercoledì 18/12/2019**, sempre in Aula T2, dalle ore **10:00** alle ore **12:00**.<br/>
