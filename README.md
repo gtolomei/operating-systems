@@ -3,7 +3,7 @@
 ## News
 - **Lezioni di Recupero**<br/>
 Il giorno **giovedì 12/12/2019** dalle ore **11:00** alle ore **13:00** presso l'Aula T2 di Giurisprudenza [CU046] si svolgerà la prima delle due lezioni di recupero previste.<br/>
-La seconda lezione di recupero avrà luogo **mercoledì 18/12/2019**, sempre in Aula T2, in orario ancora da stabilire. A tal proposito, si invitano gli studenti a esprimere la loro preferenza attraverso l'apposito [Doodle](https://doodle.com/poll/rc6xep26wvdwhyh8).<br/>
+La seconda lezione di recupero avrà luogo **mercoledì 18/12/2019**, sempre in Aula T2, dalle ore **10:00** alle ore **12:00** .<br/>
 -  **22/11/2019**<br/>
 Durante la lezione di **venerdì 22/11** sarà dedicato uno spazio di **almeno 15 minuti** nel quale gli studenti saranno invitati a compilare il Questionario delle Opinioni degli Studenti (OPIS), tramite i propri dispositivi mobili.<br/>
 Ulteriori dettagli e istruzioni sulle modalità di compilazione del questionario verranno forniti durante la lezione.<br/>
