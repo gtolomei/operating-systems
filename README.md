@@ -1,6 +1,8 @@
 # Sistemi Operativi - I Modulo
 
 ## News
+- **Sospensione della Didattica 13/12/2019**<br/>
+A causa dell'ordinanza comunale diramata in serata ([link](https://www.comune.roma.it/web/it/home.page)), tutte le lezioni previste per la giornata di domani, **venerdì 13 dicembre** sono state annullate. Di conseguenza, la prossima lezione di Sistemi Operativi si svolgerà **martedì 17/12** dalle **17:00** alle **19:00**. Potete consultare il comunicato ufficiale a questo [link](https://www.uniroma1.it/it/notizia/lezioni-sospese-il-13-dicembre).
 - **Annullata la Lezione del 20/12/2019**<br/>
 Come già annunciato quest'oggi in aula, la lezione del **20/12/2019** è annullata a causa della mancanza di un'aula dalla capacità adeguata. Pertanto, l'ultima lezione del corso coinciderà con la seconda lezione di recupero che si svolgerà **mercoledì 18/12/2019** dalle ore **10:00** alle ore **12:00** in aula T2.
 - **Lezioni di Recupero**<br/>
