@@ -107,5 +107,5 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 17 | 29/11/2019 | Gestione della Memoria (1) | [slides: <a href="./lectures/slides/09_Memory_Management.pdf" target="_blank">PDF</a>] |
 | Lezioni 18 - 19 | 03/12/2019 - 06/12/2019 | Gestione della Memoria (2) | [slides: <a href="./lectures/slides/10_Memory_Management_Paging.pdf" target="_blank">PDF</a>] |
 | Lezioni 20 - 21 | 10/12/2019 - 12/12/2019 | Memoria Virtuale | [slides: <a href="./lectures/slides/11_Virtual_Memory.pdf" target="_blank">PDF</a>] |
-| Lezione 22 | 13/12/2019 | Dispositivi di Memoria di Massa | [slides: <a href="./lectures/slides/12_Mass_Storage.pdf" target="_blank">PDF</a>] |
+| Lezione 22 | 17/12/2019 | Dispositivi di Memoria di Massa | [slides: <a href="./lectures/slides/12_Mass_Storage.pdf" target="_blank">PDF</a>] |
 
