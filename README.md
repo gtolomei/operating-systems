@@ -1,6 +1,10 @@
 # Sistemi Operativi - I Modulo
 
 ## News
+- **I Appello Sessione Invernale 16/01/2020**<br/>
+La prova d'esame relativa al I appello della sessione invernale dell'a.a. 2019/20 si svolgerà **giovedì 16/01/2020** dalle ore **14:30** alle ore **16:30** presso l'**aula 17** dei laboratori situati in via Tiburtina 205.<br/>
+- **Simulazione Prova Esame**<br/>
+Sulla pagina Moodle del corso, è disponibile la simulazione della prova d'esame al seguente (link)[https://elearning.uniroma1.it/mod/quiz/view.php?id=260605]<br/>
 - **Sospensione della Didattica 13/12/2019**<br/>
 A causa dell'ordinanza comunale diramata in serata ([link](https://www.comune.roma.it/web/it/home.page)), tutte le lezioni previste per la giornata di domani, **venerdì 13 dicembre**, sono state annullate. Di conseguenza, la prossima lezione di Sistemi Operativi si svolgerà **martedì 17/12** dalle **17:00** alle **19:00**. Potete consultare il comunicato ufficiale a questo [link](https://www.uniroma1.it/it/notizia/lezioni-sospese-il-13-dicembre).
 - **Annullata la Lezione del 20/12/2019**<br/>
