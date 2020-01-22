@@ -1,6 +1,8 @@
 # Sistemi Operativi - I Modulo
 
 ## News
+- **I Appello Orale del 29/01/2020**-
+Le prove orali relative al I appello si svolgeranno **mercoledì 29 gennaio** a partire dalle ore **10:00** in **aula G50** presso la sede di viale Regina Elena, 295.<br/>
 - **Visione I Appello Scritto del 16/01/2020**<br/>
 Tutti coloro che **NON** sosterranno la prova orale o che **NON** hanno superato la prova scritta potranno visionare il proprio elaborato in modo strettamente individuale **mercoledì 22 gennaio** a partire dalle ore **10:00** in **aula G50** presso la sede di viale Regina Elena, 295.<br/>
 - **Esiti I Appello Scritto del 16/01/2020**<br/>
