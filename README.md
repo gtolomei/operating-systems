@@ -1,6 +1,8 @@
 # Sistemi Operativi - I Modulo
 
 ## News
+- **II Appello Scritto del 05/02/2020**<br/>
+La prova d'esame scritta relativa al II appello della sessione invernale dell'a.a. 2019/20 si svolgerà **mercoledì 05/02/2020** dalle ore **14:30** alle ore **16:30** presso l'**aula 16** dei laboratori situati in via Tiburtina, 205.<br/>
 - **I Appello Orale del 29/01/2020**<br/>
 Le prove orali relative al I appello si svolgeranno **mercoledì 29 gennaio** a partire dalle ore **10:00** in **aula G50** presso la sede di viale Regina Elena, 295.<br/>
 - **Visione I Appello Scritto del 16/01/2020**<br/>
@@ -9,8 +11,8 @@ Tutti coloro che **NON** sosterranno la prova orale o che **NON** hanno superato
 Gli esiti del I appello scritto del 16/01/2020 sono disponibili al seguente [link](./exams/2020-01-16_esiti.pdf).
 - **Ricevimento Generale + Correzione Simulazione Esame**<br/>
 Gli studenti sono invitati a partecipare al ricevimento generale in previsione del primo appello d'esame, che si terrà **martedì 14/01/2020** dalle ore **16:00** alle ore **18:00** e **mercoledì 15/01/2020** dalle ore **10:00** alle ore **13:00** presso l'**aula G50** in viale Regina Elena, 295 ([map](https://goo.gl/maps/yGxVpMexqTFc6TLW6)).<br/>
-- **I Appello Sessione Invernale 16/01/2020**<br/>
-La prova d'esame relativa al I appello della sessione invernale dell'a.a. 2019/20 si svolgerà **giovedì 16/01/2020** dalle ore **14:30** alle ore **16:30** presso l'**aula 17** dei laboratori situati in via Tiburtina, 205.<br/>
+- **I Appello Scritto del 16/01/2020**<br/>
+La prova d'esame scritta relativa al I appello della sessione invernale dell'a.a. 2019/20 si svolgerà **giovedì 16/01/2020** dalle ore **14:30** alle ore **16:30** presso l'**aula 17** dei laboratori situati in via Tiburtina, 205.<br/>
 - **Simulazione Prova Esame**<br/>
 Sulla pagina Moodle del corso, è disponibile la simulazione della prova d'esame al seguente [link](https://elearning.uniroma1.it/mod/quiz/view.php?id=260605).<br/>
 - **Sospensione della Didattica 13/12/2019**<br/>
