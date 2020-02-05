@@ -1,6 +1,8 @@
 # Sistemi Operativi - I Modulo
 
 ## News
+- **Esiti II Appello Scritto del 05/02/2020**<br/>
+Gli esiti del II appello scritto del 05/02/2020 sono disponibili al seguente [link](./exams/2020-02-05_esiti.pdf).
 - **II Appello Scritto del 05/02/2020**<br/>
 La prova d'esame scritta relativa al II appello della sessione invernale dell'a.a. 2019/20 si svolgerà **mercoledì 05/02/2020** dalle ore **14:30** alle ore **16:30** presso l'**aula 16** dei laboratori situati in via Tiburtina, 205.<br/>
 - **I Appello Orale del 29/01/2020**<br/>
