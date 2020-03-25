@@ -1,9 +1,9 @@
 # Sistemi Operativi - I Modulo
 
 ## News
-- **Esami Sessione Straordinaria**</b>
+- **Esami Sessione Straordinaria**<br/>
 In ottemperanza ai provvedimenti assunti da Sapienza in materia di didattica per fronteggiare l'emergenza COVID-19, emanati dal Senato Accademico a margine della seduta del **24 marzo 2020**, si comunica quanto segue:<br/>
-<center>_Gli esami scritti saranno riprogrammati a seguito dell'individuazione di procedure a garanzia del corretto svolgimento delle prove, come concordato con la CRUI._</cenetr>
+_Gli esami scritti saranno riprogrammati a seguito dell'individuazione di procedure a garanzia del corretto svolgimento delle prove, come concordato con la CRUI._<br/>
 - **Esiti II Appello Scritto del 05/02/2020**<br/>
 Gli esiti del II appello scritto del 05/02/2020 sono disponibili al seguente [link](./exams/2020-02-05_esiti.pdf).
 - **II Appello Scritto del 05/02/2020**<br/>
