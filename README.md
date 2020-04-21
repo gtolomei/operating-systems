@@ -1,4 +1,4 @@
-# Sistemi Operativi - I Modulo
+# Sistemi Operativi - I Modulo (2019-2020)
 
 ## News
 - **Esami Sessione Straordinaria**<br/>
