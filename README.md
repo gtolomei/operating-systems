@@ -4,7 +4,7 @@
 - **Appello Sessione Straordinaria**<br/>
 Si avvisano gli studenti interessati aventi diritto a sostenere l'esame durante la sessione straordinaria che è possibile prenotarsi nell'apposito appello disponibile su Infostud. 
 La data della prova scritta è fissata per **venerdì 8 maggio** dalle ore **10:00** alle ore **12:00**. Eventuali aggiornamenti seguiranno su questa pagina.<br/>
-**IMPORTANTE:** Si ricorda che la proroga della sessione straordinaria inizialmente prevista durante il periodo marzo-aprile riguarda **solamente** lo svolgimento delle prove d'esame e **non** si applica a nessuna delle scadenze ad esse propedeutiche. In altre parole, **solo coloro che hanno fatto richiesta entro i limiti originariamente previsti** (**9 marzo 2020**), potranno iscriversi all'appello su Infostud.
+**IMPORTANTE:** Si ricorda che la proroga della sessione straordinaria inizialmente prevista durante il periodo marzo-aprile riguarda **solamente** lo svolgimento delle prove d'esame e **non** si applica a nessuna delle scadenze ad esse propedeutiche. In altre parole, **solo coloro che hanno fatto richiesta entro i limiti originariamente previsti** (**9 marzo 2020**), potranno iscriversi all'appello su Infostud e sostenere l'esame.
 - **Esami Sessione Straordinaria**<br/>
 In ottemperanza ai provvedimenti assunti da Sapienza in materia di didattica per fronteggiare l'emergenza COVID-19, emanati dal Senato Accademico a margine della seduta del **24 marzo 2020**, si comunica quanto segue:<br/>
 _Gli esami scritti saranno riprogrammati a seguito dell'individuazione di procedure a garanzia del corretto svolgimento delle prove, come concordato con la CRUI._<br/>
