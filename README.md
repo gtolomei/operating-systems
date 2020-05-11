@@ -1,6 +1,8 @@
 # Sistemi Operativi - I Modulo (2019-2020)
 
 ## News
+- **Esiti Appello Straordinario Scritto del 08/05/2020**<br/>
+Gli esiti dell'appello straordinario scritto del 08/05/2020 sono disponibili al seguente [link](./exams/2020-05-08_esiti.pdf).
 - **Appello Sessione Straordinaria**<br/>
 Si avvisano gli studenti interessati aventi diritto a sostenere l'esame durante la sessione straordinaria che è possibile prenotarsi nell'apposito appello disponibile su Infostud. 
 La data della prova scritta è fissata per **venerdì 8 maggio** dalle ore **10:00** alle ore **12:00**. Eventuali aggiornamenti seguiranno su questa pagina.<br/>
