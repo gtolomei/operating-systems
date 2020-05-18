@@ -1,6 +1,10 @@
 # Sistemi Operativi - I Modulo (2019-2020)
 
 ## News
+- **III Appello Scritto del 19/06/2020**<br/>
+La prova d'esame scritta relativa al III appello dell'a.a. 2019/20 si svolgerà **venerdì 19/06/2020** mediante quiz a risposta multipla su piattaforma Moodle **in modalità remota**, secondo i criteri previsti dal [Decreto Rettorale n. 1141/2020](https://www.uniroma1.it/it/documento/procedura-straordinaria-conseguente-allemergenza-sanitaria-covid-19-lo-svolgimento-degli). È già possibile iscriversi all'appello mediante Infostud (verbale **714565**).<br/>
+Al fine di stabilire l'eventuale necessità di suddividere l'appello in più turni, sarà doveroso conoscere il numero di iscritti alla prova con un sufficiente margine di anticipo. Pertanto, la chiusura delle iscrizioni su Infostud avverrà **5 giorni prima** della data dell'appello (**domenica 14/06/2020**), diversamente da quanto accade di solito per gli esami in presenza. Ciò detto, invito comunque gli studenti ad iscriversi consapevoli del fatto che ogni eventuale assenza si ripercuoterebbe inevitabilmente sui propri colleghi e sull'organizzazione - già di per sé complicata - dell'intero appello.<br/>
+I dettagli circa l'orario della/e prova/e e le istruzioni su come accedervi, verranno forniti non appena sarà definito il numero di turni necessari sulla base delle iscrizioni pervenute entro il termine previsto.<br/>
 - **Esiti Appello Straordinario Scritto del 08/05/2020**<br/>
 Gli esiti dell'appello straordinario scritto del 08/05/2020 sono disponibili al seguente [link](./exams/2020-05-08_esiti.pdf).
 - **Appello Sessione Straordinaria**<br/>
@@ -13,7 +17,7 @@ _Gli esami scritti saranno riprogrammati a seguito dell'individuazione di proced
 - **Esiti II Appello Scritto del 05/02/2020**<br/>
 Gli esiti del II appello scritto del 05/02/2020 sono disponibili al seguente [link](./exams/2020-02-05_esiti.pdf).
 - **II Appello Scritto del 05/02/2020**<br/>
-La prova d'esame scritta relativa al II appello della sessione invernale dell'a.a. 2019/20 si svolgerà **mercoledì 05/02/2020** dalle ore **14:30** alle ore **16:30** presso l'**aula 16** dei laboratori situati in via Tiburtina, 205.<br/>
+La prova d'esame scritta relativa al II appello dell'a.a. 2019/20 si svolgerà **mercoledì 05/02/2020** dalle ore **14:30** alle ore **16:30** presso l'**aula 16** dei laboratori situati in via Tiburtina, 205.<br/>
 - **I Appello Orale del 29/01/2020**<br/>
 Le prove orali relative al I appello si svolgeranno **mercoledì 29 gennaio** a partire dalle ore **10:00** in **aula G50** presso la sede di viale Regina Elena, 295.<br/>
 - **Visione I Appello Scritto del 16/01/2020**<br/>
@@ -23,7 +27,7 @@ Gli esiti del I appello scritto del 16/01/2020 sono disponibili al seguente [lin
 - **Ricevimento Generale + Correzione Simulazione Esame**<br/>
 Gli studenti sono invitati a partecipare al ricevimento generale in previsione del primo appello d'esame, che si terrà **martedì 14/01/2020** dalle ore **16:00** alle ore **18:00** e **mercoledì 15/01/2020** dalle ore **10:00** alle ore **13:00** presso l'**aula G50** in viale Regina Elena, 295 ([map](https://goo.gl/maps/yGxVpMexqTFc6TLW6)).<br/>
 - **I Appello Scritto del 16/01/2020**<br/>
-La prova d'esame scritta relativa al I appello della sessione invernale dell'a.a. 2019/20 si svolgerà **giovedì 16/01/2020** dalle ore **14:30** alle ore **16:30** presso l'**aula 17** dei laboratori situati in via Tiburtina, 205.<br/>
+La prova d'esame scritta relativa al I appello dell'a.a. 2019/20 si svolgerà **giovedì 16/01/2020** dalle ore **14:30** alle ore **16:30** presso l'**aula 17** dei laboratori situati in via Tiburtina, 205.<br/>
 - **Simulazione Prova Esame**<br/>
 Sulla pagina Moodle del corso, è disponibile la simulazione della prova d'esame al seguente [link](https://elearning.uniroma1.it/mod/quiz/view.php?id=260605).<br/>
 - **Sospensione della Didattica 13/12/2019**<br/>
