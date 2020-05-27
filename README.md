@@ -1,5 +1,7 @@
 # Sistemi Operativi - I Modulo (2019-2020)
 
+[News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico)
+
 ## News
 - **III Appello Scritto del 19/06/2020**<br/>
 La prova d'esame scritta relativa al III appello dell'a.a. 2019/20 si svolgerà **venerdì 19/06/2020** mediante quiz a risposta multipla su piattaforma Moodle **in modalità remota**, secondo i criteri previsti dal [Decreto Rettorale n. 1141/2020](https://www.uniroma1.it/it/documento/procedura-straordinaria-conseguente-allemergenza-sanitaria-covid-19-lo-svolgimento-degli): è già possibile iscriversi all'appello mediante Infostud (verbale **714565**).<br/>
