@@ -3,6 +3,8 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico)
 
 ## News
+- **Esiti III Appello Scritto del 19/06/2020**<br/>
+Gli esiti del III appello scritto del 19/06/2020 sono disponibili al seguente [link](./exams/2020-06-19_esiti.pdf).
 - **Nuova Simulazione Prova Esame**<br/>
 Sulla pagina Moodle del corso, è disponibile una nuova simulazione della prova d'esame al seguente [link](https://elearning.uniroma1.it/mod/quiz/view.php?id=317363) in aggiunta a quella già presente. ~~Il quiz sarà accessibile esclusivamente mediante [Safe Exam Browser](https://safeexambrowser.org/news_en.html) (SEB); pertanto, si invitano gli studenti a predisporre la propria postazione installando il software necessario reperibile al seguente [link](https://safeexambrowser.org/download_en.html)~~.<br/>
 - **III Appello Scritto del 19/06/2020**<br/>
