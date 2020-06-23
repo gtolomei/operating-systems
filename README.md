@@ -6,6 +6,7 @@
 - **IV Appello Scritto del 08/07/2020**<br/>
 La prova d'esame scritta relativa al IV appello dell'a.a. 2019/20 si svolgerà **mercoledì 08/07/2020** mediante quiz a risposta multipla su piattaforma Moodle **in modalità a distanza**, secondo i criteri previsti dal [Decreto Rettorale n. 1141/2020](https://www.uniroma1.it/it/documento/procedura-straordinaria-conseguente-allemergenza-sanitaria-covid-19-lo-svolgimento-degli). È già possibile iscriversi all'appello su Infostud (verbale **718064**); la chiusura delle iscrizioni è prevista per **sabato 04/07/2020**.<br/>
 La prova si svolgerà dalle ore **15:00** alle ore **17:00**, e i dettagli con le istruzioni per il suo svolgimento verranno forniti **ai soli candidati iscritti** nei giorni immediatamente precedenti alla data dell'appello.<br/>
+Rinnovo l'invito ad iscriversi in modo **responsabile**, consapevoli del fatto che ogni eventuale assenza si ripercuoterebbe inevitabilmente sui propri colleghi e sull'organizzazione - già di per sé complicata - dell'intero appello.<br/>
 - **Esiti III Appello Scritto del 19/06/2020**<br/>
 Gli esiti del III appello scritto del 19/06/2020 sono disponibili al seguente [link](./exams/2020-06-19_esiti.pdf).
 - **Nuova Simulazione Prova Esame**<br/>
