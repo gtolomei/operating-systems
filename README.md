@@ -4,7 +4,7 @@
 
 ## News
 - **Verbalizzazione Esame**<br/>
-Si ricorda a tutti coloro che hanno superato entrambi i moduli del corso di Sistemi Operativi che per procedere all'effettiva verbalizzazione del voto è necessario iscriversi a un appello su Infostud. Contestualmente, gli studenti interessati dovranno inviare un messaggio [email al docente](mailto:tolomei@di.uniroma1.it) in cui si ricorda che il motivo dell'iscrizione all'esame è strettamente legato alla necessità di verbalizzare il proprio voto finale.
+Si ricorda a tutti coloro che hanno superato entrambi i moduli del corso di Sistemi Operativi che per procedere all'effettiva verbalizzazione del voto **è necessario iscriversi a un appello su Infostud**. Contestualmente, gli studenti interessati dovranno **inviare un messaggio** [email al docente](mailto:tolomei@di.uniroma1.it) in cui si ricorda che il motivo dell'iscrizione all'esame è strettamente legato alla necessità di verbalizzare il proprio voto finale.
 - **IV Appello Scritto del 08/07/2020**<br/>
 La prova d'esame scritta relativa al IV appello dell'a.a. 2019/20 si svolgerà **mercoledì 08/07/2020** mediante quiz a risposta multipla su piattaforma Moodle **in modalità a distanza**, secondo i criteri previsti dal [Decreto Rettorale n. 1141/2020](https://www.uniroma1.it/it/documento/procedura-straordinaria-conseguente-allemergenza-sanitaria-covid-19-lo-svolgimento-degli). È già possibile iscriversi all'appello su Infostud (verbale **718064**); la chiusura delle iscrizioni è prevista per **sabato 04/07/2020**.<br/>
 La prova si svolgerà dalle ore **15:00** alle ore **17:00**, e i dettagli con le istruzioni per il suo svolgimento verranno forniti **ai soli candidati iscritti** nei giorni immediatamente precedenti alla data dell'appello.<br/>
