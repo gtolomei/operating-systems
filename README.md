@@ -3,6 +3,8 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico)
 
 ## News
+- **Esiti IV Appello Scritto dello 08/07/2020**<br/>
+Gli esiti del IV appello scritto dello 08/07/2020 sono disponibili al seguente [link](./exams/2020-07-08_esiti.pdf).
 - **Verbalizzazione Esame**<br/>
 Si ricorda a tutti coloro che hanno superato entrambi i moduli del corso di Sistemi Operativi che per procedere all'effettiva verbalizzazione del voto **è necessario iscriversi a un appello su Infostud**. Contestualmente, gli studenti interessati dovranno **inviare un messaggio** [email al docente](mailto:tolomei@di.uniroma1.it) in cui si ricorda che il motivo dell'iscrizione all'esame è strettamente legato alla necessità di verbalizzare il proprio voto finale.
 - **IV Appello Scritto del 08/07/2020**<br/>
