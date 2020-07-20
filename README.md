@@ -3,6 +3,11 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico)
 
 ## News
+- **V Appello Scritto del 09/09/2020**<br/>
+La prova d'esame scritta relativa al V appello dell'a.a. 2019/20 si svolgerà **mercoledì 09/09/2020** mediante quiz a risposta multipla su piattaforma Moodle **in modalità a distanza**, secondo i criteri previsti dal [Decreto Rettorale n. 1141/2020](https://www.uniroma1.it/it/documento/procedura-straordinaria-conseguente-allemergenza-sanitaria-covid-19-lo-svolgimento-degli). È già possibile iscriversi all'appello su Infostud (verbale **719724**); la chiusura delle iscrizioni è prevista per **domenica 06/09/2020**.<br/>
+La prova si svolgerà dalle ore **15:00** alle ore **17:00**, e i dettagli con le istruzioni per il suo svolgimento verranno forniti **ai soli candidati iscritti** nei giorni immediatamente precedenti alla data dell'appello.<br/>
+Rinnovo l'invito ad iscriversi in modo **responsabile**, consapevoli del fatto che ogni eventuale assenza si ripercuoterebbe inevitabilmente sui propri colleghi e sull'organizzazione - già di per sé complicata - dell'intero appello.<br/>
+**NOTA:** _Si ricorda a tutti coloro che hanno già superato il primo modulo e che intendono sostenere il secondo modulo durante l'appello di settembre di iscriversi **anche** a questo appello per procedere con l'eventuale verbalizzazione dell'intero esame._<br/>
 - **Esiti IV Appello Scritto dello 08/07/2020**<br/>
 Gli esiti del IV appello scritto dello 08/07/2020 sono disponibili al seguente [link](./exams/2020-07-08_esiti.pdf).
 - **Verbalizzazione Esame**<br/>
