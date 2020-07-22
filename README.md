@@ -9,7 +9,7 @@ La prova si svolgerà dalle ore **15:00** alle ore **17:00**, e i dettagli con l
 Rinnovo l'invito ad iscriversi in modo **responsabile**, consapevoli del fatto che ogni eventuale assenza si ripercuoterebbe inevitabilmente sui propri colleghi e sull'organizzazione - già di per sé complicata - dell'intero appello.<br/>
 **NOTA:** _Si ricorda a tutti coloro che hanno già superato il primo modulo e che intendono sostenere il secondo modulo durante l'appello di settembre di iscriversi **anche** a questo appello per procedere con l'eventuale verbalizzazione dell'intero esame._<br/>
 - **Esiti IV Appello Scritto dello 08/07/2020**<br/>
-Gli esiti del IV appello scritto dello 08/07/2020 sono disponibili al seguente [link](./exams/2020-07-08_esiti.pdf).
+Gli esiti del IV appello scritto dello 08/07/2020 sono disponibili al seguente [link](./exams/2019-20/2020-07-08_esiti.pdf).
 - **Verbalizzazione Esame**<br/>
 Si ricorda a tutti coloro che hanno superato entrambi i moduli del corso di Sistemi Operativi che per procedere all'effettiva verbalizzazione del voto **è necessario iscriversi a un appello su Infostud**. Contestualmente, gli studenti interessati dovranno **inviare un messaggio** [email al docente](mailto:tolomei@di.uniroma1.it) in cui si ricorda che il motivo dell'iscrizione all'esame è strettamente legato alla necessità di verbalizzare il proprio voto finale.
 - **IV Appello Scritto del 08/07/2020**<br/>
@@ -17,7 +17,7 @@ La prova d'esame scritta relativa al IV appello dell'a.a. 2019/20 si svolgerà *
 La prova si svolgerà dalle ore **15:00** alle ore **17:00**, e i dettagli con le istruzioni per il suo svolgimento verranno forniti **ai soli candidati iscritti** nei giorni immediatamente precedenti alla data dell'appello.<br/>
 Rinnovo l'invito ad iscriversi in modo **responsabile**, consapevoli del fatto che ogni eventuale assenza si ripercuoterebbe inevitabilmente sui propri colleghi e sull'organizzazione - già di per sé complicata - dell'intero appello.<br/>
 - **Esiti III Appello Scritto del 19/06/2020**<br/>
-Gli esiti del III appello scritto del 19/06/2020 sono disponibili al seguente [link](./exams/2020-06-19_esiti.pdf).
+Gli esiti del III appello scritto del 19/06/2020 sono disponibili al seguente [link](./exams/2019-20/2020-06-19_esiti.pdf).
 - **Nuova Simulazione Prova Esame**<br/>
 Sulla pagina Moodle del corso, è disponibile una nuova simulazione della prova d'esame al seguente [link](https://elearning.uniroma1.it/mod/quiz/view.php?id=317363) in aggiunta a quella già presente. ~~Il quiz sarà accessibile esclusivamente mediante [Safe Exam Browser](https://safeexambrowser.org/news_en.html) (SEB); pertanto, si invitano gli studenti a predisporre la propria postazione installando il software necessario reperibile al seguente [link](https://safeexambrowser.org/download_en.html)~~.<br/>
 - **III Appello Scritto del 19/06/2020**<br/>
@@ -25,7 +25,7 @@ La prova d'esame scritta relativa al III appello dell'a.a. 2019/20 si svolgerà 
 Al fine di stabilire l'eventuale necessità di suddividere l'appello in più turni, sarà doveroso conoscere il numero di iscritti alla prova con un sufficiente margine di anticipo. Pertanto, la chiusura delle iscrizioni su Infostud avverrà **5 giorni prima** della data dell'appello (**domenica 14/06/2020**), diversamente da quanto accade di solito per gli esami in presenza. Ciò detto, invito comunque gli studenti ad iscriversi consapevoli del fatto che ogni eventuale assenza si ripercuoterebbe inevitabilmente sui propri colleghi e sull'organizzazione - già di per sé complicata - dell'intero appello.<br/>
 I dettagli circa l'orario della/e prova/e e le istruzioni su come accedervi, verranno forniti **ai soli candidati iscritti** non appena sarà definito il numero di turni necessari sulla base delle iscrizioni pervenute entro il termine previsto.<br/>
 - **Esiti Appello Straordinario Scritto del 08/05/2020**<br/>
-Gli esiti dell'appello straordinario scritto del 08/05/2020 sono disponibili al seguente [link](./exams/2020-05-08_esiti.pdf).
+Gli esiti dell'appello straordinario scritto del 08/05/2020 sono disponibili al seguente [link](./exams/2019-20/2020-05-08_esiti.pdf).
 - **Appello Sessione Straordinaria**<br/>
 Si avvisano gli studenti interessati aventi diritto a sostenere l'esame durante la sessione straordinaria che è possibile prenotarsi nell'apposito appello disponibile su Infostud. 
 La data della prova scritta è fissata per **venerdì 8 maggio** dalle ore **10:00** alle ore **12:00**. Eventuali aggiornamenti seguiranno su questa pagina.<br/>
@@ -34,7 +34,7 @@ La data della prova scritta è fissata per **venerdì 8 maggio** dalle ore **10:
 In ottemperanza ai provvedimenti assunti da Sapienza in materia di didattica per fronteggiare l'emergenza COVID-19, emanati dal Senato Accademico a margine della seduta del **24 marzo 2020**, si comunica quanto segue:<br/>
 _Gli esami scritti saranno riprogrammati a seguito dell'individuazione di procedure a garanzia del corretto svolgimento delle prove, come concordato con la CRUI._<br/>
 - **Esiti II Appello Scritto del 05/02/2020**<br/>
-Gli esiti del II appello scritto del 05/02/2020 sono disponibili al seguente [link](./exams/2020-02-05_esiti.pdf).
+Gli esiti del II appello scritto del 05/02/2020 sono disponibili al seguente [link](./exams/2019-20/2020-02-05_esiti.pdf).
 - **II Appello Scritto del 05/02/2020**<br/>
 La prova d'esame scritta relativa al II appello dell'a.a. 2019/20 si svolgerà **mercoledì 05/02/2020** dalle ore **14:30** alle ore **16:30** presso l'**aula 16** dei laboratori situati in via Tiburtina, 205.<br/>
 - **I Appello Orale del 29/01/2020**<br/>
@@ -42,7 +42,7 @@ Le prove orali relative al I appello si svolgeranno **mercoledì 29 gennaio** a 
 - **Visione I Appello Scritto del 16/01/2020**<br/>
 Tutti coloro che **NON** sosterranno la prova orale o che **NON** hanno superato la prova scritta potranno visionare il proprio elaborato in modo strettamente individuale **mercoledì 22 gennaio** a partire dalle ore **10:00** in **aula G50** presso la sede di viale Regina Elena, 295.<br/>
 - **Esiti I Appello Scritto del 16/01/2020**<br/>
-Gli esiti del I appello scritto del 16/01/2020 sono disponibili al seguente [link](./exams/2020-01-16_esiti.pdf).
+Gli esiti del I appello scritto del 16/01/2020 sono disponibili al seguente [link](./exams/2019-20/2020-01-16_esiti.pdf).
 - **Ricevimento Generale + Correzione Simulazione Esame**<br/>
 Gli studenti sono invitati a partecipare al ricevimento generale in previsione del primo appello d'esame, che si terrà **martedì 14/01/2020** dalle ore **16:00** alle ore **18:00** e **mercoledì 15/01/2020** dalle ore **10:00** alle ore **13:00** presso l'**aula G50** in viale Regina Elena, 295 ([map](https://goo.gl/maps/yGxVpMexqTFc6TLW6)).<br/>
 - **I Appello Scritto del 16/01/2020**<br/>
