@@ -17,7 +17,7 @@ La prova d'esame scritta relativa al IV appello dell'a.a. 2019/20 si svolgerà *
 La prova si svolgerà dalle ore **15:00** alle ore **17:00**, e i dettagli con le istruzioni per il suo svolgimento verranno forniti **ai soli candidati iscritti** nei giorni immediatamente precedenti alla data dell'appello.<br/>
 Rinnovo l'invito ad iscriversi in modo **responsabile**, consapevoli del fatto che ogni eventuale assenza si ripercuoterebbe inevitabilmente sui propri colleghi e sull'organizzazione - già di per sé complicata - dell'intero appello.<br/>
 - **Esiti III Appello Scritto del 19/06/2020**<br/>
-Gli esiti del III appello scritto del 19/06/2020 sono disponibili al seguente [link](./exams/2019-20/2020-06-19_esiti.pdf).
+Gli esiti del III appello scritto del 19/06/2020 sono disponibili al seguente [link](../exams/2019-20/2020-06-19_esiti.pdf).
 - **Nuova Simulazione Prova Esame**<br/>
 Sulla pagina Moodle del corso, è disponibile una nuova simulazione della prova d'esame al seguente [link](https://elearning.uniroma1.it/mod/quiz/view.php?id=317363) in aggiunta a quella già presente. ~~Il quiz sarà accessibile esclusivamente mediante [Safe Exam Browser](https://safeexambrowser.org/news_en.html) (SEB); pertanto, si invitano gli studenti a predisporre la propria postazione installando il software necessario reperibile al seguente [link](https://safeexambrowser.org/download_en.html)~~.<br/>
 - **III Appello Scritto del 19/06/2020**<br/>
@@ -25,7 +25,7 @@ La prova d'esame scritta relativa al III appello dell'a.a. 2019/20 si svolgerà 
 Al fine di stabilire l'eventuale necessità di suddividere l'appello in più turni, sarà doveroso conoscere il numero di iscritti alla prova con un sufficiente margine di anticipo. Pertanto, la chiusura delle iscrizioni su Infostud avverrà **5 giorni prima** della data dell'appello (**domenica 14/06/2020**), diversamente da quanto accade di solito per gli esami in presenza. Ciò detto, invito comunque gli studenti ad iscriversi consapevoli del fatto che ogni eventuale assenza si ripercuoterebbe inevitabilmente sui propri colleghi e sull'organizzazione - già di per sé complicata - dell'intero appello.<br/>
 I dettagli circa l'orario della/e prova/e e le istruzioni su come accedervi, verranno forniti **ai soli candidati iscritti** non appena sarà definito il numero di turni necessari sulla base delle iscrizioni pervenute entro il termine previsto.<br/>
 - **Esiti Appello Straordinario Scritto del 08/05/2020**<br/>
-Gli esiti dell'appello straordinario scritto del 08/05/2020 sono disponibili al seguente [link](./exams/2019-20/2020-05-08_esiti.pdf).
+Gli esiti dell'appello straordinario scritto del 08/05/2020 sono disponibili al seguente [link](../exams/2019-20/2020-05-08_esiti.pdf).
 - **Appello Sessione Straordinaria**<br/>
 Si avvisano gli studenti interessati aventi diritto a sostenere l'esame durante la sessione straordinaria che è possibile prenotarsi nell'apposito appello disponibile su Infostud. 
 La data della prova scritta è fissata per **venerdì 8 maggio** dalle ore **10:00** alle ore **12:00**. Eventuali aggiornamenti seguiranno su questa pagina.<br/>
@@ -34,7 +34,7 @@ La data della prova scritta è fissata per **venerdì 8 maggio** dalle ore **10:
 In ottemperanza ai provvedimenti assunti da Sapienza in materia di didattica per fronteggiare l'emergenza COVID-19, emanati dal Senato Accademico a margine della seduta del **24 marzo 2020**, si comunica quanto segue:<br/>
 _Gli esami scritti saranno riprogrammati a seguito dell'individuazione di procedure a garanzia del corretto svolgimento delle prove, come concordato con la CRUI._<br/>
 - **Esiti II Appello Scritto del 05/02/2020**<br/>
-Gli esiti del II appello scritto del 05/02/2020 sono disponibili al seguente [link](./exams/2019-20/2020-02-05_esiti.pdf).
+Gli esiti del II appello scritto del 05/02/2020 sono disponibili al seguente [link](../exams/2019-20/2020-02-05_esiti.pdf).
 - **II Appello Scritto del 05/02/2020**<br/>
 La prova d'esame scritta relativa al II appello dell'a.a. 2019/20 si svolgerà **mercoledì 05/02/2020** dalle ore **14:30** alle ore **16:30** presso l'**aula 16** dei laboratori situati in via Tiburtina, 205.<br/>
 - **I Appello Orale del 29/01/2020**<br/>
@@ -42,7 +42,7 @@ Le prove orali relative al I appello si svolgeranno **mercoledì 29 gennaio** a 
 - **Visione I Appello Scritto del 16/01/2020**<br/>
 Tutti coloro che **NON** sosterranno la prova orale o che **NON** hanno superato la prova scritta potranno visionare il proprio elaborato in modo strettamente individuale **mercoledì 22 gennaio** a partire dalle ore **10:00** in **aula G50** presso la sede di viale Regina Elena, 295.<br/>
 - **Esiti I Appello Scritto del 16/01/2020**<br/>
-Gli esiti del I appello scritto del 16/01/2020 sono disponibili al seguente [link](./exams/2019-20/2020-01-16_esiti.pdf).
+Gli esiti del I appello scritto del 16/01/2020 sono disponibili al seguente [link](../exams/2019-20/2020-01-16_esiti.pdf).
 - **Ricevimento Generale + Correzione Simulazione Esame**<br/>
 Gli studenti sono invitati a partecipare al ricevimento generale in previsione del primo appello d'esame, che si terrà **martedì 14/01/2020** dalle ore **16:00** alle ore **18:00** e **mercoledì 15/01/2020** dalle ore **10:00** alle ore **13:00** presso l'**aula G50** in viale Regina Elena, 295 ([map](https://goo.gl/maps/yGxVpMexqTFc6TLW6)).<br/>
 - **I Appello Scritto del 16/01/2020**<br/>
@@ -141,19 +141,19 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 
 | Lezione \# | Data | Argomento                                     | Materiale      | 
 |------------|------|-----------------------------------------------|----------------|
-| Lezione 1  | 24/09/2019 | Introduzione | [slides: <a href="./lectures/slides/01_Intro.pdf" target="_blank">PDF</a>] |
-| Lezione 2  | 27/09/2019 | Relazione tra Sistema Operativo e Hardware | [slides: <a href="./lectures/slides/02_OS_and_Computer_Architecture.pdf" target="_blank">PDF</a>]|
-| Lezioni 3 - 4  | 01/10/2019 - 04/10/2019 | Struttura di un Sistema Operativo | [slides: <a href="./lectures/slides/03_OS_Structure.pdf" target="_blank">PDF</a>]|
-| Lezioni 5 - 6  | 08/10/2019 - 11/10/2019 | Processi | [slides: <a href="./lectures/slides/04_Processes.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
-| Lezione 7  | 15/10/2019 | Scheduling della CPU (1) | [slides: <a href="./lectures/slides/05_CPU_Scheduling_1.pdf" target="_blank">PDF</a>] |
-| Lezioni 8 - 9 | 18/10/2019 - 22/10/2019 | Scheduling della CPU (2) | [slides: <a href="./lectures/slides/05_CPU_Scheduling_2.pdf" target="_blank">PDF</a>]|
-| Lezioni 10 - 11 | 25/10/2019 - 29/10/2019 | Threads | [slides: <a href="./lectures/slides/06_Threads.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
+| Lezione 1  | 24/09/2019 | Introduzione | [slides: <a href="../lectures/slides/01_Intro.pdf" target="_blank">PDF</a>] |
+| Lezione 2  | 27/09/2019 | Relazione tra Sistema Operativo e Hardware | [slides: <a href="../lectures/slides/02_OS_and_Computer_Architecture.pdf" target="_blank">PDF</a>]|
+| Lezioni 3 - 4  | 01/10/2019 - 04/10/2019 | Struttura di un Sistema Operativo | [slides: <a href="../lectures/slides/03_OS_Structure.pdf" target="_blank">PDF</a>]|
+| Lezioni 5 - 6  | 08/10/2019 - 11/10/2019 | Processi | [slides: <a href="../lectures/slides/04_Processes.pdf" target="_blank">PDF</a>] [<a href="../code/processes.tgz" download="processes.tgz">code</a>]|
+| Lezione 7  | 15/10/2019 | Scheduling della CPU (1) | [slides: <a href="../lectures/slides/05_CPU_Scheduling_1.pdf" target="_blank">PDF</a>] |
+| Lezioni 8 - 9 | 18/10/2019 - 22/10/2019 | Scheduling della CPU (2) | [slides: <a href="../lectures/slides/05_CPU_Scheduling_2.pdf" target="_blank">PDF</a>]|
+| Lezioni 10 - 11 | 25/10/2019 - 29/10/2019 | Threads | [slides: <a href="../lectures/slides/06_Threads.pdf" target="_blank">PDF</a>] [<a href="../code/threads.tgz" download="threads.tgz">code</a>]|
 | Lezione 12 | 12/11/2019 | Sincronizzazione tra Processi/Thread (1) | [slides: <a href="./lectures/slides/07_Synchronization_1.pdf" target="_blank">PDF</a>]|
 | Lezione 13 | 15/11/2019 | Sincronizzazione tra Processi/Thread (2) | [slides: <a href="./lectures/slides/07_Synchronization_2.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
-| Lezioni 14 - 15 | 19/11/2019 - 22/11/2019 | Deadlock | [slides: <a href="./lectures/slides/08_Deadlock.pdf" target="_blank">PDF</a>] |
-| Lezione 16 | 26/11/2019 | Esercitazione I | [slides: <a href="./exercises/Questions_I.pdf" target="_blank">PDF</a>] |
-| Lezione 17 | 29/11/2019 | Gestione della Memoria (1) | [slides: <a href="./lectures/slides/09_Memory_Management.pdf" target="_blank">PDF</a>] |
-| Lezioni 18 - 19 | 03/12/2019 - 06/12/2019 | Gestione della Memoria (2) | [slides: <a href="./lectures/slides/10_Memory_Management_Paging.pdf" target="_blank">PDF</a>] |
-| Lezioni 20 - 21 | 10/12/2019 - 12/12/2019 | Memoria Virtuale | [slides: <a href="./lectures/slides/11_Virtual_Memory.pdf" target="_blank">PDF</a>] |
-| Lezione 22 | 17/12/2019 | Dispositivi di Memoria di Massa | [slides: <a href="./lectures/slides/12_Mass_Storage.pdf" target="_blank">PDF</a>] |
-| Lezione 23 | 18/12/2019 | File System: Interfaccia e Implementazione | [slides: <a href="./lectures/slides/13_File_System.pdf" target="_blank">PDF</a>] |
+| Lezioni 14 - 15 | 19/11/2019 - 22/11/2019 | Deadlock | [slides: <a href="../lectures/slides/08_Deadlock.pdf" target="_blank">PDF</a>] |
+| Lezione 16 | 26/11/2019 | Esercitazione I | [slides: <a href="../exercises/Questions_I.pdf" target="_blank">PDF</a>] |
+| Lezione 17 | 29/11/2019 | Gestione della Memoria (1) | [slides: <a href="../lectures/slides/09_Memory_Management.pdf" target="_blank">PDF</a>] |
+| Lezioni 18 - 19 | 03/12/2019 - 06/12/2019 | Gestione della Memoria (2) | [slides: <a href="../lectures/slides/10_Memory_Management_Paging.pdf" target="_blank">PDF</a>] |
+| Lezioni 20 - 21 | 10/12/2019 - 12/12/2019 | Memoria Virtuale | [slides: <a href="../lectures/slides/11_Virtual_Memory.pdf" target="_blank">PDF</a>] |
+| Lezione 22 | 17/12/2019 | Dispositivi di Memoria di Massa | [slides: <a href="../lectures/slides/12_Mass_Storage.pdf" target="_blank">PDF</a>] |
+| Lezione 23 | 18/12/2019 | File System: Interfaccia e Implementazione | [slides: <a href="../lectures/slides/13_File_System.pdf" target="_blank">PDF</a>] |
