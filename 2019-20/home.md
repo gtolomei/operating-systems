@@ -9,7 +9,7 @@ La prova si svolgerà dalle ore **15:00** alle ore **17:00**, e i dettagli con l
 Rinnovo l'invito ad iscriversi in modo **responsabile**, consapevoli del fatto che ogni eventuale assenza si ripercuoterebbe inevitabilmente sui propri colleghi e sull'organizzazione - già di per sé complicata - dell'intero appello.<br/>
 **NOTA:** _Si ricorda a tutti coloro che hanno già superato il primo modulo e che intendono sostenere il secondo modulo durante l'appello di settembre di iscriversi **anche** a questo appello per procedere con l'eventuale verbalizzazione dell'intero esame._<br/>
 - **Esiti IV Appello Scritto dello 08/07/2020**<br/>
-Gli esiti del IV appello scritto dello 08/07/2020 sono disponibili al seguente [link](./exams/2019-20/2020-07-08_esiti.pdf).
+Gli esiti del IV appello scritto dello 08/07/2020 sono disponibili al seguente [link](../exams/2019-20/2020-07-08_esiti.pdf).
 - **Verbalizzazione Esame**<br/>
 Si ricorda a tutti coloro che hanno superato entrambi i moduli del corso di Sistemi Operativi che per procedere all'effettiva verbalizzazione del voto **è necessario iscriversi a un appello su Infostud**. Contestualmente, gli studenti interessati dovranno **inviare un messaggio** [email al docente](mailto:tolomei@di.uniroma1.it) in cui si ricorda che il motivo dell'iscrizione all'esame è strettamente legato alla necessità di verbalizzare il proprio voto finale.
 - **IV Appello Scritto del 08/07/2020**<br/>
