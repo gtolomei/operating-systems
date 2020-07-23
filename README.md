@@ -1,6 +1,6 @@
 # Sistemi Operativi - I Modulo (2019-2020)
 
-[News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico)
+[News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
 - **V Appello Scritto del 09/09/2020**<br/>
@@ -158,3 +158,9 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 22 | 17/12/2019 | Dispositivi di Memoria di Massa | [slides: <a href="./lectures/slides/12_Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lezione 23 | 18/12/2019 | File System: Interfaccia e Implementazione | [slides: <a href="./lectures/slides/13_File_System.pdf" target="_blank">PDF</a>] |
 
+# Anni Precedenti
+In questa sezione è possibile accedere alle informazioni del corso relativamente agli anni accademici precedenti rispetto a quello corrente.
+
+**NOTA:** _La directory che include il materiale didattico è unica e il suo contenuto può subire modifiche o aggiornamenti di anno in anno; pertanto, è possibile che vi siano discrepanze tra ciò che è presente su questo sito e ciò che invece è stato mostrato in un determinato anno precedente._
+
+-   [2019-20](../oldest/2019-20.md)
