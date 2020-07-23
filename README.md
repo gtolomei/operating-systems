@@ -163,4 +163,4 @@ In questa sezione è possibile accedere alle informazioni del corso relativament
 
 **NOTA:** _La directory che include il materiale didattico è unica e il suo contenuto può subire modifiche o aggiornamenti di anno in anno; pertanto, è possibile che vi siano discrepanze tra ciò che è presente su questo sito e ciò che invece è stato mostrato in un determinato anno precedente._
 
--   [2019-20](../oldest/2019-20.md)
+-   [2019-20](./oldest/2019-20.md)
