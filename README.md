@@ -82,6 +82,10 @@ Questo repository contiene il materiale didattico del corso sottoforma di slide 
 ### Pagina Moodle del Corso
 Gli studenti devono registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=8017
 
+### Contatti Docente
+- Email: tolomei@di.uniroma1.it
+- Sito web: https://www.di.uniroma1.it/~tolomei
+
 ### Obiettivi del Corso
 I sistemi operativi sono parte essenziale di un sistema di calcolo e costituiscono l'esempio ideale di un concetto fondamentale e trasversale all'intero percorso di studio in Informatica, ossia quello dell'_astrazione_. 
 
