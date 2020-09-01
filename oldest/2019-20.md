@@ -72,8 +72,8 @@ Il corso si svolge al primo semestre del secondo anno della [Laurea Triennale in
 Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2019/20, limitatamente al II canale (M-Z).
 
 ### Orario delle Lezioni
-- **Martedì** dalle **17:00** alle **19:00** (Aula III - edificio MATEMATICA G. CASTELNUOVO [CU006])
-- **Venerdì** dalle **16:00** alle **19:00** (Aula III - edificio MATEMATICA G. CASTELNUOVO [CU006])
+- **Martedì** dalle **17:00** alle **19:00** (Aula III - Dipartimento di Matematica "G. Castelnuovo" [edificio CU006])
+- **Venerdì** dalle **16:00** alle **19:00** (Aula III - Dipartimento di Matematica "G. Castelnuovo" [edificio CU006])
 
 ### Orario di Ricevimento
 - **Giovedì** dalle **10:00** alle **12:00** in viale Regina Elena 295 c/o Palazzina G, III piano, stanza G49
