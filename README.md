@@ -76,7 +76,8 @@ Questo repository contiene il materiale didattico del corso sottoforma di slide 
 - **Venerdì** dalle **16:00** alle **19:00** (Aula III - Dipartimento di Matematica "G. Castelnuovo" [edificio CU006])
 
 ### Orario di Ricevimento
-- **Giovedì** dalle **10:00** alle **12:00** in viale Regina Elena 295 c/o Palazzina G, III piano, stanza G49
+- **Giovedì** dalle **10:00** alle **12:00** in viale Regina Elena 295 c/o Palazzina G, II piano, stanza G39<br>
+(_**NOTA**_: A causa dell'emergenza sanitaria tuttora in atto, i ricevimenti in presenza sono sospesi fino a nuova comunicazione. Tuttavia, è possibile richiedere l'appuntamento per un ricevimento a distanza via Google Meet o Zoom facendone esplicita richiesta via email all'indirizzo: mailto:tolomei@di.uniroma1.it)
 
 ### Pagina Moodle del Corso
 Gli studenti devono registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=8017
