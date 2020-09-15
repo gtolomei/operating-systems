@@ -23,7 +23,7 @@ Questo repository contiene il materiale didattico del corso sottoforma di slide 
 (**NOTA:** _A causa dell'emergenza sanitaria tuttora in atto, i ricevimenti in presenza sono sospesi fino a nuova comunicazione. Tuttavia, è possibile richiedere l'appuntamento per un ricevimento a distanza via Google Meet o Zoom facendone esplicita richiesta via email all'indirizzo:_ tolomei@di.uniroma1.it)
 
 ### Pagina Moodle del Corso
-Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=11838
+Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=11838
 
 ### Contatti Docente
 - Email: tolomei@di.uniroma1.it
@@ -40,7 +40,7 @@ Allo scopo di fornire tali basi, durante il corso verranno discussi alcuni conce
 I concetti generali previsti per il corso, ampiamente coperti dal materiale bibliografico consigliato, verranno discussi a lezione in maniera relativamente indipendente da specifici sistemi operativi. Essi saranno comunque esemplificati facendo riferimento a sistemi operativi noti e di utilizzo comune, come ad esempio UNIX/Linux, Windows, Mac, Android, iOS, etc.
 
 ### Modalità di Esame
-Per il superamento dell'esame è prevista una **prova scritta** a cui può far seguito una prova orale _facoltativa_. In altre parole, è possibile verbalizzare immediatamente il voto ottenuto allo scritto, ovviamente a patto che questo sia sufficiente (>= 18).
+Per il superamento dell'esame è prevista una **prova scritta**, basata su un quiz Moodle a risposta multipla. Tutti coloro che superano la prova scritta con un punteggio _compreso tra **15** e **17**_ (estremi inclusi) sono ammessi a sostenere la successiva **prova orale**. Coloro che, invece, ottengono un punteggio sufficiente (_maggiore o uguale a **18**_) alla prova scritta possono decidere di confermare il voto ottenuto **oppure** sostenere un'ulteriore prova orale integrativa.
 
 ### Libri di Testo Consigliati
 Sebbene non obbligatori ai fini del superamento dell'esame, i seguenti libri di testo (preferibilmente in lingua inglese) costituiscono una fonte utile per assimilare più approfonditamente i concetti esposti durante le lezioni:
