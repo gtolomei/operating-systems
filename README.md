@@ -3,7 +3,7 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
-- <b><u>IMPORTANTE:</u></b> Gli studenti che seguiranno le lezioni in **modalità a distanza** sono pregati di pazientare ancora un po': non appena tutte le istruzioni per l'accesso alle videoconferenze online verranno stabilite in modo definitivo dagli organi competenti, saranno rese disponibili immediatamente su questa pagina.
+- <u>IMPORTANTE:</u> Gli studenti che seguiranno le lezioni in **modalità a distanza** sono pregati di pazientare ancora un po': non appena tutte le istruzioni per l'accesso alle videoconferenze online verranno stabilite in modo definitivo dagli organi competenti, saranno rese disponibili immediatamente su questa pagina.
 - L'inizio delle lezioni del I semestre dell'a.a. 2020-21 è stato fissato per il giorno **~~23~~ 28 settembre 2020** (anziché 21 settembre come originariamente previsto), e l'orario è disponibile al seguente [link](https://www.studiareinformatica.uniroma1.it/laurea/orario-lezioni). Si invitano, inoltre, tutti gli studenti a prendere visione delle informazioni relative alla doppia modalità di svolgimento delle lezioni (in presenza e a distanza), pubblicate sulla [pagina web di Sapienza dedicata](https://www.uniroma1.it/it/notizia/covid-19-fase-3-lezioni-esami-e-lauree-presenza-e-distanza).
 - Si invitano tutti gli studenti intenzionati a frequentare il corso - sia in presenza che a distanza - ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso).
 
