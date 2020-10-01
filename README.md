@@ -31,6 +31,9 @@ Nel rispetto delle linee guida promosse dall'Ateneo per contrastare la cosiddett
 ### Pagina Moodle del Corso
 Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=11838
 
+### Google Meet (Aula Cabibbo)
+Gli studenti che desiderino seguire le lezioni a distanza **devono innanzitutto essere registrati alla pagina Moodle del corso**. La conferenza Google Meet (associata all'Aula Cabibbo) tramite cui partecipare all'attività didattica è raggiungibile al seguente link: https://meet.google.com/sfi-siup-ubd
+
 ### Contatti Docente
 - Email: tolomei@di.uniroma1.it
 - Sito web: https://www.di.uniroma1.it/~tolomei
