@@ -33,7 +33,7 @@ Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente 
 
 ### Google Meet (Aula Cabibbo)
 Gli studenti che desiderino seguire le lezioni a distanza **devono innanzitutto essere registrati alla pagina Moodle del corso**.<br>
-La conferenza Google Meet (associata all'Aula Cabibbo) tramite cui partecipare all'attività didattica è raggiungibile al seguente link: https://meet.google.com/sfi-siup-ubd
+La conferenza Google Meet tramite cui partecipare all'attività didattica è raggiungibile al seguente link: https://meet.google.com/sfi-siup-ubd
 
 ### Contatti Docente
 - Email: tolomei@di.uniroma1.it
