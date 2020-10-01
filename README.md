@@ -17,6 +17,9 @@ Il corso si svolge al primo semestre del secondo anno della [Laurea Triennale in
 
 Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2020/21, limitatamente al II canale (M-Z).
 
+### Modalità di Partecipazione al Corso
+Nel rispetto delle linee guida promosse dall'Ateneo per contrastare la cosiddetta fase 3 dell'epidemia COVID-19, per l'a.a. 2020-21 il corso si terrà in modalità _blended_ (sia in presenza che a distanza). Si invitano pertanto gli studenti a prendere visione del documento contenente le modalità di partecipazione al corso, disponibile al seguente [link](./extra/Linee_Guida_Didattica.md).
+
 ### Orario delle Lezioni
 - **Lunedì** dalle **15:00** alle **18:00** (Aula Cabibbo - Dipartimento di Fisica "E. Fermi" [edificio CU033])
 - **Mercoledì** dalle **14:00** alle **16:00** (Aula Cabibbo - Dipartimento di Fisica "E. Fermi" [edificio CU033])
@@ -32,9 +35,6 @@ Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente 
 - Email: tolomei@di.uniroma1.it
 - Sito web: https://www.di.uniroma1.it/~tolomei
 - Bacheca Sapienza: https://corsidilaurea.uniroma1.it/it/users/gabrieletolomeiuniroma1it
-
-### Modalità di Partecipazione al Corso
-Nel rispetto delle linee guida promosse dall'Ateneo per contrastare la cosiddetta fase 3 dell'epidemia COVID-19, per l'a.a. 2020-21 il corso si terrà in modalità _blended_ (sia in presenza che a distanza). Si invitano pertanto gli studenti a prendere visione del documento contenente le modalità di partecipazione al corso, disponibile al seguente [link](./extra/Linee_Guida_Didattica.md).
 
 ### Obiettivi del Corso
 I sistemi operativi sono parte essenziale di un sistema di calcolo e costituiscono l'esempio ideale di un concetto fondamentale e trasversale all'intero percorso di studio in Informatica, ossia quello dell'_astrazione_. 
