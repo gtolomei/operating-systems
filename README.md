@@ -100,8 +100,8 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 
 | Lezione \# | Data | Argomento                                     | Materiale      | 
 |------------|------|-----------------------------------------------|----------------|
-<!--| Lezione 1  | 24/09/2019 | Introduzione | [slides: <a href="./lectures/slides/01_Intro.pdf" target="_blank">PDF</a>] |
-| Lezione 2  | 27/09/2019 | Relazione tra Sistema Operativo e Hardware | [slides: <a href="./lectures/slides/02_OS_and_Computer_Architecture.pdf" target="_blank">PDF</a>]|
+| Lezione 1  | 05/10/2020 | Introduzione | [slides: <a href="./lectures/slides/01_Intro.pdf" target="_blank">PDF</a>] |
+<!--| Lezione 2  | 27/09/2019 | Relazione tra Sistema Operativo e Hardware | [slides: <a href="./lectures/slides/02_OS_and_Computer_Architecture.pdf" target="_blank">PDF</a>]|
 | Lezioni 3 - 4  | 01/10/2019 - 04/10/2019 | Struttura di un Sistema Operativo | [slides: <a href="./lectures/slides/03_OS_Structure.pdf" target="_blank">PDF</a>]|
 | Lezioni 5 - 6  | 08/10/2019 - 11/10/2019 | Processi | [slides: <a href="./lectures/slides/04_Processes.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
 | Lezione 7  | 15/10/2019 | Scheduling della CPU (1) | [slides: <a href="./lectures/slides/05_CPU_Scheduling_1.pdf" target="_blank">PDF</a>] |
