@@ -3,6 +3,7 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
+- **IMPORTANTE:** Si avvisano gli studenti che, a causa di un imprevisto, la lezione di **lunedì 12 ottobre** è **annullata**. Nei prossimi giorni seguiranno aggiornamenti sulla modalità di svolgimento delle lezioni successive.
 - **Linee Guida per la Partecipazione alle Lezioni:** In previsione dell'inizio delle lezioni, si invitano **tutti** gli studenti a prendere visione del documento contenente le linee guida per partecipare all'attività didattica del corso, disponibile al seguente [link](./extra/Linee_Guida_Didattica.md).
 - **NUOVO RINVIO INIZIO LEZIONI:** Si comunica che l'inizio delle lezioni del I semestre dell'a.a. 2020-21 è stato posticipato a **lunedì 5 ottobre**, in accordo con quanto pubblicato dal Preside sul [sito web della Facoltà](https://web.uniroma1.it/i3s/node/9341).
 - **IMPORTANTE:** Gli studenti che seguiranno le lezioni in **modalità a distanza** sono pregati di pazientare ancora un po': non appena tutte le istruzioni per l'accesso alle videoconferenze _online_ verranno stabilite in modo definitivo dagli organi competenti, saranno immediatamente rese disponibili sia su questa pagina che sulla [bacheca del docente](https://corsidilaurea.uniroma1.it/it/users/gabrieletolomeiuniroma1it).
