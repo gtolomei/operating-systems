@@ -22,6 +22,8 @@ Ulteriori dettagli e aggiornamenti sono disponibili al seguente link: https://ww
 ### _Premessa_
 Le lezioni a distanza si svolgeranno sulla piattaforma Google Meet, tramite un'apposita conferenza dedicata e accessibile **sempre** al seguente link: https://meet.google.com/sfi-siup-ubd
 
+**NOTA:** A partire **da lunedì 2 novembre**, le lezioni a distanza verranno erogate sulla piattaforma Zoom attraverso una conferenza dedicata raggiungibile **sempre** al seguente link: https://uniroma1.zoom.us/j/85144188982?pwd=d2ppdVU1dHArTEJYZjVZVTBLbXJVUT09. Il link alla conferenza Google Meet deve perciò considerarsi obsoleto.
+
 ### _Modalità di Partecipazione_
 Nelle ore immediatamente precedenti all'inizio di ogni lezione, riceverete un invito tramite Google Calendar sul vostro account istituzionale (<code>@studenti.uniroma1.it</code>) con il quale vi siete registrati alla [pagina Moodle del corso](https://elearning.uniroma1.it/course/view.php?id=11838). L'invito conterrà il link alla conferenza Google Meet sopraindicato, al quale potrete connettervi **senza bisogno di alcuna ulteriore autorizzazione** da parte del docente. 
 
