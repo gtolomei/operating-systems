@@ -3,7 +3,7 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
-- **RIPRISTINO LEZIONI:** Si avvisano gli studenti che, **a partire da lunedì 2 novembre**, le lezioni del corso torneranno a svolgersi **indipendentemente** da quelle del I canale. Coloro che desiderano seguire il corso in presenza dovranno, perciò, tornare a recarsi presso l'Aula Cabibbo dell'edificio "E. Fermi", mentre chi deciderà di partecipare alle lezioni in modalità a distanza potrà farlo collegandosi alla conferenza Google Meet dell'aula tramite il consueto [link](https://meet.google.com/sfi-siup-ubd). L'orario delle lezioni resta invariato: **lunedì** dalle **15:00** alle **18:00** e **mercoledì** dalle **14:00** alle **16:00**.
+- **RIPRISTINO LEZIONI:** Si avvisano gli studenti che, **a partire da lunedì 2 novembre**, le lezioni del corso torneranno a svolgersi **indipendentemente** da quelle del I canale. Coloro che desiderano seguire il corso in presenza dovranno, perciò, tornare a recarsi presso l'Aula Cabibbo dell'edificio "E. Fermi", mentre chi deciderà di partecipare alle lezioni in modalità a distanza potrà farlo collegandosi alla **conferenza Zoom** dell'aula utilizzando l'apposito [link](https://uniroma1.zoom.us/j/85144188982?pwd=d2ppdVU1dHArTEJYZjVZVTBLbXJVUT09).~~Google Meet dell'aula tramite il consueto [link](https://meet.google.com/sfi-siup-ubd).~~ L'orario delle lezioni resta invariato: **lunedì** dalle **15:00** alle **18:00** e **mercoledì** dalle **14:00** alle **16:00**.
 - **AGGIORNAMENTO:** Si avvisano gli studenti che, **a partire da mercoledì 14/10/2020 e a seguire fino a nuova comunicazione**, le lezioni del corso saranno unificate a quelle del I canale, tenute dal Prof. Melatti. Coloro che desiderano seguire il corso in presenza dovranno recarsi presso l'Aula III dell'edificio "Castelnuovo", nei giorni e negli orari corrispondenti alle lezioni del I canale. Tutti gli iscritti alla pagina Moodle del corso riceveranno comunque a breve ulteriori comunicazioni sulle modalità di fruizione del corso (sia a distanza che online). Per vostra comodità, si riporta il [link](https://www.studiareinformatica.uniroma1.it/corso-di-sistemi-operativi-i-ii-canale-m-z-aggiornamento-importante) dell'avviso sul sito web del dipartimento.
 - **IMPORTANTE:** Si avvisano gli studenti che, a causa di un imprevisto, **la lezione di lunedì 12/10/2020 è annullata**. Nei prossimi giorni seguiranno aggiornamenti sulla modalità di svolgimento delle lezioni successive.
 - **Linee Guida per la Partecipazione alle Lezioni:** In previsione dell'inizio delle lezioni, si invitano **tutti** gli studenti a prendere visione del documento contenente le linee guida per partecipare all'attività didattica del corso, disponibile al seguente [link](./extra/Linee_Guida_Didattica.md).
@@ -34,9 +34,12 @@ Nel rispetto delle linee guida promosse dall'Ateneo per contrastare la cosiddett
 ### Pagina Moodle del Corso
 Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=11838
 
-### Google Meet (Aula Cabibbo)
-Gli studenti che desiderino seguire le lezioni a distanza **devono innanzitutto essere registrati alla pagina Moodle del corso**.<br>
-La conferenza Google Meet per partecipare all'attività didattica è raggiungibile al seguente link: https://meet.google.com/sfi-siup-ubd
+### Zoom (Aula Cabibbo)
+La conferenza Zoom per partecipare all'attività didattica a distanza è raggiungibile al seguente link: https://uniroma1.zoom.us/j/85144188982?pwd=d2ppdVU1dHArTEJYZjVZVTBLbXJVUT09
+
+~~### Google Meet (Aula Cabibbo)~~
+~~Gli studenti che desiderino seguire le lezioni a distanza **devono innanzitutto essere registrati alla pagina Moodle del corso**.<br>
+La conferenza Google Meet per partecipare all'attività didattica a distanza è raggiungibile al seguente link: https://meet.google.com/sfi-siup-ubd~~
 
 ### Contatti Docente
 - Email: tolomei@di.uniroma1.it
