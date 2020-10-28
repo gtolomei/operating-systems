@@ -22,7 +22,7 @@ Ulteriori dettagli e aggiornamenti sono disponibili al seguente link: https://ww
 ### _Premessa_
 Le lezioni a distanza si svolgeranno sulla piattaforma Google Meet, tramite un'apposita conferenza dedicata e accessibile **sempre** al seguente link: https://meet.google.com/sfi-siup-ubd
 
-**NOTA:** A partire **da lunedì 2 novembre**, le lezioni a distanza verranno erogate sulla piattaforma Zoom attraverso una conferenza dedicata raggiungibile **sempre** al seguente link: https://uniroma1.zoom.us/j/85144188982?pwd=d2ppdVU1dHArTEJYZjVZVTBLbXJVUT09. Il link alla conferenza Google Meet deve perciò considerarsi obsoleto.
+**AGGIORNAMENTO:** A partire **da lunedì 2 novembre**, le lezioni a distanza verranno erogate sulla piattaforma Zoom attraverso una conferenza dedicata raggiungibile **sempre** al seguente link: https://uniroma1.zoom.us/j/85144188982?pwd=d2ppdVU1dHArTEJYZjVZVTBLbXJVUT09. Il link alla conferenza Google Meet deve perciò considerarsi obsoleto.
 
 ### _Modalità di Partecipazione_
 Nelle ore immediatamente precedenti all'inizio di ogni lezione, riceverete un invito tramite Google Calendar sul vostro account istituzionale (<code>@studenti.uniroma1.it</code>) con il quale vi siete registrati alla [pagina Moodle del corso](https://elearning.uniroma1.it/course/view.php?id=11838). L'invito conterrà il link alla conferenza Google Meet sopraindicato, al quale potrete connettervi **senza bisogno di alcuna ulteriore autorizzazione** da parte del docente. 
@@ -34,6 +34,8 @@ Coloro che, allo stato attuale, non sono ancora in possesso di un account istitu
 Trascorse le prime due settimane, per controllare in modo più efficace gli accessi alla conferenza Google Meet, chi farà richiesta di connessione senza ricevere l'apposito invito (perché non ancora iscritto/a alla pagina Moodle del corso) **non** verrà autorizzato/a a partecipare alla lezione. La ragione di questa restrizione è quella di fornire una migliore esperienza didattica a tutti e soli coloro che siano realmente interessati a seguire il corso: tale manifestazione di interesse si dimostra esclusivamente registrandosi alla pagina Moodle del corso.<br>
 [**NOTA:** _chi si è regolarmente iscritto alla pagina Moodle del corso con il proprio account istituzionale_(<code>@studenti.uniroma1.it</code>) _ma, per errore, tenterà di accedere alla conferenza utilizzando un altro account (ad es., quello personale Google) non potrà accedere automaticamente alla conferenza e la sua richiesta di partecipazione non verrà accolta._]
 
+**AGGIORNAMENTO:** Con il passaggio da Google Meet a Zoom, **non** verranno più inoltrati inviti tramite Google Calendar: per assistere alla didattica in modalità a distanza sarà infatti sufficiente collegarsi al [link](https://uniroma1.zoom.us/j/85144188982?pwd=d2ppdVU1dHArTEJYZjVZVTBLbXJVUT09) della conferenza Zoom nei giorni e negli orari corrispondenti alle lezioni.
+
 ### _Codice di condotta_
 Benché il link della conferenza Google Meet sia pubblico, vale innanzitutto la pena ricordare che questo è associato a un'aula fisica (nello specifico, l'Aula Cabibbo). Pertanto, al di fuori dell'orario delle lezioni stabilito per il nostro corso - ossia il **lunedì dalle 15 alle 18** e il **mercoledì dalle 14 alle 16** - collegandosi allo stesso link potreste innavvertitamente accedere a lezioni di altri corsi (a patto, ovviamente, che il docente responsabile accetti esplicitamente la vostra richiesta di connessione).
 
@@ -43,6 +45,8 @@ Per cercare di mantenere un livello di interattività che sia il più possibile 
 Una volta terminato il proprio intervento, lo studente deve ricordarsi di **spegnere nuovamente il microfono**.
 
 Infine, malgrado confidi nel senso di rispetto per gli sforzi che tutti noi come comunità "Sapienza" (docenti, personale TAB e studenti) stiamo facendo per rispondere alle sfide che questo periodo storico ci impone, vi ricordo che il solo fatto di assistere a una lezione a distanza non autorizza a tenere atteggiamenti diversi da quelli che si dovrebbero riscontrare in aula. Di conseguenza, qualsiasi atto di inciviltà, maleducazione o comportamento volutamente irrispettoso nei confronti degli altri studenti e del docente verrà adeguatamente segnalato e **il docente si riserva il diritto di rimuovere dalla conferenza coloro che dovessero causare disturbo o disagio al resto dei partecipanti**.
+
+**AGGIORNAMENTO:** Il codice di condotta resta invariato anche per l'accesso alla conferenza Zoom.
 
 ## DISCLAIMER
 Si ricorda che tutte le lezioni verranno registrate e rese disponibili per essere consultate _offline_ secondo le modalità che verranno specificate dal docente. Lo studente che parteciperà alle lezioni (sia in presenza che a distanza) si **impegna consapevolmente ad autorizzare** l'acquisizione, l'utilizzo, la pubblicazione e la diffusione di immagini/video che lo/la ritraggono, nonché le registrazioni audio raccolte nell'ambito di cui sopra.
