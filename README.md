@@ -38,9 +38,9 @@ Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente 
 ### Zoom (Aula Cabibbo)
 La conferenza Zoom per partecipare all'attività didattica a distanza è raggiungibile al seguente link: https://uniroma1.zoom.us/j/85144188982?pwd=d2ppdVU1dHArTEJYZjVZVTBLbXJVUT09
 
-### Google Meet (Aula Cabibbo) [deprecato]
-~~Gli studenti che desiderino seguire le lezioni a distanza **devono innanzitutto essere registrati alla pagina Moodle del corso**.<br>
-La conferenza Google Meet per partecipare all'attività didattica a distanza è raggiungibile al seguente link: https://meet.google.com/sfi-siup-ubd~~
+<h3><strike>Google Meet (Aula Cabibbo)</strike> [deprecato]</h3>
+<strike>Gli studenti che desiderino seguire le lezioni a distanza **devono innanzitutto essere registrati alla pagina Moodle del corso**.<br>
+La conferenza Google Meet per partecipare all'attività didattica a distanza è raggiungibile al seguente link: https://meet.google.com/sfi-siup-ubd</strike>
 
 ### Contatti Docente
 - Email: tolomei@di.uniroma1.it
