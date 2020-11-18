@@ -118,8 +118,8 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezioni 9 e 10 | 02/11/2020 - 04/11/2020 | Threads | [slides: <a href="./lectures/slides/06_Threads.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
 | Lezioni 11 e 12 | 09/11/2020 - 11/11/2020 | Sincronizzazione tra Processi/Thread (1) | [slides: <a href="./lectures/slides/07_Synchronization_1.pdf" target="_blank">PDF</a>]|
 | Lezione 13 | 16/11/2020 | Sincronizzazione tra Processi/Thread (2) | [slides: <a href="./lectures/slides/07_Synchronization_2.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
-<!--| Lezioni 14 - 15 | 19/11/2019 - 22/11/2019 | Deadlock | [slides: <a href="./lectures/slides/08_Deadlock.pdf" target="_blank">PDF</a>] |
-| Lezione 16 | 26/11/2019 | Esercitazione I | [slides: <a href="./exercises/Questions_I.pdf" target="_blank">PDF</a>] |
+| Lezione 14 | 18/11/2020 | Deadlock | [slides: <a href="./lectures/slides/08_Deadlock.pdf" target="_blank">PDF</a>] |
+<!--| Lezione 16 | 26/11/2019 | Esercitazione I | [slides: <a href="./exercises/Questions_I.pdf" target="_blank">PDF</a>] |
 | Lezione 17 | 29/11/2019 | Gestione della Memoria (1) | [slides: <a href="./lectures/slides/09_Memory_Management.pdf" target="_blank">PDF</a>] |
 | Lezioni 18 - 19 | 03/12/2019 - 06/12/2019 | Gestione della Memoria (2) | [slides: <a href="./lectures/slides/10_Memory_Management_Paging.pdf" target="_blank">PDF</a>] |
 | Lezioni 20 - 21 | 10/12/2019 - 12/12/2019 | Memoria Virtuale | [slides: <a href="./lectures/slides/11_Virtual_Memory.pdf" target="_blank">PDF</a>] |
