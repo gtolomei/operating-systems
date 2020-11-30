@@ -122,8 +122,8 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 14 | 18/11/2020 | Deadlock | [slides: <a href="./lectures/slides/08_Deadlock.pdf" target="_blank">PDF</a>] |
 | Lezione 15 | 23/11/2020 | Gestione della Memoria (1) | [slides: <a href="./lectures/slides/09_Memory_Management.pdf" target="_blank">PDF</a>] |
 | Lezione 16 | 25/11/2020 | Gestione della Memoria (2) | [slides: <a href="./lectures/slides/10_Memory_Management_Paging.pdf" target="_blank">PDF</a>] |
-<!--| Lezioni 18 - 19 | 03/12/2019 - 06/12/2019 | Gestione della Memoria (2) | [slides: <a href="./lectures/slides/10_Memory_Management_Paging.pdf" target="_blank">PDF</a>] |
-| Lezioni 20 - 21 | 10/12/2019 - 12/12/2019 | Memoria Virtuale | [slides: <a href="./lectures/slides/11_Virtual_Memory.pdf" target="_blank">PDF</a>] |
+| Lezioni 17 - 18 | 30/11/2020 - 02/12/2020 | Memoria Virtuale | [slides: <a href="./lectures/slides/11_Virtual_Memory.pdf" target="_blank">PDF</a>] |
+<!--| Lezioni 20 - 21 | 10/12/2019 - 12/12/2019 | Memoria Virtuale | [slides: <a href="./lectures/slides/11_Virtual_Memory.pdf" target="_blank">PDF</a>] |
 | Lezione 22 | 17/12/2019 | Dispositivi di Memoria di Massa | [slides: <a href="./lectures/slides/12_Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lezione 23 | 18/12/2019 | File System: Interfaccia e Implementazione | [slides: <a href="./lectures/slides/13_File_System.pdf" target="_blank">PDF</a>] |-->
 
