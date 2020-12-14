@@ -98,11 +98,11 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 - Implementazione del file system
 - Sistemi di I/O
 
-**Concetti avanzati**
-- Protezione
-- Sicurezza
-- Sistemi distribuiti
-- Sistemi per dispositivi mobili
+<strike>**Concetti avanzati**</strike> (cancellato causa ritardo emergenza COVID-19)
+- ~~Protezione~~
+- ~~Sicurezza~~
+- ~~Sistemi distribuiti~~
+- ~~Sistemi per dispositivi mobili~~
 
 <hr>
 
