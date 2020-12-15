@@ -98,7 +98,7 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 - Implementazione del file system
 - Sistemi di I/O
 
-<strike>**Concetti avanzati**</strike> (cancellato causa ritardo emergenza COVID-19)
+<strike>**Concetti avanzati**</strike> (cancellato causa emergenza COVID-19)
 - ~~Protezione~~
 - ~~Sicurezza~~
 - ~~Sistemi distribuiti~~
