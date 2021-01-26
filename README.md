@@ -4,7 +4,7 @@
 
 ## News
 - **Esiti I Appello Scritto del 26/01/2021**<br/>
-Gli esiti del I appello scritto del 26/01/2021 sono disponibili al seguente [link](../exams/2020-21/2021-01-26_esiti.pdf).
+Gli esiti del I appello scritto del 26/01/2021 sono disponibili al seguente [link](./exams/2020-21/2021-01-26_esiti.pdf).
 - **I Appello Scritto del 26/01/2021 + II Appello Scritto del 16/02/2021**<br/>
 Le prove scritte relative al I e II appello dell'a.a. 2020/21 si svolgeranno rispettivamente **martedì 26/01/2021** e **martedì 16/02/2021** mediante quiz a risposta multipla su piattaforma Moodle **in modalità a distanza**, secondo i criteri previsti dal [Decreto Rettorale n. 1141/2020](https://www.uniroma1.it/it/documento/procedura-straordinaria-conseguente-allemergenza-sanitaria-covid-19-lo-svolgimento-degli).<br/>
 È già possibile iscriversi a entrambi gli appelli su Infostud (verbale **748520** e **748522**).<br/>
