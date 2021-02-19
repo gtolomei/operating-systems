@@ -3,8 +3,8 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
-<!--- **II Appello Orale del 18/02/2021**<br/>
-Le prove orali del II appello si svolgeranno **giovedì 18/02/2021** a partire dalle **ore 9:30** in modalità a distanza su piattaforma Google Meet.-->
+- **II Appello Orale del 18/02/2021**<br/>
+Le prove orali del II appello si svolgeranno **giovedì 18/02/2021** a partire dalle **ore 9:30** in modalità a distanza su piattaforma Google Meet.
 - **Esiti II Appello Scritto del 16/02/2021**<br/>
 Gli esiti del II appello scritto del 16/02/2021 sono disponibili al seguente [link](./exams/2020-21/2021-02-16_esiti.pdf).
 - **I Appello Orale del 29/01/2021**<br/>
