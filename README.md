@@ -37,22 +37,22 @@ Il corso si svolge al primo semestre del secondo anno della [Laurea Triennale in
 
 Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2020/21, limitatamente al II canale (M-Z).
 
-### Modalità di Partecipazione al Corso
-Nel rispetto delle linee guida promosse dall'Ateneo per contrastare la cosiddetta fase 3 dell'epidemia COVID-19, per l'a.a. 2020-21 il corso si terrà in modalità _blended_ (sia in presenza che a distanza). Si invitano pertanto gli studenti a prendere visione del documento contenente le modalità di partecipazione al corso, disponibile al seguente [link](./extra/Linee_Guida_Didattica.md).
-
 ### Orario delle Lezioni
 - **Lunedì** dalle **15:00** alle **18:00** (Aula Cabibbo - Dipartimento di Fisica "E. Fermi" [edificio CU033])
 - **Mercoledì** dalle **14:00** alle **16:00** (Aula Cabibbo - Dipartimento di Fisica "E. Fermi" [edificio CU033])
 
-### Pagina Moodle del Corso
-Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=11838
+### Modalità di Partecipazione al Corso
+Nel rispetto delle linee guida promosse dall'Ateneo per contrastare la cosiddetta fase 3 dell'epidemia COVID-19, per l'a.a. 2020-21 il corso si terrà in modalità _blended_ (sia in presenza che a distanza). Si invitano pertanto gli studenti a prendere visione del documento contenente le modalità di partecipazione al corso, disponibile al seguente [link](./extra/Linee_Guida_Didattica.md).
 
-### Zoom (Aula Cabibbo)
+#### Zoom (Aula Cabibbo)
 La conferenza Zoom per partecipare all'attività didattica a distanza è raggiungibile al seguente link: https://uniroma1.zoom.us/j/85144188982?pwd=d2ppdVU1dHArTEJYZjVZVTBLbXJVUT09
 
 <h3><strike>Google Meet (Aula Cabibbo)</strike> [deprecato]</h3>
 <strike>Gli studenti che desiderino seguire le lezioni a distanza <b>devono innanzitutto essere registrati alla pagina Moodle del corso</b>.<br>
 La conferenza Google Meet per partecipare all'attività didattica a distanza è raggiungibile al seguente link: https://meet.google.com/sfi-siup-ubd</strike>
+
+### Pagina Moodle del Corso
+Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=11838
 
 ### Orario di Ricevimento
 - **Martedì** dalle **14:00** alle **16:00** presso la stanza G39 situata al II piano della Palazzina G di viale Regina Elena 295<br>
