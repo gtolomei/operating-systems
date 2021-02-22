@@ -44,10 +44,6 @@ Nel rispetto delle linee guida promosse dall'Ateneo per contrastare la cosiddett
 - **Lunedì** dalle **15:00** alle **18:00** (Aula Cabibbo - Dipartimento di Fisica "E. Fermi" [edificio CU033])
 - **Mercoledì** dalle **14:00** alle **16:00** (Aula Cabibbo - Dipartimento di Fisica "E. Fermi" [edificio CU033])
 
-### Orario di Ricevimento
-- **Martedì** dalle **14:00** alle **16:00** presso la stanza G39 situata al II piano della Palazzina G di viale Regina Elena 295<br>
-(**NOTA:** _A causa dell'emergenza sanitaria tuttora in atto, i ricevimenti in presenza sono sospesi fino a nuova comunicazione. Tuttavia, è possibile richiedere l'appuntamento per un ricevimento a distanza via Google Meet o Zoom facendone esplicita richiesta via email all'indirizzo:_ tolomei@di.uniroma1.it)
-
 ### Pagina Moodle del Corso
 Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=11838
 
@@ -57,6 +53,10 @@ La conferenza Zoom per partecipare all'attività didattica a distanza è raggiun
 <h3><strike>Google Meet (Aula Cabibbo)</strike> [deprecato]</h3>
 <strike>Gli studenti che desiderino seguire le lezioni a distanza <b>devono innanzitutto essere registrati alla pagina Moodle del corso</b>.<br>
 La conferenza Google Meet per partecipare all'attività didattica a distanza è raggiungibile al seguente link: https://meet.google.com/sfi-siup-ubd</strike>
+
+### Orario di Ricevimento
+- **Martedì** dalle **14:00** alle **16:00** presso la stanza G39 situata al II piano della Palazzina G di viale Regina Elena 295<br>
+(**NOTA:** _A causa dell'emergenza sanitaria tuttora in atto, i ricevimenti in presenza sono sospesi fino a nuova comunicazione. Tuttavia, è possibile richiedere l'appuntamento per un ricevimento a distanza via Google Meet o Zoom facendone esplicita richiesta via email all'indirizzo:_ tolomei@di.uniroma1.it)
 
 ### Contatti Docente
 - Email: tolomei@di.uniroma1.it
