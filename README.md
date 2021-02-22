@@ -47,7 +47,7 @@ Nel rispetto delle linee guida promosse dall'Ateneo per contrastare la cosiddett
 #### Zoom (Aula Cabibbo)
 La conferenza Zoom per partecipare all'attività didattica a distanza è raggiungibile al seguente link: https://uniroma1.zoom.us/j/85144188982?pwd=d2ppdVU1dHArTEJYZjVZVTBLbXJVUT09
 
-<h3><strike>Google Meet (Aula Cabibbo)</strike> [deprecato]</h3>
+<h4><strike>Google Meet (Aula Cabibbo)</strike> [deprecato]</h4>
 <strike>Gli studenti che desiderino seguire le lezioni a distanza <b>devono innanzitutto essere registrati alla pagina Moodle del corso</b>.<br>
 La conferenza Google Meet per partecipare all'attività didattica a distanza è raggiungibile al seguente link: https://meet.google.com/sfi-siup-ubd</strike>
 
