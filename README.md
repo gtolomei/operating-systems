@@ -3,6 +3,9 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
+- **Appello Sessione Straordinaria del 12/04/2021**<br/>
+Si avvisano gli studenti che hanno presentato la richiesta per sostenere l'esame durante la sessione straordinaria di marzo/aprile che è possibile prenotarsi nell'apposito appello disponibile su Infostud (verbale **762152**) **entro venerdì 09/04/2021**.<br/>
+La data della prova scritta, che si svolgerà **in modalità a distanza**, è fissata per **lunedì 12/04/2021** dalle ore **09:30** alle ore **10:30**.<br/>
 - **II Appello Orale del 18/02/2021**<br/>
 Le prove orali del II appello si svolgeranno **giovedì 18/02/2021** a partire dalle **ore 9:30** in modalità a distanza su piattaforma Google Meet.
 - **Esiti II Appello Scritto del 16/02/2021**<br/>
