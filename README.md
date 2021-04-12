@@ -3,8 +3,8 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
-<!--- **Esiti Appello Straordinario Scritto del 12/04/2021**<br/>
-Gli esiti dell'appello straordinario scritto del 12/04/2021 sono disponibili al seguente [link](./exams/2020-21/2021-04-12_esiti.pdf).-->
+- **Esiti Appello Straordinario Scritto del 12/04/2021**<br/>
+Gli esiti dell'appello straordinario scritto del 12/04/2021 sono disponibili al seguente [link](./exams/2020-21/2021-04-12_esiti.pdf).
 - **Appello Sessione Straordinaria del 12/04/2021**<br/>
 Si avvisano gli studenti che hanno presentato la richiesta per sostenere l'esame durante la sessione straordinaria di marzo/aprile che è possibile prenotarsi nell'apposito appello disponibile su Infostud (verbale **762152**) **entro venerdì 09/04/2021**.<br/>
 La data della prova scritta, che si svolgerà **in modalità a distanza**, è fissata per **lunedì 12/04/2021** dalle ore **09:30** alle ore **10:30**.<br/>
