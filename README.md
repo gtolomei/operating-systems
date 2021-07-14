@@ -3,6 +3,10 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
+- **Esiti Appello Scritto del 14/07/2021**<br/>
+Gli esiti dell'appello scritto del 14/07/2021 sono disponibili al seguente [link](./exams/2020-21/2021-07-14_esiti.pdf).
+- **Esiti Appello Scritto del 23/06/2021**<br/>
+Gli esiti dell'appello scritto del 23/06/2021 sono disponibili al seguente [link](./exams/2020-21/2021-06-23_esiti.pdf).
 - **III Appello Scritto del 23/06/2021 + IV Appello Scritto del 14/07/2021**<br/>
 Le prove scritte relative al III e IV appello dell'a.a. 2020/21 si svolgeranno rispettivamente **mercoledì 23/06/2021** e **mercoledì 14/07/2021** mediante quiz a risposta multipla su piattaforma Moodle **in modalità a distanza**. I candidati impossibilitati a sostenere l'esame a distanza dovranno fare richiesta di sostenere la prova in presenza **almeno 14 giorni prima** della data stabilita per la prova.<br/>
 È già possibile iscriversi a entrambi gli appelli su Infostud (verbale **765570** e **765575**).<br/>
