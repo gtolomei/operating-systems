@@ -3,6 +3,8 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
+<!-- - **Esiti Appello Scritto dello 08/09/2021**<br/>
+Gli esiti dell'appello scritto dello 08/09/2021 sono disponibili al seguente [link](./exams/2020-21/2021-09-08_esiti.pdf).-->
 - **V Appello Scritto dello 08/09/2021**<br/>
 La prova scritta relativa al V appello dell'a.a. 2020/21 si svolgerà **mercoledì 08/09/2021** mediante quiz a risposta multipla su piattaforma Moodle.<br/>
 Allo stato attuale, la prova si terrà **in presenza** presso l'**Aula 15** dei Laboratori Informatici di via Tiburtina n. 205, a partire dalle ore 14:00. L'orario effettivo di inizio della prova verrà tuttavia comunicato sulla base delle adesioni e, di conseguenza, dell'eventuale necessità di suddividere l'esame su più turni. Eventuali modifiche dovute all'emergenza sanitaria tuttora in atto saranno comunicate tempestivamente sui soliti canali (sito web e pagina Moodle del corso).<br/>
