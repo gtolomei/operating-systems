@@ -3,6 +3,8 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
+- **Esiti Appello Scritto Straordinario del 14/10/2021**<br/>
+Gli esiti dell'appello scritto straordinario del 14/10/2021 sono disponibili al seguente [link](./exams/2020-21/2021-10-14_esiti.pdf).
 - **Esiti Appello Scritto dello 08/09/2021**<br/>
 Gli esiti dell'appello scritto dello 08/09/2021 sono disponibili al seguente [link](./exams/2020-21/2021-09-08_esiti.pdf).
 - **V Appello Scritto dello 08/09/2021**<br/>
