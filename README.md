@@ -12,7 +12,7 @@ Benvenuti sul sito web del corso di Sistemi Operativi - I Modulo!
 
 Il corso si svolge al primo semestre del secondo anno della [Laurea Triennale in Informatica della Sapienza Università di Roma](https://www.studiareinformatica.uniroma1.it/laurea).
 
-Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2022/23, limitatamente al I canale (A-L).
+Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2022-23, limitatamente al I canale (A-L).
 
 ### Orario delle Lezioni
 - **Martedì** dalle **15:00** alle **18:00** (Aula Magna - Edificio "C" c/o Viale Regina Elena, 295 [[map](https://goo.gl/maps/KWri4cvHFkDZmqyA8)]) 
