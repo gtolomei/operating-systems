@@ -35,7 +35,7 @@ I ricevimenti in presenza si terranno nell'ufficio del docente, presso la stanza
 - Email: tolomei@di.uniroma1.it
 - Sito web: https://www.di.uniroma1.it/~tolomei
 - Bacheca Sapienza: https://corsidilaurea.uniroma1.it/it/users/gabrieletolomeiuniroma1it
-- Stanza 106 I piano edificio "E" c/o Viale Regina Elena, 295 ([map](https://goo.gl/maps/5dSuQbvaeqXePV9y6))
+- Ufficio: stanza 106 I piano edificio "E" c/o Viale Regina Elena, 295 ([map](https://goo.gl/maps/5dSuQbvaeqXePV9y6))
 
 ### Obiettivi del Corso
 I sistemi operativi sono parte essenziale di un sistema di calcolo e costituiscono l'esempio ideale di un concetto fondamentale e trasversale all'intero percorso di studio in Informatica, ossia quello dell'_astrazione_. 
