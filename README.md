@@ -1,54 +1,10 @@
-# Sistemi Operativi - I Modulo (2020-2021)
+# Sistemi Operativi - I Modulo - 2022-2023 (Canale A-L)
 
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
-- **Esiti Appello Scritto Straordinario del 14/10/2021**<br/>
-Gli esiti dell'appello scritto straordinario del 14/10/2021 sono disponibili al seguente [link](./exams/2020-21/2021-10-14_esiti.pdf).
-- **Esiti Appello Scritto dello 08/09/2021**<br/>
-Gli esiti dell'appello scritto dello 08/09/2021 sono disponibili al seguente [link](./exams/2020-21/2021-09-08_esiti.pdf).
-- **V Appello Scritto dello 08/09/2021**<br/>
-La prova scritta relativa al V appello dell'a.a. 2020/21 si svolgerà **mercoledì 08/09/2021** mediante quiz a risposta multipla su piattaforma Moodle.<br/>
-Allo stato attuale, la prova si terrà **in presenza** presso l'**Aula 15** dei Laboratori Informatici di via Tiburtina n. 205, a partire dalle ore 14:00. L'orario effettivo di inizio della prova verrà tuttavia comunicato sulla base delle adesioni e, di conseguenza, dell'eventuale necessità di suddividere l'esame su più turni. Eventuali modifiche dovute all'emergenza sanitaria tuttora in atto saranno comunicate tempestivamente sui soliti canali (sito web e pagina Moodle del corso).<br/>
-È possibile iscriversi all'appello su Infostud (verbale **777856**) **entro lunedì 06/09/2021**.<br/>
-- **Esiti Appello Scritto del 14/07/2021**<br/>
-Gli esiti dell'appello scritto del 14/07/2021 sono disponibili al seguente [link](./exams/2020-21/2021-07-14_esiti.pdf).
-- **Esiti Appello Scritto del 23/06/2021**<br/>
-Gli esiti dell'appello scritto del 23/06/2021 sono disponibili al seguente [link](./exams/2020-21/2021-06-23_esiti.pdf).
-- **III Appello Scritto del 23/06/2021 + IV Appello Scritto del 14/07/2021**<br/>
-Le prove scritte relative al III e IV appello dell'a.a. 2020/21 si svolgeranno rispettivamente **mercoledì 23/06/2021** e **mercoledì 14/07/2021** mediante quiz a risposta multipla su piattaforma Moodle **in modalità a distanza**. I candidati impossibilitati a sostenere l'esame a distanza dovranno fare richiesta di sostenere la prova in presenza **almeno 14 giorni prima** della data stabilita per la prova.<br/>
-È già possibile iscriversi a entrambi gli appelli su Infostud (verbale **765570** e **765575**).<br/>
-[___NOTA:__ I dettagli circa l'orario delle prove e le istruzioni su come accedervi, verranno forniti non appena sarà definito il numero di turni necessari sulla base delle iscrizioni pervenute entro il termine previsto._]<br/>
-- **Esiti Appello Straordinario Scritto del 12/04/2021**<br/>
-Gli esiti dell'appello straordinario scritto del 12/04/2021 sono disponibili al seguente [link](./exams/2020-21/2021-04-12_esiti.pdf).
-- **Appello Sessione Straordinaria del 12/04/2021**<br/>
-Si avvisano gli studenti che hanno presentato la richiesta per sostenere l'esame durante la sessione straordinaria di marzo/aprile che è possibile prenotarsi nell'apposito appello disponibile su Infostud (verbale **762152**) **entro venerdì 09/04/2021**.<br/>
-La data della prova scritta, che si svolgerà **in modalità a distanza**, è fissata per **lunedì 12/04/2021** dalle ore **09:30** alle ore **10:30**.<br/>
-- **II Appello Orale del 18/02/2021**<br/>
-Le prove orali del II appello si svolgeranno **giovedì 18/02/2021** a partire dalle **ore 9:30** in modalità a distanza su piattaforma Google Meet.
-- **Esiti II Appello Scritto del 16/02/2021**<br/>
-Gli esiti del II appello scritto del 16/02/2021 sono disponibili al seguente [link](./exams/2020-21/2021-02-16_esiti.pdf).
-- **I Appello Orale del 29/01/2021**<br/>
-Le prove orali del I appello si svolgeranno **venerdì 29/01/2021** a partire dalle **ore 9:00** in modalità a distanza su piattaforma Google Meet.
-- **Esiti I Appello Scritto del 26/01/2021**<br/>
-Gli esiti del I appello scritto del 26/01/2021 sono disponibili al seguente [link](./exams/2020-21/2021-01-26_esiti.pdf).
-- **I Appello Scritto del 26/01/2021 + II Appello Scritto del 16/02/2021**<br/>
-Le prove scritte relative al I e II appello dell'a.a. 2020/21 si svolgeranno rispettivamente **martedì 26/01/2021** e **martedì 16/02/2021** mediante quiz a risposta multipla su piattaforma Moodle **in modalità a distanza**, secondo i criteri previsti dal [Decreto Rettorale n. 1141/2020](https://www.uniroma1.it/it/documento/procedura-straordinaria-conseguente-allemergenza-sanitaria-covid-19-lo-svolgimento-degli).<br/>
-È già possibile iscriversi a entrambi gli appelli su Infostud (verbale **748520** e **748522**).<br/>
-Al fine di stabilire l'eventuale necessità di suddividere un appello in più turni, sarà doveroso conoscere il numero di iscritti alla prova con un sufficiente margine di anticipo. Pertanto, la chiusura delle iscrizioni su Infostud avverrà **6 giorni prima** della data degli appelli (**mercoledì 20/01/2021** e **mercoledì 10/02/2021**, rispettivamente), diversamente da quanto accade di solito per gli esami in presenza. Ciò detto, invito comunque gli studenti a iscriversi consapevoli del fatto che ogni eventuale assenza si ripercuoterebbe inevitabilmente sui propri colleghi e sull'organizzazione - già di per sé complicata - dell'intero appello.<br/>
-[___NOTA:__ I dettagli circa l'orario delle prove e le istruzioni su come accedervi, verranno forniti non appena sarà definito il numero di turni necessari sulla base delle iscrizioni pervenute entro il termine previsto._]<br/>
-- **LEZIONE DI RECUPERO:** Si avvisano gli studenti che il giorno **lunedì 21 dicembre** dalle **ore 15** alle **ore 18** si svolgerà una lezione di recupero da remoto su piattaforma Zoom, secondo le consuete modalità di accesso introdotte a seguito della sospensione dell'attività didattica in presenza.
-- **REGISTRAZIONE MEETING ZOOM:** In previsione della sospensione dell'attività didattica in presenza, per poter partecipare alle lezioni erogate **esclusivamente a distanza** dovrete registrarvi utilizzando il **vostro account istituzionale** (```@studenti.uniroma1.it```) al seguente link Zoom: https://uniroma1.zoom.us/meeting/register/tZcsfuGvrTIqHdFee0ThS9W1d0JTnjQgNO **entro lunedì 9 novembre**.
-- **SOSPENSIONE ATTIVITÀ DIDATTICA IN PRESENZA:** In ottemperanza al [Decreto Rettorale N. 2772/2020](https://www.uniroma1.it/it/notizia/covid-19-fase-3-lezioni-esami-e-lauree-presenza-e-distanza) emanato a seguito del DPCM del 3 novembre 2020, si comunica che, a partire dalla prossima lezione fissata per **lunedì 9 novembre** e per tutta la durata di validità del decreto (fino al 3 dicembre 2020, salvo eventuali nuove comunicazioni), il corso verrà erogato **esclusivamente in modalità a distanza**. A breve, seguiranno informazioni più dettagliate sulle modalità di accesso alle lezioni online.
-- **PASSAGGIO A PIATTAFORMA ZOOM:** Come già preannunciato, **a partire da lunedì 2 novembre** le lezioni in modalità a distanza saranno fruibili attraverso la piattaforma [Zoom](https://zoom.us/) anziché su Google Meet. Pertanto, si invitano tutti gli studenti interessati a collegarsi all'apposito [link](https://uniroma1.zoom.us/j/85144188982?pwd=d2ppdVU1dHArTEJYZjVZVTBLbXJVUT09) nei giorni e negli orari corrispondenti alle lezioni.  
-- **RIPRISTINO LEZIONI:** Si avvisano gli studenti che, **a partire da lunedì 2 novembre**, le lezioni del corso torneranno a svolgersi **indipendentemente** da quelle del I canale. Coloro che desiderano seguire il corso in presenza dovranno, perciò, tornare a recarsi presso l'Aula Cabibbo dell'edificio "E. Fermi", mentre chi deciderà di partecipare alle lezioni in modalità a distanza potrà farlo collegandosi alla **conferenza Zoom** dell'aula utilizzando l'apposito [link](https://uniroma1.zoom.us/j/85144188982?pwd=d2ppdVU1dHArTEJYZjVZVTBLbXJVUT09). L'orario delle lezioni resta invariato: **lunedì** dalle **15:00** alle **18:00** e **mercoledì** dalle **14:00** alle **16:00**.
-- **AGGIORNAMENTO:** Si avvisano gli studenti che, **a partire da mercoledì 14/10/2020 e a seguire fino a nuova comunicazione**, le lezioni del corso saranno unificate a quelle del I canale, tenute dal Prof. Melatti. Coloro che desiderano seguire il corso in presenza dovranno recarsi presso l'Aula III dell'edificio "Castelnuovo", nei giorni e negli orari corrispondenti alle lezioni del I canale. Tutti gli iscritti alla pagina Moodle del corso riceveranno comunque a breve ulteriori comunicazioni sulle modalità di fruizione del corso (sia a distanza che online). Per vostra comodità, si riporta il [link](https://www.studiareinformatica.uniroma1.it/corso-di-sistemi-operativi-i-ii-canale-m-z-aggiornamento-importante) dell'avviso sul sito web del dipartimento.
-- **IMPORTANTE:** Si avvisano gli studenti che, a causa di un imprevisto, **la lezione di lunedì 12/10/2020 è annullata**. Nei prossimi giorni seguiranno aggiornamenti sulla modalità di svolgimento delle lezioni successive.
-- **Linee Guida per la Partecipazione alle Lezioni:** In previsione dell'inizio delle lezioni, si invitano **tutti** gli studenti a prendere visione del documento contenente le linee guida per partecipare all'attività didattica del corso, disponibile al seguente [link](./extra/Linee_Guida_Didattica.md).
-- **NUOVO RINVIO INIZIO LEZIONI:** Si comunica che l'inizio delle lezioni del I semestre dell'a.a. 2020-21 è stato posticipato a **lunedì 05/10/2020**, in accordo con quanto pubblicato dal Preside sul [sito web della Facoltà](https://web.uniroma1.it/i3s/node/9341).
-- **IMPORTANTE:** Gli studenti che seguiranno le lezioni in **modalità a distanza** sono pregati di pazientare ancora un po': non appena tutte le istruzioni per l'accesso alle videoconferenze _online_ verranno stabilite in modo definitivo dagli organi competenti, saranno immediatamente rese disponibili sia su questa pagina che sulla [bacheca del docente](https://corsidilaurea.uniroma1.it/it/users/gabrieletolomeiuniroma1it).
-- L'inizio delle lezioni del I semestre dell'a.a. 2020-21 è stato fissato per il giorno **~~23~~ 28/09/2020** (anziché 21/09 come originariamente previsto), e l'orario è disponibile al seguente [link](https://www.studiareinformatica.uniroma1.it/laurea/orario-lezioni). Si invitano, inoltre, tutti gli studenti a prendere visione delle informazioni relative alla doppia modalità di svolgimento delle lezioni (in presenza e a distanza), pubblicate sulla [pagina web di Sapienza dedicata](https://www.uniroma1.it/it/notizia/covid-19-fase-3-lezioni-esami-e-lauree-presenza-e-distanza).
-- Si invitano tutti gli studenti intenzionati a frequentare il corso - sia in presenza che a distanza - ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso).
+- L'inizio delle lezioni è fissato per il giorno **27/09/2022**, e l'orario completo degli insegnamenti del I semestre a.a. 2022-23 è disponibile al seguente [link](https://www.studiareinformatica.uniroma1.it/laurea/orario-lezioni).<br/>
+- Si invitano tutti gli studenti intenzionati a frequentare il corso ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso). Inoltre, si ricorda di compilare l'apposito [form](https://forms.gle/HUmkR14znPhZQ46Q9) per consentire il tracciamento delle presenze in aula, [così come riportato sotto](#Modalita-di-Partecipazione-al-Corso). 
 
 ## Informazioni Generali
 
@@ -56,28 +12,22 @@ Benvenuti sul sito web del corso di Sistemi Operativi - I Modulo!
 
 Il corso si svolge al primo semestre del secondo anno della [Laurea Triennale in Informatica della Sapienza Università di Roma](https://www.studiareinformatica.uniroma1.it/laurea).
 
-Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2020/21, limitatamente al II canale (M-Z).
+Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2022/23, limitatamente al I canale (A-L).
 
 ### Orario delle Lezioni
-- **Lunedì** dalle **15:00** alle **18:00** (Aula Cabibbo - Dipartimento di Fisica "E. Fermi" [edificio CU033])
-- **Mercoledì** dalle **14:00** alle **16:00** (Aula Cabibbo - Dipartimento di Fisica "E. Fermi" [edificio CU033])
+- **Martedì** dalle **15:00** alle **18:00** (Aula Magna - Edificio "C" c/o Viale Regina Elena, 295) (map)[https://goo.gl/maps/KWri4cvHFkDZmqyA8]
+- **Giovedì** dalle **13:00** alle **15:00** (Aula Magna - Edificio "C" c/o Viale Regina Elena, 295) (map)[https://goo.gl/maps/KWri4cvHFkDZmqyA8]
 
 ### Modalità di Partecipazione al Corso
-Nel rispetto delle linee guida promosse dall'Ateneo per contrastare la cosiddetta fase 3 dell'epidemia COVID-19, per l'a.a. 2020-21 il corso si terrà in modalità _blended_ (sia in presenza che a distanza). Si invitano pertanto gli studenti a prendere visione del documento contenente le modalità di partecipazione al corso, disponibile al seguente [link](./extra/Linee_Guida_Didattica.md).
+Come indicato dalle politiche di prevenzione e gestione del rischio COVID-19, Sapienza mantiene in vigore la necessità di tracciare la presenza degli studenti in aula. A tale scopo, i corsi di laurea di Informatica, Applied Computer Science and Artificial Intelligence e Computer Science hanno predisposto ciascuno un Google Form dedicato che può essere compilato in qualsiasi momento (prima, durante o dopo la lezione). 
 
-#### Zoom (Aula Cabibbo)
-La conferenza Zoom per partecipare all'attività didattica a distanza è raggiungibile al seguente link: https://uniroma1.zoom.us/j/85144188982?pwd=d2ppdVU1dHArTEJYZjVZVTBLbXJVUT09
-
-<h4><strike>Google Meet (Aula Cabibbo)</strike> [deprecato]</h4>
-<strike>Gli studenti che desiderino seguire le lezioni a distanza <b>devono innanzitutto essere registrati alla pagina Moodle del corso</b>.<br>
-La conferenza Google Meet per partecipare all'attività didattica a distanza è raggiungibile al seguente link: https://meet.google.com/sfi-siup-ubd</strike>
+Il tracciamento della presenza ha l'obiettivo di salvaguardare la salute degli studenti, nonché di tutta la comunità Sapienza. Pertanto, ringraziando fin da ora gli studenti per la collaborazione, si raccomanda di **compilare il form per ogni lezione a cui si partecipa**. Il form di segnalazione presenza in aula per il Corso di Laurea in Informatica si trova al seguente [link](https://forms.gle/HUmkR14znPhZQ46Q9).
 
 ### Pagina Moodle del Corso
-Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=11838
+Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=15523
 
 ### Orario di Ricevimento
-- **Martedì** dalle **14:00** alle **16:00** presso la stanza G39 situata al II piano della Palazzina G di viale Regina Elena 295<br>
-(**NOTA:** _A causa dell'emergenza sanitaria tuttora in atto, i ricevimenti in presenza sono sospesi fino a nuova comunicazione. Tuttavia, è possibile richiedere l'appuntamento per un ricevimento a distanza via Google Meet o Zoom facendone esplicita richiesta via email all'indirizzo:_ tolomei@di.uniroma1.it)
+- Per garantire la massima flessibilità, è preferibile concordare con il docente un ricevimento su appuntamento (in presenza o a distanza). Si prega di inviare la propria richiesta via email all'indirizzo: tolomei@di.uniroma1.it, indicando come soggetto "_SO-I 2022-23: Ricevimento_".
 
 ### Contatti Docente
 - Email: tolomei@di.uniroma1.it
@@ -132,11 +82,11 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 - Implementazione del file system
 - Sistemi di I/O
 
-<strike>**Concetti avanzati**</strike> (cancellato causa emergenza COVID-19)
-- ~~Protezione~~
-- ~~Sicurezza~~
-- ~~Sistemi distribuiti~~
-- ~~Sistemi per dispositivi mobili~~
+**Concetti avanzati**
+- Protezione
+- Sicurezza
+- Sistemi distribuiti
+- Sistemi per dispositivi mobili
 
 <hr>
 
@@ -144,7 +94,7 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 
 | Lezione \# | Data | Argomento                                     | Materiale      | 
 |------------|------|-----------------------------------------------|----------------|
-| Lezione 1  | 05/10/2020 | Introduzione | [slides: <a href="./lectures/slides/01_Intro.pdf" target="_blank">PDF</a>] |
+<!--| Lezione 1  | 05/10/2020 | Introduzione | [slides: <a href="./lectures/slides/01_Intro.pdf" target="_blank">PDF</a>] |
 | Lezione 2  | 07/10/2020 | Relazione tra Sistema Operativo e Macchina Fisica | [slides: <a href="./lectures/slides/02_OS_and_Computer_Architecture.pdf" target="_blank">PDF</a>]|
 | Lezione 3 | 12/10/2020 | Struttura di un Sistema Operativo | [slides: <a href="./lectures/slides/03_OS_Structure.pdf" target="_blank">PDF</a>]|
 | Lezione 4  | 14/10/2020 | Processi | [slides: <a href="./lectures/slides/04_Processes.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
@@ -160,6 +110,7 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezioni 19 - 20 | 07/12/2020 - 09/12/2020 | Dispositivi di Memoria di Massa | [slides: <a href="./lectures/slides/12_Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lezione 21 | 14/12/2020 | File System: Interfaccia e Implementazione | [slides: <a href="./lectures/slides/13_File_System.pdf" target="_blank">PDF</a>] |
 | Lezioni 22 - 23 - 24 | 16/12/2020 - 21/12/2020 - 23/12/2020 | Esercitazioni | |
+-->
 
 # Anni Precedenti
 In questa sezione è possibile accedere alle informazioni del corso relativamente agli anni accademici precedenti rispetto a quello corrente.
