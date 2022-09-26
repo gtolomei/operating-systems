@@ -27,7 +27,7 @@ Il tracciamento della presenza ha l'obiettivo di salvaguardare la salute degli s
 Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=15523
 
 ### Orario di Ricevimento
-- Per garantire la massima flessibilità, è preferibile concordare con il docente un ricevimento su appuntamento (in presenza o a distanza). Si prega di inviare la propria richiesta via email all'indirizzo: tolomei@di.uniroma1.it, indicando come soggetto "_SO-I 2022-23: Ricevimento_".<br/> 
+Per garantire la massima flessibilità, è preferibile concordare con il docente un ricevimento su appuntamento (in presenza o a distanza). Si prega di inviare la propria richiesta via email all'indirizzo: tolomei@di.uniroma1.it, indicando come soggetto "_SO-I 2022-23: Ricevimento_".<br/> 
 I ricevimenti in presenza si terranno nell'ufficio del docente, presso la stanza 106 al I piano dell'edificio "E" situato in Viale Regina Elena, 295 ([map](https://goo.gl/maps/5dSuQbvaeqXePV9y6)).
 
 
