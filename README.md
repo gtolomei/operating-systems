@@ -4,7 +4,7 @@
 
 ## News
 - L'inizio delle lezioni è fissato per il giorno **27/09/2022**, e l'orario completo degli insegnamenti del I semestre a.a. 2022-23 è disponibile al seguente [link](https://www.studiareinformatica.uniroma1.it/orario-delle-lezioni).<br/>
-- Si invitano tutti gli studenti intenzionati a frequentare il corso ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso). Inoltre, si ricorda di compilare l'apposito <a href="https://forms.gle/HUmkR14znPhZQ46Q9" target="_blank">form</a> per consentire il tracciamento delle presenze in aula, [come riportato sotto](#Modalità-di-Partecipazione-al-Corso). 
+- Si invitano tutti gli studenti intenzionati a frequentare il corso ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso). Inoltre, si ricorda di compilare l'apposito <a href="https://forms.gle/HUmkR14znPhZQ46Q9" target="blank_">form</a> per consentire il tracciamento delle presenze in aula, [come riportato sotto](#Modalità-di-Partecipazione-al-Corso). 
 
 ## Informazioni Generali
 
