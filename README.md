@@ -51,7 +51,7 @@ I concetti generali previsti per il corso, ampiamente coperti dal materiale bibl
 Per il superamento dell'esame è prevista una **prova scritta**, basata su un quiz Moodle a risposta multipla. Tutti coloro che superano la prova scritta con un punteggio _compreso tra **15** e **17**_ (estremi inclusi) sono ammessi, nonché **obbligati**, a sostenere la successiva **prova orale**. Coloro che, invece, ottengono un punteggio sufficiente (_maggiore o uguale a **18**_) alla prova scritta possono decidere di confermare il voto ottenuto **oppure** sostenere un'ulteriore prova orale integrativa opzionale.
 
 ### Testi Consigliati
-Sebbene non obbligatori ai fini del superamento dell'esame, i seguenti libri di testo (preferibilmente in lingua inglese) costituiscono una fonte utile per assimilare più approfonditamente i concetti esposti durante le lezioni:
+Sebbene **non** obbligatori ai fini del superamento dell'esame, i seguenti libri di testo (preferibilmente in lingua inglese) costituiscono una fonte utile per assimilare più approfonditamente i concetti esposti durante le lezioni:
 - _Operating System Concepts_ [Silberschatz _et al._];
 - _Modern Operating Systems_ [Tanenbaum _et al._];
 - _Operating Systems: Three Easy Pieces_ [Remzi] (<a href="http://pages.cs.wisc.edu/~remzi/OSTEP/" target="_blank">disponibile gratuitamente online</a>).
