@@ -15,8 +15,8 @@ Il corso si svolge al primo semestre del secondo anno della [Laurea Triennale in
 Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2022-23, limitatamente al I canale (A-L).
 
 ### Orario delle Lezioni
-- **Martedì** dalle **15:00** alle **18:00** (Aula Magna - Edificio "C" c/o Viale Regina Elena, 295 [map](https://goo.gl/maps/KWri4cvHFkDZmqyA8)) 
-- **Giovedì** dalle **13:00** alle **15:00** (Aula Magna - Edificio "C" c/o Viale Regina Elena, 295) [map](https://goo.gl/maps/KWri4cvHFkDZmqyA8)) 
+- **Martedì** dalle **15:00** alle **18:00** (Aula Magna - Edificio "C" c/o Viale Regina Elena, 295 [[map](https://goo.gl/maps/KWri4cvHFkDZmqyA8)]) 
+- **Giovedì** dalle **13:00** alle **15:00** (Aula Magna - Edificio "C" c/o Viale Regina Elena, 295) [[map](https://goo.gl/maps/KWri4cvHFkDZmqyA8)]) 
 
 ### Modalità di Partecipazione al Corso
 Come indicato dalle politiche di prevenzione e gestione del rischio COVID-19, Sapienza mantiene in vigore la necessità di tracciare la presenza degli studenti in aula. A tale scopo, i corsi di laurea di Informatica, Applied Computer Science and Artificial Intelligence e Computer Science hanno predisposto ciascuno un Google Form dedicato che può essere compilato in qualsiasi momento (prima, durante o dopo la lezione). 
