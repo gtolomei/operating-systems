@@ -66,30 +66,36 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 <hr>
 
 ## Syllabus
-**Introduzione**
+**Parte I: Introduzione**
 - Concetti di base
 - Storia dei sistemi operativi
 - Relazione tra macchina fisica (HW) e sistemi operativi
 - Struttura dei sistemi operativi
 
-**Gestione dei Processi**
+**Parte II: Gestione dei Processi**
 - Processi
 - CPU Scheduling
 - Threads
-- Sincronizzazione
+
+**Parte III: Sincronizzazione tra Processi/Thread**
+- Strumenti per la Sincronizzazione
+- Esempi di Sincronizzazione
 - Deadlock
 
-**Gestione della memoria**
-- Memoria principale (RAM)
-- Memoria virtuale
+**Parte IV: Gestione della Memoria**
+- Memoria Principale (RAM)
+- Memoria Virtuale
 
-**Gestione dei sistemi di I/O**
-- Dispositivi di memoria di massa
-- Interfaccia del file system
-- Implementazione del file system
+**Parte V: Gestione dei Sistemi di I/O**
+- Dispositivi di Memoria di Massa
 - Sistemi di I/O
 
-**Concetti avanzati**
+**Parte VI: File System**
+- Interfaccia del File System
+- Implementazione del File System
+- Struttura del File System
+
+**Parte VII: Advanced Topics**
 - Protezione
 - Sicurezza
 - Sistemi distribuiti
