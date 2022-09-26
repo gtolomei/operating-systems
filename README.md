@@ -4,7 +4,7 @@
 
 ## News
 - L'inizio delle lezioni è fissato per il giorno **27/09/2022**, e l'orario completo degli insegnamenti del I semestre a.a. 2022-23 è disponibile al seguente [link](https://www.studiareinformatica.uniroma1.it/orario-delle-lezioni).<br/>
-- Si invitano tutti gli studenti intenzionati a frequentare il corso ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso). Inoltre, si ricorda di compilare l'apposito <a href="https://forms.gle/HUmkR14znPhZQ46Q9" target="blank_">form</a> per consentire il tracciamento delle presenze in aula, [come riportato sotto](#Modalità-di-Partecipazione-al-Corso). 
+- Si invitano tutti gli studenti intenzionati a frequentare il corso ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso). Inoltre, si ricorda di compilare l'apposito <a href="https://forms.gle/HUmkR14znPhZQ46Q9" target="_blank">form</a> per consentire il tracciamento delle presenze in aula, [come riportato sotto](#Modalità-di-Partecipazione-al-Corso). 
 
 ## Informazioni Generali
 
@@ -15,8 +15,8 @@ Il corso si svolge al primo semestre del secondo anno della [Laurea Triennale in
 Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2022-23, limitatamente al I canale (A-L).
 
 ### Orario delle Lezioni
-- **Martedì** dalle **15:00** alle **18:00** (Aula Magna - Edificio "C" c/o Viale Regina Elena, 295 [<a href="https://goo.gl/maps/KWri4cvHFkDZmqyA8" target="blank_">map</a>]) 
-- **Giovedì** dalle **13:00** alle **15:00** (Aula Magna - Edificio "C" c/o Viale Regina Elena, 295) [<a href="https://goo.gl/maps/KWri4cvHFkDZmqyA8" target="blank_">map</a>])
+- **Martedì** dalle **15:00** alle **18:00** (Aula Magna - Edificio "C" c/o Viale Regina Elena, 295 [<a href="https://goo.gl/maps/KWri4cvHFkDZmqyA8" target="_blank">map</a>]) 
+- **Giovedì** dalle **13:00** alle **15:00** (Aula Magna - Edificio "C" c/o Viale Regina Elena, 295) [<a href="https://goo.gl/maps/KWri4cvHFkDZmqyA8" target="_blank">map</a>])
 
 ### Modalità di Partecipazione al Corso
 Come indicato dalle politiche di prevenzione e gestione del rischio COVID-19, Sapienza mantiene in vigore la necessità di tracciare la presenza degli studenti in aula. A tale scopo, i corsi di laurea di Informatica, Applied Computer Science and Artificial Intelligence e Computer Science hanno predisposto ciascuno un Google Form dedicato che può essere compilato in qualsiasi momento (prima, durante o dopo la lezione). 
