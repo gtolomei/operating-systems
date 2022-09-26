@@ -4,7 +4,7 @@
 
 ## News
 - Si invitano tutti gli studenti intenzionati a frequentare il corso ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso). Inoltre, si ricorda di compilare l'apposito [form](https://forms.gle/HUmkR14znPhZQ46Q9) per consentire il tracciamento delle presenze in aula, [come riportato sotto](#Modalità-di-Partecipazione-al-Corso).<br/>
-- L'inizio delle lezioni è fissato per il giorno **martedì 27 settembre 2022**, e l'orario completo degli insegnamenti del I semestre a.a. 2022-23 è disponibile al seguente [link](https://www.studiareinformatica.uniroma1.it/orario-delle-lezioni).
+- L'inizio delle lezioni è fissato per il giorno **martedì 27 settembre 2022**, e l'orario completo degli insegnamenti del I semestre a.a. 2022-2023 è disponibile al seguente [link](https://www.studiareinformatica.uniroma1.it/orario-delle-lezioni).
 
 ## Informazioni Generali
 
@@ -12,7 +12,7 @@ Benvenuti sul sito web del corso di Sistemi Operativi - I Modulo!
 
 Il corso si svolge al primo semestre del secondo anno della [Laurea Triennale in Informatica della Sapienza Università di Roma](https://www.studiareinformatica.uniroma1.it/laurea).
 
-Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2022-23, limitatamente al I canale (A-L).
+Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2022-2023, limitatamente al I canale (A-L).
 
 ### Orario delle Lezioni
 - **Martedì** dalle **15:00** alle **18:00** (Aula Magna - Edificio "C" c/o Viale Regina Elena, 295 [[map](https://goo.gl/maps/KWri4cvHFkDZmqyA8)]) 
