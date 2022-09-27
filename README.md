@@ -15,7 +15,7 @@ Il corso si svolge al primo semestre del secondo anno della [Laurea Triennale in
 Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2022-23, limitatamente al I canale (A-L).
 
 ### Orario delle Lezioni
-- **Martedì** dalle **15:00** alle **18:00** (Aula Magna - Edificio "C" c/o Viale Regina Elena, 295 [[map](https://goo.gl/maps/KWri4cvHFkDZmqyA8)]) 
+- **Martedì** dalle **16:00** alle **19:00** (Aula I - Edificio "V. Caglioti" c/o Dipartimento di Chimica [[map](https://goo.gl/maps/EtRwnoZbxySaRW6dA)])
 - **Giovedì** dalle **13:00** alle **15:00** (Aula Magna - Edificio "C" c/o Viale Regina Elena, 295) [[map](https://goo.gl/maps/KWri4cvHFkDZmqyA8)]) 
 
 ### Modalità di Partecipazione al Corso
