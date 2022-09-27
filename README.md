@@ -1,4 +1,4 @@
-# Sistemi Operativi - I Modulo - 2022-23 (Canale A-L)
+# Sistemi Operativi I - 2022-23 (Canale A-L)
 
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
