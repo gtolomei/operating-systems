@@ -3,6 +3,7 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
+- **IMPORTANTE:** La lezione prevista per **giovedì 29 settembre dalle ore 13:00 alle ore 15:00** è stata annullata. Pertanto, il corso inizierà ufficialmente a partire dal giorno **martedì 4 ottobre dalle ore 16:00 alle ore 19:00** in Aula I "V. Caglioti".
 - Si invitano tutti gli studenti intenzionati a frequentare il corso ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso). Inoltre, si ricorda di compilare l'apposito [Google Form](https://forms.gle/HUmkR14znPhZQ46Q9) per consentire il tracciamento delle presenze in aula, [come riportato sotto](#Modalità-di-Partecipazione-al-Corso).<br/>
 - L'inizio delle lezioni è fissato per il giorno **martedì 27 settembre 2022**, e l'orario completo degli insegnamenti del I semestre a.a. 2022-23 è disponibile al seguente [link](https://www.studiareinformatica.uniroma1.it/orario-delle-lezioni).
 
