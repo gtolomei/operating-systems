@@ -17,7 +17,7 @@ Questo repository contiene il materiale didattico del corso sottoforma di slide 
 
 ### Orario delle Lezioni
 - **Martedì** dalle **16:00** alle **19:00** (Aula I - Edificio "V. Caglioti" c/o Dipartimento di Chimica [[map](https://goo.gl/maps/EtRwnoZbxySaRW6dA)])
-- **Giovedì** dalle **13:00** alle **15:00** (Aula Magna - Edificio "C" c/o Viale Regina Elena, 295) [[map](https://goo.gl/maps/KWri4cvHFkDZmqyA8)]) 
+- **Giovedì** dalle **14:00** alle **16:00** (Aula T1 - Città Universitaria) [[map](https://goo.gl/maps/2Xbb9EXpprEza4DWA)]) 
 
 ### Modalità di Partecipazione al Corso
 Come indicato dalle politiche di prevenzione e gestione del rischio COVID-19, Sapienza mantiene in vigore la necessità di tracciare la presenza degli studenti in aula. A tale scopo, i corsi di laurea di Informatica, Applied Computer Science and Artificial Intelligence e Computer Science hanno predisposto ciascuno un Google Form dedicato che può essere compilato in qualsiasi momento (prima, durante o dopo la lezione). 
