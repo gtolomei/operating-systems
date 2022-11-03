@@ -116,9 +116,9 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 6  | 20/10/2022 | Scheduling della CPU (Parte I) | [slides: <a href="./lectures/slides/06_CPU_Scheduling_1.pdf" target="_blank">PDF</a>] |
 | Lezione 7  | 25/10/2022 | Scheduling della CPU (Parte II) | [slides: <a href="./lectures/slides/06_CPU_Scheduling_1.pdf" target="_blank">PDF</a>] |
 | Lezione 8  | 27/10/2022 | Scheduling della CPU (Parte III) | [slides: <a href="./lectures/slides/07_CPU_Scheduling_2.pdf" target="_blank">PDF</a>] |
-<!--| Lezioni 7 e 8 | 26/10/2020 - 28/10/2020 | Scheduling della CPU (2) | [slides: <a href="./lectures/slides/05_CPU_Scheduling_2.pdf" target="_blank">PDF</a>]|
-| Lezioni 9 e 10 | 02/11/2020 - 04/11/2020 | Threads | [slides: <a href="./lectures/slides/06_Threads.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
-| Lezioni 11 e 12 | 09/11/2020 - 11/11/2020 | Sincronizzazione tra Processi/Thread (1) | [slides: <a href="./lectures/slides/07_Synchronization_1.pdf" target="_blank">PDF</a>]|
+| Lezione 9  | 03/11/2022 | Threads (Parte I) | [slides: <a href="./lectures/slides/08_Threads.pdf" target="_blank">PDF</a>] |
+| Lezione 10  | 08/11/2022 | Threads (Parte II) | [slides: <a href="./lectures/slides/08_Threads.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
+<!--| Lezioni 11 e 12 | 09/11/2020 - 11/11/2020 | Sincronizzazione tra Processi/Thread (1) | [slides: <a href="./lectures/slides/07_Synchronization_1.pdf" target="_blank">PDF</a>]|
 | Lezione 13 | 16/11/2020 | Sincronizzazione tra Processi/Thread (2) | [slides: <a href="./lectures/slides/07_Synchronization_2.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
 | Lezione 14 | 18/11/2020 | Deadlock | [slides: <a href="./lectures/slides/08_Deadlock.pdf" target="_blank">PDF</a>] |
 | Lezione 15 | 23/11/2020 | Gestione della Memoria (1) | [slides: <a href="./lectures/slides/09_Memory_Management.pdf" target="_blank">PDF</a>] |
