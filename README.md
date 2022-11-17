@@ -119,7 +119,7 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 9  | 03/11/2022 | Threads (Parte I) | [slides: <a href="./lectures/slides/08_Threads.pdf" target="_blank">PDF</a>] |
 | Lezione 10  | 08/11/2022 | Threads (Parte II) | [slides: <a href="./lectures/slides/08_Threads.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
 | Lezione 11 | 10/11/2022 | Sincronizzazione tra Processi/Thread (Locks) | [slides: <a href="./lectures/slides/09_Synchronization_Locks.pdf" target="_blank">PDF</a>]|
-| Lezione 12 | 15/11/2022 | Sincronizzazione tra Processi/Thread (Semafori e Monitor) | [slides: <a href="./lectures/slides/10_Synchronization_Semaphores_Monitors.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
+| Lezioni 12-13 | 15/11/2022-17/11/2022  | Sincronizzazione tra Processi/Thread (Semafori e Monitor) | [slides: <a href="./lectures/slides/10_Synchronization_Semaphores_Monitors.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
 <!--| Lezione 14 | 18/11/2020 | Deadlock | [slides: <a href="./lectures/slides/08_Deadlock.pdf" target="_blank">PDF</a>] |
 | Lezione 15 | 23/11/2020 | Gestione della Memoria (1) | [slides: <a href="./lectures/slides/09_Memory_Management.pdf" target="_blank">PDF</a>] |
 | Lezione 16 | 25/11/2020 | Gestione della Memoria (2) | [slides: <a href="./lectures/slides/10_Memory_Management_Paging.pdf" target="_blank">PDF</a>] |
