@@ -3,6 +3,8 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
+- **Lezione del 6/12/2022**<br/>
+La lezione si svolgerà **esclusivamente da remoto** su piattaforma Zoom all'orario previsto, ossia **dalle 16:00 alle 19:00**. Per poter partecipare alla lezione, dovrete seguire le istruzioni contenute nell'apposito messaggio inviato sul forum Moodle.
 - **II Appello Scritto del 7/2/2023**<br/>
 La prova d'esame scritta relativa al II appello dell'a.a. 2022-23 si svolgerà **martedì 7/2/2023** dalle ore **14:00** alle ore **15:00** presso l'**Aula 16** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**851328**), **entro e non oltre il 3/2/2023**.<br/>
 [_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
