@@ -132,9 +132,10 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezioni 12-13 | 15/11/2022-17/11/2022  | Sincronizzazione tra Processi/Thread (Semafori e Monitor) | [slides: <a href="./lectures/slides/10_Synchronization_Semaphores_Monitors.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
 | Lezioni 14-15 | 22/11/2022-24/11/2022 | Deadlock | [slides: <a href="./lectures/slides/11-12_Deadlock.pdf" target="_blank">PDF</a>] |
 | Lezione 16 | 29/11/2022 | Gestione della Memoria: Binding e Rilocazione | [slides: <a href="./lectures/slides/13_Memory_Management_Binding_and_Relocation.pdf" target="_blank">PDF</a>] |
-<!--| Lezione 16 | 25/11/2020 | Gestione della Memoria (2) | [slides: <a href="./lectures/slides/10_Memory_Management_Paging.pdf" target="_blank">PDF</a>] |
-| Lezioni 17 - 18 | 30/11/2020 - 02/12/2020 | Memoria Virtuale | [slides: <a href="./lectures/slides/11_Virtual_Memory.pdf" target="_blank">PDF</a>] |
-| Lezioni 19 - 20 | 07/12/2020 - 09/12/2020 | Dispositivi di Memoria di Massa | [slides: <a href="./lectures/slides/12_Mass_Storage.pdf" target="_blank">PDF</a>] |
+| Lezione 17 | 01/12/2022 | Gestione della Memoria: Allocazione Contigua e Paginata | [slides: <a href="./lectures/slides/14-15_Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
+| Lezione 18 | 06/12/2022 | Gestione della Memoria: Paginazione Avanzata (Segmentazione) | [slides: <a href="./lectures/slides/16_Advanced_Paging.pdf" target="_blank">PDF</a>] |
+| Lezioni 18 - 19 | 06/12/2022 - 13/12/2022 | Memoria Virtuale | [slides: <a href="./lectures/slides/17-18_Virtual_Memory.pdf" target="_blank">PDF</a>] |
+<!--| Lezioni 19 - 20 | 07/12/2020 - 09/12/2020 | Dispositivi di Memoria di Massa | [slides: <a href="./lectures/slides/12_Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lezione 21 | 14/12/2020 | File System: Interfaccia e Implementazione | [slides: <a href="./lectures/slides/13_File_System.pdf" target="_blank">PDF</a>] |
 | Lezioni 22 - 23 - 24 | 16/12/2020 - 21/12/2020 - 23/12/2020 | Esercitazioni | |
 -->
