@@ -134,9 +134,9 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 16 | 29/11/2022 | Gestione della Memoria: Binding e Rilocazione | [slides: <a href="./lectures/slides/13_Memory_Management_Binding_and_Relocation.pdf" target="_blank">PDF</a>] |
 | Lezione 17 | 01/12/2022 | Gestione della Memoria: Allocazione Contigua e Paginata | [slides: <a href="./lectures/slides/14-15_Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
 | Lezione 18 | 06/12/2022 | Gestione della Memoria: Paginazione Avanzata (Segmentazione) | [slides: <a href="./lectures/slides/16_Advanced_Paging.pdf" target="_blank">PDF</a>] |
-| Lezioni 18 - 19 | 06/12/2022 - 13/12/2022 | Memoria Virtuale | [slides: <a href="./lectures/slides/17-18_Virtual_Memory.pdf" target="_blank">PDF</a>] |
-<!--| Lezioni 19 - 20 | 07/12/2020 - 09/12/2020 | Dispositivi di Memoria di Massa | [slides: <a href="./lectures/slides/12_Mass_Storage.pdf" target="_blank">PDF</a>] |
-| Lezione 21 | 14/12/2020 | File System: Interfaccia e Implementazione | [slides: <a href="./lectures/slides/13_File_System.pdf" target="_blank">PDF</a>] |
+| Lezioni 19 - 20 | 06/12/2022 - 13/12/2022 | Memoria Virtuale | [slides: <a href="./lectures/slides/17-18_Virtual_Memory.pdf" target="_blank">PDF</a>] |
+| Lezione 21 | 15/12/2022 | Dispositivi di Memoria di Massa | [slides: <a href="./lectures/slides/19_Mass_Storage.pdf" target="_blank">PDF</a>] |
+<!--| Lezione 21 | 14/12/2020 | File System: Interfaccia e Implementazione | [slides: <a href="./lectures/slides/13_File_System.pdf" target="_blank">PDF</a>] |
 | Lezioni 22 - 23 - 24 | 16/12/2020 - 21/12/2020 - 23/12/2020 | Esercitazioni | |
 -->
 
