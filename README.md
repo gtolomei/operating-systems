@@ -3,6 +3,8 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
+- **Correzione II Simulazione Esame del 12/01/2023**<br/>
+La correzione della seconda simulazione d'esame si svolgerà **esclusivamente da remoto** su piattaforma Zoom a partire **dalle 14:30**. Per poter partecipare all'evento, dovrete seguire le istruzioni contenute nell'apposito messaggio inviato sul forum Moodle.
 - **Lezione del 6/12/2022**<br/>
 La lezione si svolgerà **esclusivamente da remoto** su piattaforma Zoom all'orario previsto, ossia **dalle 16:00 alle 19:00**. Per poter partecipare alla lezione, dovrete seguire le istruzioni contenute nell'apposito messaggio inviato sul forum Moodle.
 - **II Appello Scritto del 7/2/2023**<br/>
