@@ -3,6 +3,8 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
+- **I Appello Orale del 24/01/2023**<br/>
+La prova orale del 24/01/2023 si svolgerà a partire **dalle ore 9:30 interamente da remoto** su piattaforma Google Meet, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
 - **Esiti I Appello Scritto del 19/01/2023**<br/>
 Gli esiti dell'appello scritto del 19/01/2023 sono disponibili al seguente [link](./exams/2022-23/2023-01-19_esiti.pdf).
 - **Correzione II Simulazione Esame del 12/01/2023**<br/>
