@@ -3,6 +3,8 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
+- **Appello Scritto Straordinario del 4/4/2023**<br/>
+La prova d'esame scritta relativa all'appello straordinario dell'a.a. 2022-23 si svolgerà **martedì 4/4/2023** dalle ore **14:00** alle ore **15:00** presso l'**Aula 17** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**869770**), **entro e non oltre il 2/4/2023**.<br/>
 - **II Appello Orale del 9/2/2023**<br/>
 La prova orale del 9/2/2023 si svolgerà a partire **dalle ore 9:00 interamente da remoto** su piattaforma Google Meet, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
 - **Esiti II Appello Scritto del 7/2/2023**<br/>
