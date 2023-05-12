@@ -17,7 +17,7 @@ La prova d'esame scritta relativa al III appello dell'a.a. 2022-23 si svolgerà 
 - **Esiti Appello Scritto Straordinario del 4/4/2023**<br/>
 Gli esiti dell'appello scritto del 4/4/2023 sono disponibili al seguente [link](./exams/2022-23/2023-04-04_esiti.pdf).
 - **Appello Scritto Straordinario del 4/4/2023**<br/>
-La prova d'esame scritta relativa all'appello straordinario dell'a.a. 2022-23 si svolgerà **martedì 4/4/2023** dalle ore **14:00** alle ore **15:00** presso l'**Aula 17** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**869770**), **entro e non oltre il 2/4/2023**.<br/>
+La prova d'esame scritta relativa all'appello straordinario dell'a.a. 2022-23 si svolgerà **martedì 4/4/2023** dalle ore **14:00** alle ore **15:00** presso l'**Aula 17** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**869770**), **entro e non oltre il 2/4/2023**.
 - **II Appello Orale del 9/2/2023**<br/>
 La prova orale del 9/2/2023 si svolgerà a partire **dalle ore 9:00 interamente da remoto** su piattaforma Google Meet, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
 - **Esiti II Appello Scritto del 7/2/2023**<br/>
@@ -33,13 +33,11 @@ La lezione si svolgerà **esclusivamente da remoto** su piattaforma Zoom all'ora
 - **II Appello Scritto del 7/2/2023**<br/>
 La prova d'esame scritta relativa al II appello dell'a.a. 2022-23 si svolgerà **martedì 7/2/2023** dalle ore **14:00** alle ore **15:00** presso l'**Aula 16** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**851328**), **entro e non oltre il 3/2/2023**.<br/>
 [_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
-
 - **I Appello Scritto del 19/1/2023**<br/>
 La prova d'esame scritta relativa al I appello dell'a.a. 2022-23 si svolgerà **giovedì 19/1/2023** dalle ore **14:00** alle ore **15:00** presso l'**Aula 16** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**851325**), **entro e non oltre il 15/1/2023**.<br/>
 [_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
-
 - **IMPORTANTE:** La lezione prevista per **giovedì 29 settembre dalle ore 13:00 alle ore 15:00** è stata annullata. Pertanto, il corso inizierà ufficialmente a partire dal giorno **martedì 4 ottobre dalle ore 16:00 alle ore 19:00** in Aula I "V. Caglioti".
-- Si invitano tutti gli studenti intenzionati a frequentare il corso ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso). Inoltre, si ricorda di compilare l'apposito [Google Form](https://forms.gle/HUmkR14znPhZQ46Q9) per consentire il tracciamento delle presenze in aula, [come riportato sotto](#Modalità-di-Partecipazione-al-Corso).<br/>
+- Si invitano tutti gli studenti intenzionati a frequentare il corso ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso). Inoltre, si ricorda di compilare l'apposito [Google Form](https://forms.gle/HUmkR14znPhZQ46Q9) per consentire il tracciamento delle presenze in aula, [come riportato sotto](#Modalità-di-Partecipazione-al-Corso).
 - L'inizio delle lezioni è fissato per il giorno **martedì 27 settembre 2022**, e l'orario completo degli insegnamenti del I semestre a.a. 2022-23 è disponibile al seguente [link](https://www.studiareinformatica.uniroma1.it/orario-delle-lezioni).
 
 ## Informazioni Generali
