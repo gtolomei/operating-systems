@@ -8,7 +8,7 @@
 La prova d'esame scritta relativa al V appello dell'a.a. 2022-23 si svolgerà **mercoledì 12/9/2023** dalle ore **14:00** alle ore **15:00** presso l'**Aula 17** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**874765**), **entro e non oltre il 10/9/2023**.<br/>
 [_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]\
 -->
-**IV Appello Scritto del 27/6/2023**<br/>
+- **IV Appello Scritto del 27/6/2023**<br/>
 La prova d'esame scritta relativa al IV appello dell'a.a. 2022-23 si svolgerà **mercoledì 27/6/2023** dalle ore **14:00** alle ore **15:00** presso l'**Aula 17** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**874764**), **entro e non oltre il 25/6/2023**.<br/>
 [_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
 - **Esiti Appello Scritto del 7/6/2023**<br/>
