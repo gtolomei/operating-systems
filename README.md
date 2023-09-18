@@ -21,7 +21,7 @@ Questo repository contiene il materiale didattico del corso sottoforma di slide 
 Entrambe le lezioni si svolgeranno nell'Aula III - Edificio "V. Caglioti" c/o Dipartimento di Chimica [[map](https://goo.gl/maps/EtRwnoZbxySaRW6dA)]
 
 ### Pagina Moodle del Corso
-Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/edit.php?id=16966
+Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=16966
 
 ### Orario di Ricevimento
 Per garantire la massima flessibilità, è preferibile concordare con il docente un ricevimento su appuntamento (in presenza o a distanza). Si prega di inviare la propria richiesta via email all'indirizzo: tolomei@di.uniroma1.it, indicando come soggetto "_SO-I 2023-24: Ricevimento_".<br/> 
