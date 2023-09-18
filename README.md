@@ -1,49 +1,10 @@
-# Sistemi Operativi I - 2022-23 (Canale A-L)
+# Sistemi Operativi I - 2023-24 (I Canale)
 
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
-
-- **Esiti Appello Scritto del 12/9/2023**<br/>
-Gli esiti dell'appello scritto del 12/9/2023 sono disponibili al seguente [link](./exams/2022-23/2023-09-12_esiti.pdf).
-- **V Appello Scritto del 12/9/2023**<br/>
-La prova d'esame scritta relativa al V appello dell'a.a. 2022-23 si svolgerà **mercoledì 12/9/2023** dalle ore **14:00** alle ore **15:00** presso l'**Aula 17** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**874765**), **entro e non oltre il 10/9/2023**.<br/>
-[_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
-- **Esiti Appello Scritto del 27/6/2023**<br/>
-Gli esiti dell'appello scritto del 27/6/2023 sono disponibili al seguente [link](./exams/2022-23/2023-06-27_esiti.pdf).
-- **IV Appello Scritto del 27/6/2023**<br/>
-La prova d'esame scritta relativa al IV appello dell'a.a. 2022-23 si svolgerà **mercoledì 27/6/2023** dalle ore **14:00** alle ore **15:00** presso l'**Aula 17** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**874764**), **entro e non oltre il 25/6/2023**.<br/>
-[_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
-- **Esiti Appello Scritto del 7/6/2023**<br/>
-Gli esiti dell'appello scritto del 7/6/2023 sono disponibili al seguente [link](./exams/2022-23/2023-06-07_esiti.pdf).
-- **III Appello Scritto del 7/6/2023**<br/>
-La prova d'esame scritta relativa al III appello dell'a.a. 2022-23 si svolgerà **mercoledì 7/6/2023** dalle ore **14:00** alle ore **15:00** presso l'**Aula 17** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**874763**), **entro e non oltre il 4/6/2023**.<br/>
-[_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
-- **Esiti Appello Scritto Straordinario del 4/4/2023**<br/>
-Gli esiti dell'appello scritto del 4/4/2023 sono disponibili al seguente [link](./exams/2022-23/2023-04-04_esiti.pdf).
-- **Appello Scritto Straordinario del 4/4/2023**<br/>
-La prova d'esame scritta relativa all'appello straordinario dell'a.a. 2022-23 si svolgerà **martedì 4/4/2023** dalle ore **14:00** alle ore **15:00** presso l'**Aula 17** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**869770**), **entro e non oltre il 2/4/2023**.
-- **II Appello Orale del 9/2/2023**<br/>
-La prova orale del 9/2/2023 si svolgerà a partire **dalle ore 9:00 interamente da remoto** su piattaforma Google Meet, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
-- **Esiti II Appello Scritto del 7/2/2023**<br/>
-Gli esiti dell'appello scritto del 7/2/2023 sono disponibili al seguente [link](./exams/2022-23/2023-02-07_esiti.pdf).
-- **I Appello Orale del 24/1/2023**<br/>
-La prova orale del 24/1/2023 si svolgerà a partire **dalle ore 9:30 interamente da remoto** su piattaforma Google Meet, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
-- **Esiti I Appello Scritto del 19/1/2023**<br/>
-Gli esiti dell'appello scritto del 19/1/2023 sono disponibili al seguente [link](./exams/2022-23/2023-01-19_esiti.pdf).
-- **Correzione II Simulazione Esame del 12/1/2023**<br/>
-La correzione della seconda simulazione d'esame si svolgerà **giovedì 12 gennaio esclusivamente da remoto** su piattaforma Zoom a partire **dalle 14:30**. Per poter partecipare all'evento, dovrete seguire le istruzioni contenute nell'apposito messaggio inviato sul forum Moodle.
-- **Lezione del 6/12/2022**<br/>
-La lezione si svolgerà **esclusivamente da remoto** su piattaforma Zoom all'orario previsto, ossia **dalle 16:00 alle 19:00**. Per poter partecipare alla lezione, dovrete seguire le istruzioni contenute nell'apposito messaggio inviato sul forum Moodle.
-- **II Appello Scritto del 7/2/2023**<br/>
-La prova d'esame scritta relativa al II appello dell'a.a. 2022-23 si svolgerà **martedì 7/2/2023** dalle ore **14:00** alle ore **15:00** presso l'**Aula 16** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**851328**), **entro e non oltre il 3/2/2023**.<br/>
-[_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
-- **I Appello Scritto del 19/1/2023**<br/>
-La prova d'esame scritta relativa al I appello dell'a.a. 2022-23 si svolgerà **giovedì 19/1/2023** dalle ore **14:00** alle ore **15:00** presso l'**Aula 16** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**851325**), **entro e non oltre il 15/1/2023**.<br/>
-[_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
-- **IMPORTANTE:** La lezione prevista per **giovedì 29 settembre dalle ore 13:00 alle ore 15:00** è stata annullata. Pertanto, il corso inizierà ufficialmente a partire dal giorno **martedì 4 ottobre dalle ore 16:00 alle ore 19:00** in Aula I "V. Caglioti".
-- Si invitano tutti gli studenti intenzionati a frequentare il corso ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso). Inoltre, si ricorda di compilare l'apposito [Google Form](https://forms.gle/HUmkR14znPhZQ46Q9) per consentire il tracciamento delle presenze in aula, [come riportato sotto](#Modalità-di-Partecipazione-al-Corso).
-- L'inizio delle lezioni è fissato per il giorno **martedì 27 settembre 2022**, e l'orario completo degli insegnamenti del I semestre a.a. 2022-23 è disponibile al seguente [link](https://www.studiareinformatica.uniroma1.it/orario-delle-lezioni).
+- Si invitano tutti gli studenti intenzionati a frequentare il corso ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso).
+- L'inizio delle lezioni è fissato per il giorno **martedì 3 ottobre 2023**. <!--, e l'orario completo degli insegnamenti del I semestre a.a. 2023-24 è disponibile al seguente [link](https://www.studiareinformatica.uniroma1.it/orario-delle-lezioni).-->
 
 ## Informazioni Generali
 
@@ -51,19 +12,16 @@ Benvenuti sul sito web del corso di Sistemi Operativi - I Modulo!
 
 Il corso si svolge al primo semestre del secondo anno della [Laurea Triennale in Informatica della Sapienza Università di Roma](https://www.studiareinformatica.uniroma1.it/laurea).
 
-Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2022-23, limitatamente al I canale (A-L).
+Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2023-24, limitatamente al I canale.
 
 ### Orario delle Lezioni
-- **Martedì** dalle **16:00** alle **19:00** (Aula I - Edificio "V. Caglioti" c/o Dipartimento di Chimica [[map](https://goo.gl/maps/EtRwnoZbxySaRW6dA)])
-- **Giovedì** dalle **14:00** alle **16:00** (Aula T1 - Città Universitaria) [[map](https://goo.gl/maps/2Xbb9EXpprEza4DWA)]) 
+- **Martedì** dalle **16:00** alle **19:00**
+- **Giovedì** dalle **13:00** alle **15:00**
 
-### Modalità di Partecipazione al Corso
-Come indicato dalle politiche di prevenzione e gestione del rischio COVID-19, Sapienza mantiene in vigore la necessità di tracciare la presenza degli studenti in aula. A tale scopo, i corsi di laurea di Informatica, Applied Computer Science and Artificial Intelligence e Computer Science hanno predisposto ciascuno un Google Form dedicato che può essere compilato in qualsiasi momento (prima, durante o dopo la lezione). 
-
-Il tracciamento della presenza ha l'obiettivo di salvaguardare la salute degli studenti, nonché di tutta la comunità Sapienza. Pertanto, ringraziando fin da ora gli studenti per la collaborazione, si raccomanda di **compilare il form per ogni lezione a cui si partecipa**. Il form di segnalazione presenza in aula per il Corso di Laurea in Informatica si trova al seguente [link](https://forms.gle/HUmkR14znPhZQ46Q9).
+Entrambe le lezioni si svolgeranno nell'Aula III - Edificio "V. Caglioti" c/o Dipartimento di Chimica [[map](https://goo.gl/maps/EtRwnoZbxySaRW6dA)]
 
 ### Pagina Moodle del Corso
-Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=15523
+Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/edit.php?id=16966
 
 ### Orario di Ricevimento
 Per garantire la massima flessibilità, è preferibile concordare con il docente un ricevimento su appuntamento (in presenza o a distanza). Si prega di inviare la propria richiesta via email all'indirizzo: tolomei@di.uniroma1.it, indicando come soggetto "_SO-I 2022-23: Ricevimento_".<br/> 
@@ -146,7 +104,7 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 
 | Lezione \# | Data | Argomento                                     | Materiale      | 
 |------------|------|-----------------------------------------------|----------------|
-| Lezione 1  | 04/10/2022 | Concetti Base e Storia dei Sistemi Operativi | [slides: <a href="./lectures/slides/01_Basics_and_History.pdf" target="_blank">PDF</a>] |
+<!--| Lezione 1  | 04/10/2022 | Concetti Base e Storia dei Sistemi Operativi | [slides: <a href="./lectures/slides/01_Basics_and_History.pdf" target="_blank">PDF</a>] |
 | Lezione 2  | 06/10/2022 | Relazione tra Sistema Operativo e Macchina Fisica (Parte I) | [slides: <a href="./lectures/slides/02-03_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lezione 3  | 11/10/2022 | Relazione tra Sistema Operativo e Macchina Fisica (Parte II) | [slides: <a href="./lectures/slides/02-03_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lezione 4  | 13/10/2022 | Spazio di Indirizzamento Logico e PCB | [slides: <a href="./lectures/slides/04_Process_Virtual_Address_Space_and_PCB.pdf" target="_blank">PDF</a>] |
@@ -165,7 +123,7 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezioni 19 - 20 | 06/12/2022 - 13/12/2022 | Memoria Virtuale | [slides: <a href="./lectures/slides/17-18_Virtual_Memory.pdf" target="_blank">PDF</a>] |
 | Lezione 21 | 15/12/2022 | Dispositivi di Memoria di Massa | [slides: <a href="./lectures/slides/19_Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lezione 22 | 20/12/2022 | Scheduling del Disco | [slides: <a href="./lectures/slides/20_Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
-<!--| Lezione 21 | 14/12/2020 | File System: Interfaccia e Implementazione | [slides: <a href="./lectures/slides/13_File_System.pdf" target="_blank">PDF</a>] |
+| Lezione 21 | 14/12/2020 | File System: Interfaccia e Implementazione | [slides: <a href="./lectures/slides/13_File_System.pdf" target="_blank">PDF</a>] |
 | Lezioni 22 - 23 - 24 | 16/12/2020 - 21/12/2020 - 23/12/2020 | Esercitazioni | |
 -->
 
