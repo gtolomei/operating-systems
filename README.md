@@ -4,7 +4,7 @@
 
 ## News
 - Si invitano tutti gli studenti intenzionati a frequentare il corso ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso).
-- L'inizio delle lezioni è fissato per il giorno **martedì 3 ottobre 2023**. <!--, e l'orario completo degli insegnamenti del I semestre a.a. 2023-24 è disponibile al seguente [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSAhLT3Qu3Rj93yibn9yJceDgutT6rMzD5LDpF4rSbhJNsSnZLPJsHpDL4wXEF2S4aEFuFQWGKjrm_T/pubhtml).-->
+- L'inizio delle lezioni è fissato per il giorno **martedì 3 ottobre 2023**, e l'orario completo degli insegnamenti del I semestre a.a. 2023-24 è disponibile al seguente [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSAhLT3Qu3Rj93yibn9yJceDgutT6rMzD5LDpF4rSbhJNsSnZLPJsHpDL4wXEF2S4aEFuFQWGKjrm_T/pubhtml).
 
 ## Informazioni Generali
 
