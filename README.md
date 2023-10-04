@@ -104,8 +104,8 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 
 | Lezione \# | Data | Argomento                                     | Materiale      | 
 |------------|------|-----------------------------------------------|----------------|
-<!--| Lezione 1  | 04/10/2022 | Concetti Base e Storia dei Sistemi Operativi | [slides: <a href="./lectures/slides/01_Basics_and_History.pdf" target="_blank">PDF</a>] |
-| Lezione 2  | 06/10/2022 | Relazione tra Sistema Operativo e Macchina Fisica (Parte I) | [slides: <a href="./lectures/slides/02-03_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
+| Lezione 1  | 04/10/2022 | Introduzione e Richiami di Concetti Base | [slides: <a href="./lectures/slides/01_Introduction.pdf" target="_blank">PDF</a>] |
+<!--| Lezione 2  | 06/10/2022 | Relazione tra Sistema Operativo e Macchina Fisica (Parte I) | [slides: <a href="./lectures/slides/02-03_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lezione 3  | 11/10/2022 | Relazione tra Sistema Operativo e Macchina Fisica (Parte II) | [slides: <a href="./lectures/slides/02-03_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lezione 4  | 13/10/2022 | Spazio di Indirizzamento Logico e PCB | [slides: <a href="./lectures/slides/04_Process_Virtual_Address_Space_and_PCB.pdf" target="_blank">PDF</a>] |
 | Lezione 5  | 18/10/2022 | Concetti Base della Gestione dei Processi | [slides: <a href="./lectures/slides/05_Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
