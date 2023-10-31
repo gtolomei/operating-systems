@@ -3,7 +3,8 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
-- **Lezione del 31/10/2023: Annullata** 
+- **ANNUNCIO:** La lezione dello **02/11/2023** si svolgerà da remoto via Zoom. Per ulteriori dettagli, si prega di consultare il messaggio sul forum della pagina Moodle del corso.
+- **IMPORTANTE:** La lezione del **31/10/2023** è annullata.
 - Si invitano tutti gli studenti intenzionati a frequentare il corso ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso).
 - L'inizio delle lezioni è fissato per il giorno **martedì 3 ottobre 2023**, e l'orario completo degli insegnamenti del I semestre a.a. 2023-24 è disponibile al seguente [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSAhLT3Qu3Rj93yibn9yJceDgutT6rMzD5LDpF4rSbhJNsSnZLPJsHpDL4wXEF2S4aEFuFQWGKjrm_T/pubhtml).
 
