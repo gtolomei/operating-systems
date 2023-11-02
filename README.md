@@ -111,9 +111,9 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 4  | 12/10/2023 | Spazio di Indirizzamento Logico e PCB | [slides: <a href="./lectures/slides/Process_Virtual_Address_Space_and_PCB.pdf" target="_blank">PDF</a>] |
 | Lezione 5  | 17/10/2023 | Concetti Base della Gestione dei Processi | [slides: <a href="./lectures/slides/Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
 | Lezione 6  | 19/10/2023 | Scheduling della CPU (Parte I) | [slides: <a href="./lectures/slides/CPU_Scheduling_1.pdf" target="_blank">PDF</a>] |
-| Lezione 7  | 24/10/2023 | Scheduling della CPU (Parte II) | [slides: <a href="./lectures/slides/CPU_Scheduling_2.pdf" target="_blank">PDF</a>] |
-<!--| Lezione 8  | 27/10/2022 | Scheduling della CPU (Parte III) | [slides: <a href="./lectures/slides/07_CPU_Scheduling_2.pdf" target="_blank">PDF</a>] |
-| Lezione 9  | 03/11/2022 | Threads (Parte I) | [slides: <a href="./lectures/slides/08_Threads.pdf" target="_blank">PDF</a>] |
+| Lezioni 7-8  | 24/10/2023-26/10/2023 | Scheduling della CPU (Parte II) | [slides: <a href="./lectures/slides/CPU_Scheduling_2.pdf" target="_blank">PDF</a>] |
+| Lezione 9  | 02/11/2023 | Threads | [slides: <a href="./lectures/slides/Threads.pdf" target="_blank">PDF</a>] |
+<!--
 | Lezione 10  | 08/11/2022 | Threads (Parte II) | [slides: <a href="./lectures/slides/08_Threads.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
 | Lezione 11 | 10/11/2022 | Sincronizzazione tra Processi/Thread (Locks) | [slides: <a href="./lectures/slides/09_Synchronization_Locks.pdf" target="_blank">PDF</a>]|
 | Lezioni 12-13 | 15/11/2022-17/11/2022  | Sincronizzazione tra Processi/Thread (Semafori e Monitor) | [slides: <a href="./lectures/slides/10_Synchronization_Semaphores_Monitors.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
