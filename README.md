@@ -115,9 +115,9 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 9  | 02/11/2023 | Threads | [slides: <a href="./lectures/slides/Threads.pdf" target="_blank">PDF</a>] |
 | Lezione 10  | 07/11/2023 | Implementazione dei Thread| [slides: <a href="./lectures/slides/Thread_Implementation.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
 | Lezione 11 | 09/11/2023 | Sincronizzazione tra Processi/Thread | [slides: <a href="./lectures/slides/Synchronization.pdf" target="_blank">PDF</a>]|
-| Lezioni 12-14 | 14/11/2023-16/11/2023  | Implementazione Meccanismi di Sincronizzazione | [slides: <a href="./lectures/slides/Synchronization_Implementation.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
-<!--| Lezioni 14-15 | 22/11/2022-24/11/2022 | Deadlock | [slides: <a href="./lectures/slides/11-12_Deadlock.pdf" target="_blank">PDF</a>] |
-| Lezione 16 | 29/11/2022 | Gestione della Memoria: Binding e Rilocazione | [slides: <a href="./lectures/slides/13_Memory_Management_Binding_and_Relocation.pdf" target="_blank">PDF</a>] |
+| Lezioni 12-13 | 14/11/2023-16/11/2023  | Implementazione Meccanismi di Sincronizzazione | [slides: <a href="./lectures/slides/Synchronization_Implementation.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
+| Lezioni 14-15 | 21/11/2023-24/11/2023 | Deadlock | [slides: <a href="./lectures/slides/Deadlock.pdf" target="_blank">PDF</a>] |
+<!--| Lezione 16 | 29/11/2022 | Gestione della Memoria: Binding e Rilocazione | [slides: <a href="./lectures/slides/13_Memory_Management_Binding_and_Relocation.pdf" target="_blank">PDF</a>] |
 | Lezione 17 | 01/12/2022 | Gestione della Memoria: Allocazione Contigua e Paginata | [slides: <a href="./lectures/slides/14-15_Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
 | Lezione 18 | 06/12/2022 | Gestione della Memoria: Paginazione Avanzata (Segmentazione) | [slides: <a href="./lectures/slides/16_Advanced_Paging.pdf" target="_blank">PDF</a>] |
 | Lezioni 19 - 20 | 06/12/2022 - 13/12/2022 | Memoria Virtuale | [slides: <a href="./lectures/slides/17-18_Virtual_Memory.pdf" target="_blank">PDF</a>] |
