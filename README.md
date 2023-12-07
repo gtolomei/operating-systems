@@ -120,6 +120,7 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 16 | 28/11/2023 | Gestione della Memoria: Binding e Rilocazione | [slides: <a href="./lectures/slides/Memory_Management_Binding_and_Relocation.pdf" target="_blank">PDF</a>] |
 | Lezione 17 | 30/11/2023 | Gestione della Memoria: Allocazione Contigua | [slides: <a href="./lectures/slides/Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
 | Lezione 18 | 05/12/2023 | Gestione della Memoria: Paginazione | [slides: <a href="./lectures/slides/Paging.pdf" target="_blank">PDF</a>] |
+| Lezione 19 | 07/12/2023 | Gestione della Memoria: Paginazione Avanzata | [slides: <a href="./lectures/slides/Advanced_Paging.pdf" target="_blank">PDF</a>] |
 <!--| Lezioni 19 - 20 | 06/12/2022 - 13/12/2022 | Memoria Virtuale | [slides: <a href="./lectures/slides/17-18_Virtual_Memory.pdf" target="_blank">PDF</a>] |
 | Lezione 21 | 15/12/2022 | Dispositivi di Memoria di Massa | [slides: <a href="./lectures/slides/19_Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lezione 22 | 20/12/2022 | Scheduling del Disco | [slides: <a href="./lectures/slides/20_Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
