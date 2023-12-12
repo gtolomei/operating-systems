@@ -94,7 +94,7 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 - Implementazione del File System
 - Struttura del File System
 
-**Parte VII: Advanced Topics**
+**Parte VII: Advanced Topics(?)**
 - Protezione
 - Sicurezza
 - Sistemi distribuiti
@@ -121,7 +121,9 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 17 | 30/11/2023 | Gestione della Memoria: Allocazione Contigua | [slides: <a href="./lectures/slides/Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
 | Lezione 18 | 05/12/2023 | Gestione della Memoria: Paginazione | [slides: <a href="./lectures/slides/Paging.pdf" target="_blank">PDF</a>] |
 | Lezione 19 | 07/12/2023 | Gestione della Memoria: Paginazione Avanzata | [slides: <a href="./lectures/slides/Advanced_Paging.pdf" target="_blank">PDF</a>] |
-<!--| Lezioni 19 - 20 | 06/12/2022 - 13/12/2022 | Memoria Virtuale | [slides: <a href="./lectures/slides/17-18_Virtual_Memory.pdf" target="_blank">PDF</a>] |
+| Lezione 20 | 12/12/2023 | Memoria Virtuale (Parte I) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_I).pdf" target="_blank">PDF</a>] |
+<!--
+| Lezione 21 | 14/12/2023 | Memoria Virtuale (Parte II) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_II).pdf" target="_blank">PDF</a>] |
 | Lezione 21 | 15/12/2022 | Dispositivi di Memoria di Massa | [slides: <a href="./lectures/slides/19_Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lezione 22 | 20/12/2022 | Scheduling del Disco | [slides: <a href="./lectures/slides/20_Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
 | Lezione 21 | 14/12/2020 | File System: Interfaccia e Implementazione | [slides: <a href="./lectures/slides/13_File_System.pdf" target="_blank">PDF</a>] |
