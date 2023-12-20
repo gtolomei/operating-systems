@@ -3,6 +3,7 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
+- **IMPORTANTE:** La lezione del **21/12/2023** è annullata.
 - **Date Appelli Esame Scritto:** Le date degli appelli di esame scritto per le sessioni di **gennaio e febbraio 2024** sono disponibili al seguente <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTo1M0yvq3lfIs6e22ejizcAc1W9zZ5k-h2HrkxuwdUNZuSP8Bw5q0oK81yPQhSQnOfpwhS4kDjoVwB/pubhtml?gid=1499138525&single=true&urp=gmail_link" target="_blank">link</a>. A breve, verranno aperti i relativi verbali su Infostud a cui sarà possibile iscriversi.
 - **ANNUNCIO:** La lezione dello **02/11/2023** si svolgerà da remoto via Zoom. Per ulteriori dettagli, si prega di consultare il messaggio sul forum della pagina Moodle del corso.
 - **IMPORTANTE:** La lezione del **31/10/2023** è annullata.
