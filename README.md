@@ -3,9 +3,15 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
+- **II Appello Scritto del 13/2/2024**<br/>
+La prova d'esame scritta relativa al II appello dell'a.a. 2023-24 si svolgerà **martedì 13/2/2024** dalle ore **14:00** alle ore **15:00** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**914595**). **Le registrazioni resteranno aperte dall'1/2/2024 al 9/2/2024**.<br/>
+[_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
+- **I Appello Scritto del 23/1/2024**<br/>
+La prova d'esame scritta relativa al I appello dell'a.a. 2023-24 si svolgerà **martedì 23/1/2024** dalle ore **14:00** alle ore **15:00** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**914592**). **Le registrazioni resteranno aperte dal 21/12/2023 al 19/1/2024**.<br/>
+[_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
 - **IMPORTANTE:** La lezione del **21/12/2023** è annullata.
 - **Date Appelli Esame Scritto:** Le date degli appelli di esame scritto per le sessioni di **gennaio e febbraio 2024** sono disponibili al seguente <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTo1M0yvq3lfIs6e22ejizcAc1W9zZ5k-h2HrkxuwdUNZuSP8Bw5q0oK81yPQhSQnOfpwhS4kDjoVwB/pubhtml?gid=1499138525&single=true&urp=gmail_link" target="_blank">link</a>. A breve, verranno aperti i relativi verbali su Infostud a cui sarà possibile iscriversi.
-- **ANNUNCIO:** La lezione dello **02/11/2023** si svolgerà da remoto via Zoom. Per ulteriori dettagli, si prega di consultare il messaggio sul forum della pagina Moodle del corso.
+- **ANNUNCIO:** La lezione del **2/11/2023** si svolgerà da remoto via Zoom. Per ulteriori dettagli, si prega di consultare il messaggio sul forum della pagina Moodle del corso.
 - **IMPORTANTE:** La lezione del **31/10/2023** è annullata.
 - Si invitano tutti gli studenti intenzionati a frequentare il corso ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso).
 - L'inizio delle lezioni è fissato per il giorno **martedì 3 ottobre 2023**, e l'orario completo degli insegnamenti del I semestre a.a. 2023-24 è disponibile al seguente [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSAhLT3Qu3Rj93yibn9yJceDgutT6rMzD5LDpF4rSbhJNsSnZLPJsHpDL4wXEF2S4aEFuFQWGKjrm_T/pubhtml).
