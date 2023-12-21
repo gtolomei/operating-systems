@@ -91,6 +91,7 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 - Dispositivi di Memoria di Massa
 - Sistemi di I/O
 
+<!--
 **Parte VI: File System**
 - Interfaccia del File System
 - Implementazione del File System
@@ -101,6 +102,7 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 - Sicurezza
 - Sistemi distribuiti
 - Sistemi per dispositivi mobili
+-->
 
 <hr>
 
