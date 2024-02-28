@@ -3,6 +3,10 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
+
+- **Appello Scritto Straordinario del 25/3/2024**<br/>
+La prova d'esame scritta relativa all'appello straordinario dell'a.a. 2023-24 si svolgerà **lunedì 25/3/2024** dalle ore **14:00** alle ore **15:00** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti accreditati a partecipare alla prova straordinaria dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**923583**). **Le registrazioni resteranno aperte dal 28/2/2024 al 22/3/2024**.<br/>
+[_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
 - **II Appello Orale del 15/2/2024**<br/>
 La prova orale del 15/2/2024 si svolgerà a partire **dalle ore 14:00 interamente da remoto** su piattaforma Google Meet, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
 - **Esiti II Appello Scritto del 23/1/2024**<br/>
