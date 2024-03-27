@@ -3,6 +3,8 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
+- **Appello Orale Straordinario del 28/3/2024**<br/>
+La prova orale del 28/3/2024 si svolgerà a partire **dalle ore 9:30 interamente da remoto** su piattaforma Google Meet, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
 - **Esiti Appello Scritto Straordinario del 25/3/2024**<br/>
 Gli esiti dell'appello scritto straordinario del 25/3/2024 sono disponibili al seguente [link](./exams/2023-24/2024-03-25_esiti.pdf).
 - **Appello Scritto Straordinario del 25/3/2024**<br/>
