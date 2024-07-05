@@ -3,6 +3,8 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
+- **IV Appello Orale dell'8/7/2024**<br/>
+La prova orale dell'8/7/2024 si svolgerà a partire **dalle ore 10:00 interamente da remoto** su piattaforma Google Meet, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
 - **Esiti IV Appello Scritto del 2/7/2024**<br/>
 Gli esiti dell'appello scritto del 2/7/2024 sono disponibili al seguente [link](./exams/2023-24/2024-07-02_esiti.pdf).
 - **IV Appello Scritto del 2/7/2024**<br/>
