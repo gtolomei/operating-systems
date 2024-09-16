@@ -1,8 +1,9 @@
-# Sistemi Operativi I - 2023-24 (I Canale)
+# Sistemi Operativi I - 2024-25 (I Canale)
 
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
+<!--
 - **V Appello Scritto del 19/9/2024**<br/>
 La prova d'esame scritta relativa al V appello dell'a.a. 2023-24 si svolgerà **giovedì 19/9/2024** dalle ore **14:00** alle ore **15:00** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**936603**). **Le registrazioni resteranno aperte dal 29/7/2024 al 15/9/2024**.<br/>
 [_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
@@ -43,6 +44,7 @@ La prova d'esame scritta relativa al I appello dell'a.a. 2023-24 si svolgerà **
 - **Date Appelli Esame Scritto:** Le date degli appelli di esame scritto per le sessioni di **gennaio e febbraio 2024** sono disponibili al seguente <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTo1M0yvq3lfIs6e22ejizcAc1W9zZ5k-h2HrkxuwdUNZuSP8Bw5q0oK81yPQhSQnOfpwhS4kDjoVwB/pubhtml?gid=1499138525&single=true&urp=gmail_link" target="_blank">link</a>. A breve, verranno aperti i relativi verbali su Infostud a cui sarà possibile iscriversi.
 - **ANNUNCIO:** La lezione del **2/11/2023** si svolgerà da remoto via Zoom. Per ulteriori dettagli, si prega di consultare il messaggio sul forum della pagina Moodle del corso.
 - **IMPORTANTE:** La lezione del **31/10/2023** è annullata.
+-->
 - Si invitano tutti gli studenti intenzionati a frequentare il corso ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso).
 - L'inizio delle lezioni è fissato per il giorno **martedì 3 ottobre 2023**, e l'orario completo degli insegnamenti del I semestre a.a. 2023-24 è disponibile al seguente [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSAhLT3Qu3Rj93yibn9yJceDgutT6rMzD5LDpF4rSbhJNsSnZLPJsHpDL4wXEF2S4aEFuFQWGKjrm_T/pubhtml).
 
@@ -52,19 +54,19 @@ Benvenuti sul sito web del corso di Sistemi Operativi - I Modulo!
 
 Il corso si svolge al primo semestre del secondo anno della [Laurea Triennale in Informatica della Sapienza Università di Roma](https://www.studiareinformatica.uniroma1.it/laurea).
 
-Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2023-24, limitatamente al I canale.
+Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2024-25, limitatamente al I canale.
 
 ### Orario delle Lezioni
-- **Martedì** dalle **16:00** alle **19:00**
-- **Giovedì** dalle **13:00** alle **15:00**
+- **Martedì** dalle **15:00** alle **17:00**
+- **Mercoledì** dalle **13:00** alle **16:00**
 
-Entrambe le lezioni si svolgeranno nell'Aula III - Edificio "V. Caglioti" c/o Dipartimento di Chimica [[map](https://goo.gl/maps/EtRwnoZbxySaRW6dA)]
+Entrambe le lezioni si svolgeranno nell'**Aula 4 di Via De Lollis** [[map](https://goo.gl/maps/EtRwnoZbxySaRW6dA)]
 
 ### Pagina Moodle del Corso
-Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=16966
+Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: **TBA**
 
 ### Orario di Ricevimento
-Per garantire la massima flessibilità, è preferibile concordare con il docente un ricevimento su appuntamento (in presenza o a distanza). Si prega di inviare la propria richiesta via email all'indirizzo: tolomei@di.uniroma1.it, indicando come soggetto "_SO-I 2023-24: Ricevimento_".<br/> 
+Per garantire la massima flessibilità, è preferibile concordare con il docente un ricevimento su appuntamento (in presenza o a distanza). Si prega di inviare la propria richiesta via email all'indirizzo: tolomei@di.uniroma1.it, indicando come soggetto "_SO-I 2024-25: Ricevimento_".<br/> 
 I ricevimenti in presenza si terranno nell'ufficio del docente, presso la Stanza 106 al I piano dell'Edificio "E" situato in Viale Regina Elena, 295 ([map](https://goo.gl/maps/5dSuQbvaeqXePV9y6)).
 
 
@@ -146,7 +148,7 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 
 | Lezione \# | Data | Argomento                                     | Materiale      | 
 |------------|------|-----------------------------------------------|----------------|
-| Lezioni 1-2  | 03/10/2023-05/10/2023 | Introduzione e Richiami di Concetti Base | [slides: <a href="./lectures/slides/Introduction.pdf" target="_blank">PDF</a>] |
+<!--| Lezioni 1-2  | 03/10/2023-05/10/2023 | Introduzione e Richiami di Concetti Base | [slides: <a href="./lectures/slides/Introduction.pdf" target="_blank">PDF</a>] |
 | Lezione 3  | 10/10/2023 | Relazione tra Sistema Operativo e Macchina Fisica | [slides: <a href="./lectures/slides/Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lezione 4  | 12/10/2023 | Spazio di Indirizzamento Logico e PCB | [slides: <a href="./lectures/slides/Process_Virtual_Address_Space_and_PCB.pdf" target="_blank">PDF</a>] |
 | Lezione 5  | 17/10/2023 | Concetti Base della Gestione dei Processi | [slides: <a href="./lectures/slides/Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
@@ -165,7 +167,7 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 21 | 14/12/2023 | Memoria Virtuale (Parte II) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_II).pdf" target="_blank">PDF</a>] |
 | Lezione 22 | 19/12/2023 | Dispositivi di Memoria di Massa | [slides: <a href="./lectures/slides/Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lezione 23 | 21/12/2023 | Scheduling del Disco | [slides: <a href="./lectures/slides/Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
-<!--| Lezione 21 | 14/12/2020 | File System: Interfaccia e Implementazione | [slides: <a href="./lectures/slides/13_File_System.pdf" target="_blank">PDF</a>] |
+| Lezione 21 | 14/12/2020 | File System: Interfaccia e Implementazione | [slides: <a href="./lectures/slides/13_File_System.pdf" target="_blank">PDF</a>] |
 | Lezioni 22 - 23 - 24 | 16/12/2020 - 21/12/2020 - 23/12/2020 | Esercitazioni | |
 -->
 
