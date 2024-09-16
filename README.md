@@ -60,7 +60,7 @@ Questo repository contiene il materiale didattico del corso sottoforma di slide 
 - **Martedì** dalle **15:00** alle **17:00**
 - **Mercoledì** dalle **13:00** alle **16:00**
 
-Entrambe le lezioni si svolgeranno nell'**Aula 4 di Via De Lollis** [[map](https://goo.gl/maps/EtRwnoZbxySaRW6dA)]
+Entrambe le lezioni si svolgeranno nell'**Aula 4 di Via De Lollis** [[map]()]
 
 ### Pagina Moodle del Corso
 Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: **TBA**
