@@ -46,7 +46,7 @@ La prova d'esame scritta relativa al I appello dell'a.a. 2023-24 si svolgerà **
 - **IMPORTANTE:** La lezione del **31/10/2023** è annullata.
 -->
 - Si invitano tutti gli studenti intenzionati a frequentare il corso ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso).
-- L'inizio delle lezioni è fissato per il giorno **martedì 3 ottobre 2023**, e l'orario completo degli insegnamenti del I semestre a.a. 2023-24 è disponibile al seguente [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSAhLT3Qu3Rj93yibn9yJceDgutT6rMzD5LDpF4rSbhJNsSnZLPJsHpDL4wXEF2S4aEFuFQWGKjrm_T/pubhtml).
+- L'inizio delle lezioni è fissato per il giorno **martedì 24 settembre 2024**, e l'orario completo degli insegnamenti del I semestre a.a. 2024-25 è disponibile al seguente [link](https://drive.google.com/file/d/130c7jinExYW1_R8NQdWJHRmtzU5Wvm-Z/view?usp=drive_link).
 
 ## Informazioni Generali
 
