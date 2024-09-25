@@ -148,8 +148,8 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione \# | Data | Argomento                                     | Materiale      | 
 |------------|------|-----------------------------------------------|----------------|
 | Lezione 1  | 24/09/2024 | Introduzione e Richiami di Concetti Base | [slides: <a href="./lectures/slides/Introduction.pdf" target="_blank">PDF</a>] |
-<!--| Lezione 3  | 10/10/2023 | Relazione tra Sistema Operativo e Macchina Fisica | [slides: <a href="./lectures/slides/Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
-| Lezione 4  | 12/10/2023 | Spazio di Indirizzamento Logico e PCB | [slides: <a href="./lectures/slides/Process_Virtual_Address_Space_and_PCB.pdf" target="_blank">PDF</a>] |
+| Lezione 2  | 25/09/2024 | Relazione tra Sistema Operativo e Macchina Fisica | [slides: <a href="./lectures/slides/Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
+<!--| Lezione 4  | 12/10/2023 | Spazio di Indirizzamento Logico e PCB | [slides: <a href="./lectures/slides/Process_Virtual_Address_Space_and_PCB.pdf" target="_blank">PDF</a>] |
 | Lezione 5  | 17/10/2023 | Concetti Base della Gestione dei Processi | [slides: <a href="./lectures/slides/Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
 | Lezione 6  | 19/10/2023 | Scheduling della CPU (Parte I) | [slides: <a href="./lectures/slides/CPU_Scheduling_1.pdf" target="_blank">PDF</a>] |
 | Lezioni 7-8  | 24/10/2023-26/10/2023 | Scheduling della CPU (Parte II) | [slides: <a href="./lectures/slides/CPU_Scheduling_2.pdf" target="_blank">PDF</a>] |
