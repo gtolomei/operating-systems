@@ -42,10 +42,9 @@ La prova d'esame scritta relativa al I appello dell'a.a. 2023-24 si svolgerà **
 [_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
 - **IMPORTANTE:** La lezione del **21/12/2023** è annullata.
 - **Date Appelli Esame Scritto:** Le date degli appelli di esame scritto per le sessioni di **gennaio e febbraio 2024** sono disponibili al seguente <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTo1M0yvq3lfIs6e22ejizcAc1W9zZ5k-h2HrkxuwdUNZuSP8Bw5q0oK81yPQhSQnOfpwhS4kDjoVwB/pubhtml?gid=1499138525&single=true&urp=gmail_link" target="_blank">link</a>. A breve, verranno aperti i relativi verbali su Infostud a cui sarà possibile iscriversi.
-- **ANNUNCIO:** La lezione del **2/11/2023** si svolgerà da remoto via Zoom. Per ulteriori dettagli, si prega di consultare il messaggio sul forum della pagina Moodle del corso.
-- **IMPORTANTE:** La lezione del **31/10/2023** è annullata.
 -->
-- **IMPORTANTE:** Le lezioni della **prima settimana** si svolgeranno, in via eccezionale, rispettivamente in **Aula 204 (Edificio "Marco Polo")** e in **Aula Magna (Edificio Facoltà di Lettere)**. Per ulteriori informazioni, si prega di far riferimento all'orario pubblicato al seguente [link](https://drive.google.com/file/d/1QMqiWAqSjVfamJDXml7KgD7EQ-oLsASD/view).
+- **ANNUNCIO IMPORTANTE:** Le lezioni dell'**1/10/2024** e **2/10/2024** si svolgeranno da remoto via Zoom. Per ulteriori dettagli, si prega di consultare il messaggio sul forum della pagina Moodle del corso.
+- **ANNUNCIO IMPORTANTE:** Le lezioni della **prima settimana** si svolgeranno, in via eccezionale, rispettivamente in **Aula 204 (Edificio "Marco Polo")** e in **Aula Magna (Edificio Facoltà di Lettere)**. Per ulteriori informazioni, si prega di far riferimento all'orario pubblicato al seguente [link](https://drive.google.com/file/d/1QMqiWAqSjVfamJDXml7KgD7EQ-oLsASD/view).
 - Si invitano tutti gli studenti intenzionati a frequentare il corso ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso).
 - L'inizio delle lezioni è fissato per il giorno **martedì 24 settembre 2024**, e l'orario completo degli insegnamenti del I semestre a.a. 2024-25 è disponibile al seguente [link](https://drive.google.com/file/d/130c7jinExYW1_R8NQdWJHRmtzU5Wvm-Z/view?usp=drive_link).
 
