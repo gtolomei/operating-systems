@@ -153,8 +153,8 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 4  | 02/10/2024 | Concetti Base della Gestione dei Processi | [slides: <a href="./lectures/slides/Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
 | Lezione 5  | 08/10/2024 | Scheduling della CPU (Parte I) | [slides: <a href="./lectures/slides/CPU_Scheduling_1.pdf" target="_blank">PDF</a>] |
 | Lezione 6  | 09/10/2024 | Scheduling della CPU (Parte II) | [slides: <a href="./lectures/slides/CPU_Scheduling_2.pdf" target="_blank">PDF</a>] |
-<!--| Lezione 9  | 02/11/2023 | Threads | [slides: <a href="./lectures/slides/Threads.pdf" target="_blank">PDF</a>] |
-| Lezione 10  | 07/11/2023 | Implementazione dei Thread| [slides: <a href="./lectures/slides/Thread_Implementation.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
+| Lezione 7  | 15/10/2024 | Threads | [slides: <a href="./lectures/slides/Threads.pdf" target="_blank">PDF</a>] |
+<!--| Lezione 10  | 07/11/2023 | Implementazione dei Thread| [slides: <a href="./lectures/slides/Thread_Implementation.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
 | Lezione 11 | 09/11/2023 | Sincronizzazione tra Processi/Thread | [slides: <a href="./lectures/slides/Synchronization.pdf" target="_blank">PDF</a>]|
 | Lezioni 12-13 | 14/11/2023-16/11/2023  | Implementazione Meccanismi di Sincronizzazione | [slides: <a href="./lectures/slides/Synchronization_Implementation.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
 | Lezioni 14-15 | 21/11/2023-23/11/2023 | Deadlock | [slides: <a href="./lectures/slides/Deadlock.pdf" target="_blank">PDF</a>] |
