@@ -158,6 +158,7 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 7  | 15/10/2024 | Threads | [slides: <a href="./lectures/slides/Threads.pdf" target="_blank">PDF</a>] |
 | Lezione 8  | 16/10/2024 | Implementazione dei Thread| [slides: <a href="./lectures/slides/Thread_Implementation.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
 | Lezione 9 | 22/10/2024 | Sincronizzazione tra Processi/Thread | [slides: <a href="./lectures/slides/Synchronization.pdf" target="_blank">PDF</a>]|
+| Lezione 10 | 23/10/2024 | Implementazione Meccanismi di Sincronizzazione I | [slides: <a href="./lectures/slides/Synchronization_Implementation_I.pdf" target="_blank">PDF</a>]|
 <!--| Lezioni 12-13 | 14/11/2023-16/11/2023  | Implementazione Meccanismi di Sincronizzazione | [slides: <a href="./lectures/slides/Synchronization_Implementation.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
 | Lezioni 14-15 | 21/11/2023-23/11/2023 | Deadlock | [slides: <a href="./lectures/slides/Deadlock.pdf" target="_blank">PDF</a>] |
 | Lezione 16 | 28/11/2023 | Gestione della Memoria: Binding e Rilocazione | [slides: <a href="./lectures/slides/Memory_Management_Binding_and_Relocation.pdf" target="_blank">PDF</a>] |
