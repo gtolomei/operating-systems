@@ -164,7 +164,7 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 10 | 23/10/2024 | Implementazione Meccanismi di Sincronizzazione I | [slides: <a href="./lectures/slides/Synchronization_Implementation_I.pdf" target="_blank">PDF</a>]|
 | Lezione 11 | 29/10/2024  | Implementazione Meccanismi di Sincronizzazione II | [slides: <a href="./lectures/slides/Synchronization_Implementation_II.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
 | Lezione 12 | 12/11/2024 | Deadlock | [slides: <a href="./lectures/slides/Deadlock.pdf" target="_blank">PDF</a>] |
-| Lezione 13 | 13/11/2024 | Esercitazione | [slides: <a href="./exercises/2024-11-13_Esercitazione.pdf" target="_blank">PDF</a>]|
+| Lezione 13 | 13/11/2024 | Esercitazione | [<a href="./exercises/2024-11-13_Esercitazione.pdf" target="_blank">PDF</a>]|
 <!--| Lezione 16 | 28/11/2023 | Gestione della Memoria: Binding e Rilocazione | [slides: <a href="./lectures/slides/Memory_Management_Binding_and_Relocation.pdf" target="_blank">PDF</a>] |
 | Lezione 17 | 30/11/2023 | Gestione della Memoria: Allocazione Contigua | [slides: <a href="./lectures/slides/Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
 | Lezione 18 | 05/12/2023 | Gestione della Memoria: Paginazione | [slides: <a href="./lectures/slides/Paging.pdf" target="_blank">PDF</a>] |
