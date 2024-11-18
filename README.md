@@ -167,7 +167,7 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 12 | 12/11/2024 | Deadlock | [slides: <a href="./lectures/slides/Deadlock.pdf" target="_blank">PDF</a>] |
 | Lezione 13 | 13/11/2024 | Esercitazione | [<a href="./exercises/2024-11-13_Esercitazione.pdf" target="_blank">PDF</a>]|
 | Lezione 14 | 19/11/2024 | Gestione della Memoria: Binding e Rilocazione | [slides: <a href="./lectures/slides/Memory_Management_Binding_and_Relocation.pdf" target="_blank">PDF</a>] |
-<!--| Lezione 17 | 30/11/2023 | Gestione della Memoria: Allocazione Contigua | [slides: <a href="./lectures/slides/Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
+<!--| Lezione 15 | 30/11/2023 | Gestione della Memoria: Allocazione Contigua | [slides: <a href="./lectures/slides/Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
 | Lezione 18 | 05/12/2023 | Gestione della Memoria: Paginazione | [slides: <a href="./lectures/slides/Paging.pdf" target="_blank">PDF</a>] |
 | Lezione 19 | 07/12/2023 | Gestione della Memoria: Paginazione Avanzata | [slides: <a href="./lectures/slides/Advanced_Paging.pdf" target="_blank">PDF</a>] |
 | Lezione 20 | 12/12/2023 | Memoria Virtuale (Parte I) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_I).pdf" target="_blank">PDF</a>] |
