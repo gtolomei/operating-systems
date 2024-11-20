@@ -168,8 +168,8 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 13 | 13/11/2024 | Esercitazione | [<a href="./exercises/2024-11-13_Esercitazione.pdf" target="_blank">PDF</a>]|
 | Lezione 14 | 19/11/2024 | Gestione della Memoria: Binding e Rilocazione | [slides: <a href="./lectures/slides/Memory_Management_Binding_and_Relocation.pdf" target="_blank">PDF</a>] |
 | Lezione 15 | 20/11/2024 | Gestione della Memoria: Allocazione Contigua | [slides: <a href="./lectures/slides/Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
-<!--| Lezione 18 | 05/12/2023 | Gestione della Memoria: Paginazione | [slides: <a href="./lectures/slides/Paging.pdf" target="_blank">PDF</a>] |
-| Lezione 19 | 07/12/2023 | Gestione della Memoria: Paginazione Avanzata | [slides: <a href="./lectures/slides/Advanced_Paging.pdf" target="_blank">PDF</a>] |
+| Lezione 16 | 26/11/2024 | Gestione della Memoria: Paginazione | [slides: <a href="./lectures/slides/Paging.pdf" target="_blank">PDF</a>] |
+<!--| Lezione 19 | 07/12/2023 | Gestione della Memoria: Paginazione Avanzata | [slides: <a href="./lectures/slides/Advanced_Paging.pdf" target="_blank">PDF</a>] |
 | Lezione 20 | 12/12/2023 | Memoria Virtuale (Parte I) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_I).pdf" target="_blank">PDF</a>] |
 | Lezione 21 | 14/12/2023 | Memoria Virtuale (Parte II) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_II).pdf" target="_blank">PDF</a>] |
 | Lezione 22 | 19/12/2023 | Dispositivi di Memoria di Massa | [slides: <a href="./lectures/slides/Mass_Storage.pdf" target="_blank">PDF</a>] |
