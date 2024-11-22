@@ -43,6 +43,7 @@ La prova d'esame scritta relativa al I appello dell'a.a. 2023-24 si svolgerà **
 - **IMPORTANTE:** La lezione del **21/12/2023** è annullata.
 - **Date Appelli Esame Scritto:** Le date degli appelli di esame scritto per le sessioni di **gennaio e febbraio 2024** sono disponibili al seguente <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTo1M0yvq3lfIs6e22ejizcAc1W9zZ5k-h2HrkxuwdUNZuSP8Bw5q0oK81yPQhSQnOfpwhS4kDjoVwB/pubhtml?gid=1499138525&single=true&urp=gmail_link" target="_blank">link</a>. A breve, verranno aperti i relativi verbali su Infostud a cui sarà possibile iscriversi.
 -->
+- **ANNUNCIO IMPORTANTE:** Le lezioni del **26/11/2024** e **27/11/2024** si svolgeranno (finalmente 🥳) nell'**Aula 3** di Via De Lollis (ingresso dai laboratori di Via Tiburtina, 205 [[mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)]). Per ulteriori informazioni, si prega di far riferimento all'orario pubblicato al seguente [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZOo9l-8p4dZZzSSjE3S3jV2nEawAlF_fDx4U36ps06ebJseGYnFrTClKs2hLLDuLMzblqm7mLryg1/pubhtml?gid=1489043237&single=true&urp=gmail_link).
 - **ANNUNCIO IMPORTANTE:** Le lezioni del **19/11/2024** e **20/11/2024** si svolgeranno rispettivamente in **Aula G** e in **Aula A1 "Luigi Capozzi"** presso il Polo Didattico della Clinica Odontoiatrica situato in Via Caserta, 6 ([mappa](https://maps.app.goo.gl/LJKWniPbsoiKST9i7)). Per ulteriori informazioni, si prega di far riferimento all'orario pubblicato al seguente [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZOo9l-8p4dZZzSSjE3S3jV2nEawAlF_fDx4U36ps06ebJseGYnFrTClKs2hLLDuLMzblqm7mLryg1/pubhtml?gid=1597453559&single=true&urp=gmail_link).
 - **ANNUNCIO IMPORTANTE:** Le lezioni del **12/11/2024** e **13/11/2024** si svolgeranno in **Aula A1 "Luigi Capozzi"** presso il Polo Didattico della Clinica Odontoiatrica situato in Via Caserta, 6 ([mappa](https://maps.app.goo.gl/LJKWniPbsoiKST9i7)). Per ulteriori informazioni, si prega di far riferimento all'orario pubblicato al seguente [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZOo9l-8p4dZZzSSjE3S3jV2nEawAlF_fDx4U36ps06ebJseGYnFrTClKs2hLLDuLMzblqm7mLryg1/pubhtml?gid=1775652133&single=true&urp=gmail_link).
 - **ANNUNCIO IMPORTANTE:** Le lezioni del **5/11/2024** e **6/11/2024** sono annullate per motivi di salute.
@@ -67,7 +68,7 @@ Questo repository contiene il materiale didattico del corso sottoforma di slide 
 - **Martedì** dalle **15:00** alle **17:00**
 - **Mercoledì** dalle **13:00** alle **16:00**
 
-Entrambe le lezioni si svolgeranno nell'**Aula 4 di Via De Lollis** (ingresso dai laboratori di Via Tiburtina, 205 [[map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)]).
+~Entrambe le lezioni si svolgeranno nell'**Aula 4 di Via De Lollis** (ingresso dai laboratori di Via Tiburtina, 205 [[map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)]).~
 
 ### Pagina Moodle del Corso
 Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=18501
