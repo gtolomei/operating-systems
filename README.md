@@ -173,8 +173,8 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 18 | 03/12/2024 | Memoria Virtuale (Parte I) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_I).pdf" target="_blank">PDF</a>] |
 | Lezione 19 | 04/12/2024 | Memoria Virtuale (Parte II) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_II).pdf" target="_blank">PDF</a>] |
 | Lezione 20 | 10/12/2024 | Dispositivi di Memoria di Massa | [slides: <a href="./lectures/slides/Mass_Storage.pdf" target="_blank">PDF</a>] |
-<!--| Lezione 21 | 11/12/2024 | Scheduling del Disco | [slides: <a href="./lectures/slides/Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
-| Lezione 22 | 17/12/2024 |  Esercitazione | [<a href="./exercises/2024-12-17_Esercitazione.pdf" target="_blank">PDF</a>]|
+| Lezione 21 | 11/12/2024 | Scheduling del Disco | [slides: <a href="./lectures/slides/Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
+<!--| Lezione 22 | 17/12/2024 |  Esercitazione | [<a href="./exercises/2024-12-17_Esercitazione.pdf" target="_blank">PDF</a>]|
 -->
 
 # Anni Precedenti
