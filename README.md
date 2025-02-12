@@ -29,8 +29,8 @@ La prova d'esame scritta relativa all'appello straordinario dell'a.a. 2023-24 si
 - **II Appello Orale del 15/2/2024**<br/>
 La prova orale del 15/2/2024 si svolgerà a partire **dalle ore 14:00 interamente da remoto** su piattaforma Google Meet, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
 -->
-- **Esiti II Appello Scritto del 11/2/2025**<br/>
-Gli esiti dell'appello scritto del 11/2/2025 sono disponibili al seguente [link](./exams/2024-25/2025-02-11_esiti.pdf).
+- **Esiti II Appello Scritto dell'11/2/2025**<br/>
+Gli esiti dell'appello scritto dell'11/2/2025 sono disponibili al seguente [link](./exams/2024-25/2025-02-11_esiti.pdf).
 - **I Appello Orale del 29/1/2025**<br/>
 La prova orale del 29/1/2025 si svolgerà a partire **dalle ore 9:00**, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
 - **Esiti I Appello Scritto del 23/1/2025**<br/>
