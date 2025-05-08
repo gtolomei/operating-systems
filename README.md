@@ -16,17 +16,10 @@ La prova d'esame scritta relativa al IV appello dell'a.a. 2023-24 si svolgerà *
 [_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
 - **Esiti III Appello Scritto del 4/6/2024**<br/>
 Gli esiti dell'appello scritto del 4/6/2024 sono disponibili al seguente [link](./exams/2023-24/2024-06-04_esiti.pdf).
-- **III Appello Scritto del 4/6/2024**<br/>
-La prova d'esame scritta relativa al III appello dell'a.a. 2023-24 si svolgerà **martedì 4/6/2024** dalle ore **14:00** alle ore **15:00** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**928154**). **Le registrazioni resteranno aperte dal 30/4/2024 al 31/5/2024**.<br/>
-[_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
-- **Appello Orale Straordinario del 28/3/2024**<br/>
-La prova orale del 28/3/2024 si svolgerà a partire **dalle ore 9:30 interamente da remoto** su piattaforma Google Meet, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
-- **Esiti Appello Scritto Straordinario del 25/3/2024**<br/>
-Gli esiti dell'appello scritto straordinario del 25/3/2024 sono disponibili al seguente [link](./exams/2023-24/2024-03-25_esiti.pdf).
-- **Appello Scritto Straordinario del 25/3/2024**<br/>
-La prova d'esame scritta relativa all'appello straordinario dell'a.a. 2023-24 si svolgerà **lunedì 25/3/2024** dalle ore **14:30** alle ore **15:30** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti accreditati a partecipare alla prova straordinaria dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**923583**). **Le registrazioni resteranno aperte dal 28/2/2024 al 22/3/2024**.<br/>
-[_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
 -->
+- **III Appello Scritto del 4/6/2025**<br/>
+La prova d'esame scritta relativa al III appello dell'a.a. 2024-25 si svolgerà **mercoledì 4/6/2025** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**969899**). **Le registrazioni resteranno aperte dall'1/5/2025 al 31/5/2025**.<br/>
+[_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
 - **Appello Orale Straordinario del 31/3/2025**<br/>
 La prova orale del 31/3/2025 si svolgerà a partire **dalle ore 16:00**, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
 - **Esiti Appello Scritto Straordinario del 27/3/2025**<br/>
