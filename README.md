@@ -18,7 +18,7 @@ La prova d'esame scritta relativa al IV appello dell'a.a. 2023-24 si svolgerà *
 Gli esiti dell'appello scritto del 4/6/2024 sono disponibili al seguente [link](./exams/2023-24/2024-06-04_esiti.pdf).
 -->
 - **III Appello Scritto del 4/6/2025**<br/>
-La prova d'esame scritta relativa al III appello dell'a.a. 2024-25 si svolgerà **mercoledì 4/6/2025** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**969899**). **Le registrazioni resteranno aperte dall'1/5/2025 al 31/5/2025**.<br/>
+La prova d'esame scritta relativa al III appello dell'a.a. 2024-25 si svolgerà **mercoledì 4/6/2025** alle ore **14:30** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**969899**). **Le registrazioni resteranno aperte dall'1/5/2025 al 31/5/2025**.<br/>
 [_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
 - **Appello Orale Straordinario del 31/3/2025**<br/>
 La prova orale del 31/3/2025 si svolgerà a partire **dalle ore 16:00**, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
