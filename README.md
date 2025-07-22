@@ -3,11 +3,9 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
-<!--
-- **V Appello Scritto del 19/9/2024**<br/>
-La prova d'esame scritta relativa al V appello dell'a.a. 2023-24 si svolgerà **giovedì 19/9/2024** dalle ore **14:00** alle ore **15:00** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**936603**). **Le registrazioni resteranno aperte dal 29/7/2024 al 15/9/2024**.<br/>
+- **V Appello Scritto del 9/9/2025**<br/>
+La prova d'esame scritta relativa al V appello dell'a.a. 2024-25 si svolgerà **martedì 9/9/2025** alle ore **14:30** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**969906**). **Le registrazioni resteranno aperte dall'1/8/2025 al 5/9/2025**.<br/>
 [_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
--->
 - **IV Appello Orale del 7/7/2025**<br/>
 La prova orale del 7/7/2025 si svolgerà a partire **dalle ore 9:30**, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
 - **Esiti IV Appello Scritto del 3/7/2025**<br/>
