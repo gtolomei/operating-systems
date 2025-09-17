@@ -68,7 +68,7 @@ Questo repository contiene il materiale didattico del corso sottoforma di slide 
 Entrambe le lezioni si svolgeranno nell'**Aula 4 di Via De Lollis** (RM158). L'accesso all'aula avviene dai laboratori di Via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)).
 
 ### Pagina Moodle del Corso
-Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: **TBA**
+Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=20049
 
 ### Orario di Ricevimento
 Per garantire la massima flessibilità, è preferibile concordare con il docente un ricevimento su appuntamento (in presenza o a distanza). Si prega di inviare la propria richiesta via email all'indirizzo: tolomei@di.uniroma1.it, indicando come soggetto "_SO-I 2025-26: Ricevimento_".<br/> 
