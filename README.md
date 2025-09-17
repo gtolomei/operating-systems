@@ -1,8 +1,9 @@
-# Sistemi Operativi I - 2024-25 (I Canale)
+# Sistemi Operativi I - 2025-26 (I Canale)
 
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
+<!--
 - **V Appello Scritto del 9/9/2025**<br/>
 La prova d'esame scritta relativa al V appello dell'a.a. 2024-25 si svolgerà **martedì 9/9/2025** alle ore **14:30** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**969906**). **Le registrazioni resteranno aperte dal 22/7/2025 al 5/9/2025**.<br/>
 [_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
@@ -50,6 +51,7 @@ La prova d'esame scritta relativa al I appello dell'a.a. 2024-25 si svolgerà **
 - **ANNUNCIO IMPORTANTE:** Le lezioni della **prima settimana** si svolgeranno, in via eccezionale, rispettivamente in **Aula 204 (Edificio "Marco Polo")** e in **Aula Magna (Edificio Facoltà di Lettere)**. Per ulteriori informazioni, si prega di far riferimento all'orario pubblicato al seguente [link](https://drive.google.com/file/d/1QMqiWAqSjVfamJDXml7KgD7EQ-oLsASD/view).
 - Si invitano tutti gli studenti intenzionati a frequentare il corso ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso).
 - L'inizio delle lezioni è fissato per il giorno **martedì 24 settembre 2024**, e l'orario completo degli insegnamenti del I semestre a.a. 2024-25 è disponibile al seguente [link](https://drive.google.com/file/d/130c7jinExYW1_R8NQdWJHRmtzU5Wvm-Z/view?usp=drive_link).
+-->
 
 ## Informazioni Generali
 
@@ -57,27 +59,27 @@ Benvenuti sul sito web del corso di Sistemi Operativi - I Modulo!
 
 Il corso si svolge al primo semestre del secondo anno della [Laurea Triennale in Informatica della Sapienza Università di Roma](https://www.studiareinformatica.uniroma1.it/laurea).
 
-Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2024-25, limitatamente al I canale.
+Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2025-26, limitatamente al I canale.
 
 ### Orario delle Lezioni
-- **Martedì** dalle **15:00** alle **17:00**
-- **Mercoledì** dalle **13:00** alle **16:00**
+- **Martedì** dalle **13:00** alle **16:00**
+- **Giovedì** dalle **13:00** alle **15:00**
 
-~Entrambe le lezioni si svolgeranno nell'**Aula 4 di Via De Lollis** (ingresso dai laboratori di Via Tiburtina, 205 [[map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)]).~
+Entrambe le lezioni si svolgeranno nell'**Aula 4 di Via De Lollis** (RM158). L'accesso all'aula avviene dai laboratori di Via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)).
 
 ### Pagina Moodle del Corso
-Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: https://elearning.uniroma1.it/course/view.php?id=18501
+Gli studenti **devono** registrarsi alla pagina Moodle che si trova al seguente indirizzo web, utilizzando le stesse credenziali istituzionali (username/password) per l'accesso ai servizi Wi-Fi e Infostud: **TBA**
 
 ### Orario di Ricevimento
-Per garantire la massima flessibilità, è preferibile concordare con il docente un ricevimento su appuntamento (in presenza o a distanza). Si prega di inviare la propria richiesta via email all'indirizzo: tolomei@di.uniroma1.it, indicando come soggetto "_SO-I 2024-25: Ricevimento_".<br/> 
-I ricevimenti in presenza si terranno nell'ufficio del docente, presso la Stanza 106 al I piano dell'Edificio "E" situato in Viale Regina Elena, 295 ([map](https://goo.gl/maps/5dSuQbvaeqXePV9y6)).
+Per garantire la massima flessibilità, è preferibile concordare con il docente un ricevimento su appuntamento (in presenza o a distanza). Si prega di inviare la propria richiesta via email all'indirizzo: tolomei@di.uniroma1.it, indicando come soggetto "_SO-I 2025-26: Ricevimento_".<br/> 
+I ricevimenti in presenza si terranno nell'ufficio del docente, presso la Stanza 106 al I piano dell'Edificio "E" situato in Viale Regina Elena, 295 ([mappa](https://goo.gl/maps/5dSuQbvaeqXePV9y6)).
 
 
 ### Contatti Docente
 - Email: tolomei@di.uniroma1.it
 - Sito web: https://www.di.uniroma1.it/~tolomei
 - Bacheca Sapienza: https://corsidilaurea.uniroma1.it/it/users/gabrieletolomeiuniroma1it
-- Ufficio: Stanza 106 I piano Edificio "E" c/o Viale Regina Elena, 295 ([map](https://goo.gl/maps/5dSuQbvaeqXePV9y6))
+- Ufficio: Stanza 106 I piano Edificio "E" c/o Viale Regina Elena, 295 ([mappa](https://goo.gl/maps/5dSuQbvaeqXePV9y6))
 
 ### Obiettivi del Corso
 I sistemi operativi sono parte essenziale di un sistema di calcolo e costituiscono l'esempio ideale di un concetto fondamentale e trasversale all'intero percorso di studio in Informatica, ossia quello dell'_astrazione_. 
@@ -93,7 +95,21 @@ I concetti generali previsti per il corso, ampiamente coperti dal materiale bibl
 - Fondamenti di programmazione
 
 ### Modalità di Esame
-Per il superamento dell'esame è prevista una **prova scritta**, basata su un quiz Moodle a risposta multipla. Tutti coloro che superano la prova scritta con un punteggio _compreso tra **15** e **17**_ (estremi inclusi) sono ammessi, nonché **obbligati**, a sostenere la successiva **prova orale**. Coloro che, invece, ottengono un punteggio sufficiente (_maggiore o uguale a **18**_) alla prova scritta possono decidere di confermare il voto ottenuto **oppure** sostenere un'ulteriore prova orale integrativa opzionale.
+Per il superamento dell’esame è prevista una **prova scritta obbligatoria** mediante **quiz Moodle a risposta multipla** della durata di **45 minuti** che si svolgerà in laboratorio.  
+L'esito della prova scritta determina le seguenti condizioni:
+
+| Punteggio scritto | Esito | Prova orale |
+|-------------------|-------|-------------|
+| **[15, 17]**       | Ammesso all'orale | **Obbligatoria** |
+| **≥ 18**          | Sufficiente | **Opzionale** (lo studente può confermare il voto o sostenere un orale integrativo) |
+| **< 15**          | Non superato | -- |
+
+**Nota bene:**  
+*(a)* Con un punteggio compreso nell'intervallo **[15, 17]**, l'orale è **necessario** per superare l'esame.  
+*(b)* Con un punteggio **≥18**, l'orale è una **scelta dello studente**.  
+*(c)* Con un punteggio **<15**, l'esame **non è superato** e la prova scritta deve essere ripetuta in una sessione successiva.
+
+Nei casi *(a)* e *(b)* è sempre possibile decidere di **rifiutare** il voto ottenuto alla prova scritta.
 
 ### Testi Consigliati
 Sebbene **non** obbligatori ai fini del superamento dell'esame, i seguenti libri di testo (preferibilmente in lingua inglese) costituiscono una fonte utile per assimilare più approfonditamente i concetti esposti durante le lezioni:
@@ -149,6 +165,7 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 
 | Lezione \# | Data | Argomento                                     | Materiale      | 
 |------------|------|-----------------------------------------------|----------------|
+<!--
 | Lezione 1  | 24/09/2024 | Introduzione e Richiami di Concetti Base | [slides: <a href="./lectures/slides/Introduction.pdf" target="_blank">PDF</a>] |
 | Lezione 2  | 25/09/2024 | Relazione tra Sistema Operativo e Macchina Fisica | [slides: <a href="./lectures/slides/Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lezione 3  | 01/10/2024 | Spazio di Indirizzamento Logico e PCB | [slides: <a href="./lectures/slides/Process_Virtual_Address_Space_and_PCB.pdf" target="_blank">PDF</a>] |
@@ -171,12 +188,13 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 20 | 10/12/2024 | Dispositivi di Memoria di Massa | [slides: <a href="./lectures/slides/Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lezione 21 | 11/12/2024 | Scheduling del Disco | [slides: <a href="./lectures/slides/Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
 | Lezione 22 | 17/12/2024 | Esercitazione | [<a href="./exercises/2024-12-17_Esercitazione.pdf" target="_blank">PDF</a>]|
-
+-->
 # Anni Precedenti
 In questa sezione è possibile accedere alle informazioni del corso relativamente agli anni accademici precedenti rispetto a quello corrente.
 
 **NOTA:** _La directory che include il materiale didattico è **unica** e il suo contenuto può subire modifiche o aggiornamenti di anno in anno; pertanto, è possibile che vi siano discrepanze tra ciò che è presente su questo sito e ciò che invece è stato mostrato in un determinato anno, diverso da quello corrente._
 
+- [2024-25](./oldest/2024-25.md)
 - [2023-24](./oldest/2023-24.md)
 - [2022-23](./oldest/2022-23.md)
 - [2020-21](./oldest/2020-21.md)
