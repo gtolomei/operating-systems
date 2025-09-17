@@ -109,7 +109,7 @@ L'esito della prova scritta determina le seguenti condizioni:
 *(b)* Con un punteggio **≥18**, l'orale è una **scelta dello studente**.  
 *(c)* Con un punteggio **<15**, l'esame **non è superato** e la prova scritta deve essere ripetuta in una sessione successiva.
 
-Nei casi *(a)* e *(b)* è sempre possibile decidere di **rifiutare** il voto ottenuto alla prova scritta.
+Nei casi *(a)* e *(b)* è sempre possibile decidere di **rifiutare** il voto ottenuto alla prova scritta. Anche in questo caso, la prova scritta dovrà essere ripetuta in una sessione successiva.
 
 ### Testi Consigliati
 Sebbene **non** obbligatori ai fini del superamento dell'esame, i seguenti libri di testo (preferibilmente in lingua inglese) costituiscono una fonte utile per assimilare più approfonditamente i concetti esposti durante le lezioni:
