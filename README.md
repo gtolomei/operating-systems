@@ -57,7 +57,7 @@ La prova d'esame scritta relativa al I appello dell'a.a. 2024-25 si svolgerà **
 
 Benvenuti sul sito web del corso di Sistemi Operativi - I Modulo!
 
-Il corso si svolge al primo semestre del secondo anno della [Laurea Triennale in Informatica della Sapienza Università di Roma](https://www.studiareinformatica.uniroma1.it/laurea).
+Il corso si svolge al primo semestre del secondo anno della [Laurea Triennale in Informatica della Sapienza Università di Roma](https://corsidilaurea.uniroma1.it/it/course/33503).
 
 Questo repository contiene il materiale didattico del corso sottoforma di slide PDF ed esercizi relativi all'anno accademico 2025-26, limitatamente al I canale.
 
