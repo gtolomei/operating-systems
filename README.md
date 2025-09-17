@@ -189,7 +189,7 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 21 | 11/12/2024 | Scheduling del Disco | [slides: <a href="./lectures/slides/Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
 | Lezione 22 | 17/12/2024 | Esercitazione | [<a href="./exercises/2024-12-17_Esercitazione.pdf" target="_blank">PDF</a>]|
 -->
-# Anni Precedenti
+## Anni Precedenti
 In questa sezione è possibile accedere alle informazioni del corso relativamente agli anni accademici precedenti rispetto a quello corrente.
 
 **NOTA:** _La directory che include il materiale didattico è **unica** e il suo contenuto può subire modifiche o aggiornamenti di anno in anno; pertanto, è possibile che vi siano discrepanze tra ciò che è presente su questo sito e ciò che invece è stato mostrato in un determinato anno, diverso da quello corrente._
