@@ -168,7 +168,8 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 1  | 23/09/2025 | Introduzione e Richiami di Concetti Base | [slides: <a href="./lectures/slides/Introduction.pdf" target="_blank">PDF</a>] |
 | Lezione 2  | 25/09/2025 | Relazione tra Sistema Operativo e Macchina Fisica | [slides: <a href="./lectures/slides/Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lezione 3  | 30/09/2025 | Spazio di Indirizzamento Logico e PCB | [slides: <a href="./lectures/slides/Process_Virtual_Address_Space_and_PCB.pdf" target="_blank">PDF</a>] |
-| Lezione 4  | 02/10/2025 | Concetti Base della Gestione dei Processi | [slides: <a href="./lectures/slides/Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
+| Lezione 4  | 02/10/2025 | Concetti Base della Gestione dei Processi | [slides: <a href="./lectures/slides/Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>] |
+| Lezione 5  | 07/10/2025 | Ciclo di Vita dei Processi | [slides: <a href="./lectures/slides/Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
 <!--| Lezione 5  | 08/10/2024 | Scheduling della CPU (Parte I) | [slides: <a href="./lectures/slides/CPU_Scheduling_1.pdf" target="_blank">PDF</a>] |
 | Lezione 6  | 09/10/2024 | Scheduling della CPU (Parte II) | [slides: <a href="./lectures/slides/CPU_Scheduling_2.pdf" target="_blank">PDF</a>] |
 | Lezione 7  | 15/10/2024 | Threads | [slides: <a href="./lectures/slides/Threads.pdf" target="_blank">PDF</a>] |
