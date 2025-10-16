@@ -172,8 +172,8 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 5  | 07/10/2025 | Ciclo di Vita dei Processi | [slides: <a href="./lectures/slides/Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
 | Lezione 6  | 09/10/2025 | Introduzione allo Scheduling della CPU | [slides: <a href="./lectures/slides/CPU_Scheduling_Introduction.pdf" target="_blank">PDF</a>] |
 | Lezione 7  | 14/10/2025 | Algoritmi di Scheduling della CPU (Parte I) | [slides: <a href="./lectures/slides/CPU_Scheduling_Algorithms_I.pdf" target="_blank">PDF</a>] |
-<!--
 | Lezione 8  | 16/10/2025 | Algoritmi di Scheduling della CPU (Parte II) | [slides: <a href="./lectures/slides/CPU_Scheduling_Algorithms_II.pdf" target="_blank">PDF</a>] |
+<!--
 | Lezione 7  | 15/10/2024 | Threads | [slides: <a href="./lectures/slides/Threads.pdf" target="_blank">PDF</a>] |
 | Lezione 8  | 16/10/2024 | Implementazione dei Thread| [slides: <a href="./lectures/slides/Thread_Implementation.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
 | Lezione 9 | 22/10/2024 | Sincronizzazione tra Processi/Thread | [slides: <a href="./lectures/slides/Synchronization.pdf" target="_blank">PDF</a>]|
