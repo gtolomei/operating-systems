@@ -48,10 +48,9 @@ La prova d'esame scritta relativa al I appello dell'a.a. 2024-25 si svolgerà **
 - **ANNUNCIO IMPORTANTE:** Le lezioni del **15/10/2024** e **16/10/2024** si svolgeranno, in via eccezionale, in **Aula A1 "Luigi Capozzi"** presso il Polo Didattico della Clinica Odontoiatrica situato in Via Caserta, 6 ([mappa](https://maps.app.goo.gl/LJKWniPbsoiKST9i7)). Per ulteriori informazioni, si prega di far riferimento all'orario pubblicato al seguente [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZOo9l-8p4dZZzSSjE3S3jV2nEawAlF_fDx4U36ps06ebJseGYnFrTClKs2hLLDuLMzblqm7mLryg1/pubhtml?gid=1933374392&single=true&urp=gmail_link).
 - **ANNUNCIO IMPORTANTE:** Le lezioni dell'**8/10/2024** e **9/10/2024** si svolgeranno, in via eccezionale, in **Aula A1 "Luigi Capozzi"** presso il Polo Didattico della Clinica Odontoiatrica situato in Via Caserta, 6 ([mappa](https://maps.app.goo.gl/LJKWniPbsoiKST9i7)). Per ulteriori informazioni, si prega di far riferimento all'orario pubblicato al seguente [link](https://drive.google.com/file/d/1E8JWzwydMuU9AUzUEBDSeCaVuntnwnig/view).
 - **ANNUNCIO IMPORTANTE:** Le lezioni dell'**1/10/2024** e **2/10/2024** si svolgeranno da remoto via Zoom. Per ulteriori dettagli, si prega di consultare il messaggio sul forum della pagina Moodle del corso.
-- **ANNUNCIO IMPORTANTE:** Le lezioni della **prima settimana** si svolgeranno, in via eccezionale, rispettivamente in **Aula 204 (Edificio "Marco Polo")** e in **Aula Magna (Edificio Facoltà di Lettere)**. Per ulteriori informazioni, si prega di far riferimento all'orario pubblicato al seguente [link](https://drive.google.com/file/d/1QMqiWAqSjVfamJDXml7KgD7EQ-oLsASD/view).
-- Si invitano tutti gli studenti intenzionati a frequentare il corso ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso).
-- L'inizio delle lezioni è fissato per il giorno **martedì 24 settembre 2024**, e l'orario completo degli insegnamenti del I semestre a.a. 2024-25 è disponibile al seguente [link](https://drive.google.com/file/d/130c7jinExYW1_R8NQdWJHRmtzU5Wvm-Z/view?usp=drive_link).
+- **ANNUNCIO IMPORTANTE:** La lezione di **giovedì 6 novembre è annullata**.
 -->
+- **ANNUNCIO IMPORTANTE:** L'attività didattica è sospesa **da giovedì 30 ottobre a mercoledì 5 novembre 2025 compresi**.
 
 ## Informazioni Generali
 
