@@ -174,7 +174,7 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 8  | 16/10/2025 | Algoritmi di Scheduling della CPU (Parte II) | [slides: <a href="./lectures/slides/CPU_Scheduling_Algorithms_II.pdf" target="_blank">PDF</a>] |
 | Lezione 9  | 21/10/2025 | Thread: Concetti e Implementazione | [slides: <a href="./lectures/slides/Threads.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
 <!--
-| Lezione 9 | 22/10/2024 | Sincronizzazione tra Processi/Thread | [slides: <a href="./lectures/slides/Synchronization.pdf" target="_blank">PDF</a>]|
+| Lezione 10 | 23/10/2025 | Sincronizzazione tra Processi/Thread | [slides: <a href="./lectures/slides/Synchronization.pdf" target="_blank">PDF</a>]|
 | Lezione 10 | 23/10/2024 | Implementazione Meccanismi di Sincronizzazione I | [slides: <a href="./lectures/slides/Synchronization_Implementation_I.pdf" target="_blank">PDF</a>]|
 | Lezione 11 | 29/10/2024  | Implementazione Meccanismi di Sincronizzazione II | [slides: <a href="./lectures/slides/Synchronization_Implementation_II.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
 | Lezione 12 | 12/11/2024 | Deadlock | [slides: <a href="./lectures/slides/Deadlock.pdf" target="_blank">PDF</a>] |
