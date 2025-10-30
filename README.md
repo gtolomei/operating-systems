@@ -48,9 +48,9 @@ La prova d'esame scritta relativa al I appello dell'a.a. 2024-25 si svolgerà **
 - **ANNUNCIO IMPORTANTE:** Le lezioni del **15/10/2024** e **16/10/2024** si svolgeranno, in via eccezionale, in **Aula A1 "Luigi Capozzi"** presso il Polo Didattico della Clinica Odontoiatrica situato in Via Caserta, 6 ([mappa](https://maps.app.goo.gl/LJKWniPbsoiKST9i7)). Per ulteriori informazioni, si prega di far riferimento all'orario pubblicato al seguente [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZOo9l-8p4dZZzSSjE3S3jV2nEawAlF_fDx4U36ps06ebJseGYnFrTClKs2hLLDuLMzblqm7mLryg1/pubhtml?gid=1933374392&single=true&urp=gmail_link).
 - **ANNUNCIO IMPORTANTE:** Le lezioni dell'**8/10/2024** e **9/10/2024** si svolgeranno, in via eccezionale, in **Aula A1 "Luigi Capozzi"** presso il Polo Didattico della Clinica Odontoiatrica situato in Via Caserta, 6 ([mappa](https://maps.app.goo.gl/LJKWniPbsoiKST9i7)). Per ulteriori informazioni, si prega di far riferimento all'orario pubblicato al seguente [link](https://drive.google.com/file/d/1E8JWzwydMuU9AUzUEBDSeCaVuntnwnig/view).
 - **ANNUNCIO IMPORTANTE:** Le lezioni dell'**1/10/2024** e **2/10/2024** si svolgeranno da remoto via Zoom. Per ulteriori dettagli, si prega di consultare il messaggio sul forum della pagina Moodle del corso.
-- **ANNUNCIO IMPORTANTE:** La lezione di **giovedì 6 novembre è annullata**.
 -->
-- **ANNUNCIO IMPORTANTE:** L'attività didattica è sospesa **da giovedì 30 ottobre a mercoledì 5 novembre 2025 compresi**.
+- **ANNUNCIO IMPORTANTE:** La lezione di **giovedì 6 novembre è annullata**.
+- **ANNUNCIO IMPORTANTE:** L'attività didattica è sospesa **da giovedì 30 ottobre a mercoledì 5 novembre compresi**.
 
 ## Informazioni Generali
 
