@@ -176,8 +176,8 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 10 | 23/10/2025 | Sincronizzazione tra Processi/Thread | [slides: <a href="./lectures/slides/Synchronization.pdf" target="_blank">PDF</a>]|
 | Lezione 11 | 28/10/2025  | Implementazione Meccanismi di Sincronizzazione | [slides: <a href="./lectures/slides/Synchronization_Implementation.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
 | Lezione 12 | 11/11/2025 | Esercitazione | [<a href="./exercises/2025-11-11_Esercizi.pdf" target="_blank">Quesiti</a>] [<a href="./exercises/2025-11-11_Esercizi_Soluzioni.pdf" target="_blank">Soluzioni</a>]|
-<!--
 | Lezione 13 | 13/11/2025 | Deadlock | [slides: <a href="./lectures/slides/Deadlock.pdf" target="_blank">PDF</a>] |
+<!--
 | Lezione 14 | 19/11/2024 | Gestione della Memoria: Binding e Rilocazione | [slides: <a href="./lectures/slides/Memory_Management_Binding_and_Relocation.pdf" target="_blank">PDF</a>] |
 | Lezione 15 | 20/11/2024 | Gestione della Memoria: Allocazione Contigua | [slides: <a href="./lectures/slides/Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
 | Lezione 16 | 26/11/2024 | Gestione della Memoria: Paginazione | [slides: <a href="./lectures/slides/Paging.pdf" target="_blank">PDF</a>] |
