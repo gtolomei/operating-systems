@@ -43,7 +43,7 @@ La prova d'esame scritta relativa al I appello dell'a.a. 2024-25 si svolgerà **
 -->
 <!--
 - **ANNUNCIO IMPORTANTE:** La lezione di **martedì 25 novembre è posticipata a mercoledì 26 novembre**, mantenendo **la stessa aula** (Aula 4, Via De Lollis)** e **lo stesso orario (13:00-16:00)**.
-Contestualmente, la lezione di **Basi di Dati I (Prof. Perelli)** si terrà **martedì 25 novembre** al posto di quella di mercoledì 26 novembre.
+Contestualmente, la lezione di **Basi di Dati I** (Prof. Perelli) si terrà **martedì 25 novembre** al posto di quella di mercoledì 26 novembre.
 -->
 - **ANNUNCIO IMPORTANTE:** La lezione di **giovedì 6 novembre è annullata**.
 - **ANNUNCIO IMPORTANTE:** L'attività didattica è sospesa **da giovedì 30 ottobre a mercoledì 5 novembre compresi**.
