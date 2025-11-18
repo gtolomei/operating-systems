@@ -41,10 +41,8 @@ La prova d'esame scritta relativa al I appello dell'a.a. 2024-25 si svolgerà **
 - **ANNUNCIO IMPORTANTE:** Coloro che non hanno compilato i questionari OPIS in classe, sono caldamente pregati di farlo il prima possibile, utilizzando il codice seguente: **XAF9XXHN**.
 - **ANNUNCIO IMPORTANTE:** Le lezioni del **26/11/2024** e **27/11/2024** si svolgeranno (finalmente 🥳) nell'**Aula 3** di Via De Lollis (ingresso dai laboratori di Via Tiburtina, 205 [[mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)]). Per ulteriori informazioni, si prega di far riferimento all'orario pubblicato al seguente [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZOo9l-8p4dZZzSSjE3S3jV2nEawAlF_fDx4U36ps06ebJseGYnFrTClKs2hLLDuLMzblqm7mLryg1/pubhtml?gid=1489043237&single=true&urp=gmail_link).
 -->
-<!--
-- **ANNUNCIO IMPORTANTE:** La lezione di **martedì 25 novembre è posticipata a mercoledì 26 novembre**, mantenendo **la stessa aula** (Aula 4, Via De Lollis)** e **lo stesso orario (13:00-16:00)**.
+- **ANNUNCIO IMPORTANTE:** La lezione di **martedì 25 novembre è posticipata a mercoledì 26 novembre**, mantenendo **la stessa aula** (Aula 4, Via De Lollis) e **lo stesso orario (13:00-16:00)**.
 Contestualmente, la lezione di **Basi di Dati I** (Prof. Perelli) si terrà **martedì 25 novembre** al posto di quella di mercoledì 26 novembre.
--->
 - **ANNUNCIO IMPORTANTE:** La lezione di **giovedì 6 novembre è annullata**.
 - **ANNUNCIO IMPORTANTE:** L'attività didattica è sospesa **da giovedì 30 ottobre a mercoledì 5 novembre compresi**.
 
