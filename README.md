@@ -176,8 +176,8 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 15 | 20/11/2025 | Gestione della Memoria: Paginazione | [slides: <a href="./lectures/slides/Paging.pdf" target="_blank">PDF</a>] |
 | Lezione 16 | 26/11/2025 | Gestione della Memoria: Paginazione Avanzata | [slides: <a href="./lectures/slides/Advanced_Paging.pdf" target="_blank">PDF</a>] [<a href="./code/memory-allocation.tgz" download="memory-allocation.tgz">code</a>]|
 | Lezione 17 | 27/11/2025 | Memoria Virtuale (Parte I) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_I).pdf" target="_blank">PDF</a>] |
+| Lezione 18 | 02/12/2025 | Memoria Virtuale (Parte II) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_II).pdf" target="_blank">PDF</a>] |
 <!--
-| Lezione 18 | 04/12/2024 | Memoria Virtuale (Parte II) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_II).pdf" target="_blank">PDF</a>] |
 | Lezione 19 | 10/12/2024 | Dispositivi di Memoria di Massa | [slides: <a href="./lectures/slides/Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lezione 20 | 11/12/2024 | Scheduling del Disco | [slides: <a href="./lectures/slides/Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
 | Lezione 21 | 17/12/2024 | Esercitazione | [<a href="./exercises/2024-12-17_Esercitazione.pdf" target="_blank">PDF</a>]|
