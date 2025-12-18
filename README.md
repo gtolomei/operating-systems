@@ -177,9 +177,9 @@ I primi due libri sono comunque disponibili anche in versione italiana:
 | Lezione 18 | 02/12/2025 | Memoria Virtuale (Parte II) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_II).pdf" target="_blank">PDF</a>] |
 | Lezione 19 | 04/12/2025 | Dispositivi di Memoria di Massa | [slides: <a href="./lectures/slides/Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lezione 20 | 11/12/2025 | Scheduling del Disco | [slides: <a href="./lectures/slides/Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
-| Lezione 21 | 16/12/2025 | Esercitazione | [<a href="./exercises/2025-12-16_Esercizi.pdf" target="_blank">Quesiti</a>] | 
+| Lezione 21 | 16/12/2025 | Esercitazione | [<a href="./exercises/2025-12-16_Esercizi.pdf" target="_blank">Quesiti</a>] [<a href="./exercises/2025-12-16_Esercizi_Soluzioni.pdf" target="_blank">Soluzioni</a>]| 
 | Lezione 22 | 18/12/2025 | Ricevimento Generale | |
-<!--[<a href="./exercises/2025-12-16_Esercizi_Soluzioni.pdf" target="_blank">Soluzioni</a>]|ercitazione.pdf" target="_blank">PDF</a>]|-->
+<!--[]|ercitazione.pdf" target="_blank">PDF</a>]|-->
 
 
 ## Anni Precedenti
