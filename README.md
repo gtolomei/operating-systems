@@ -29,13 +29,13 @@ Tutti gli studenti che hanno diritto a svolgere la prova straordinaria e fatto c
 La prova orale del 18/2/2025 si svolgerà a partire **dalle ore 9:30**, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
 - **Esiti II Appello Scritto dell'11/2/2025**<br/>
 Gli esiti dell'appello scritto dell'11/2/2025 sono disponibili al seguente [link](./exams/2024-25/2025-02-11_esiti.pdf).
-- **I Appello Orale del 29/1/2025**<br/>
-La prova orale del 29/1/2025 si svolgerà a partire **dalle ore 9:00**, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
-- **Esiti I Appello Scritto del 23/1/2025**<br/>
-Gli esiti dell'appello scritto del 23/1/2025 sono disponibili al seguente [link](./exams/2024-25/2025-01-23_esiti.pdf).
 - **II Appello Scritto del 17/2/2026**<br/>
 La prova d'esame scritta relativa al II appello dell'a.a. 2025-26 si svolgerà **martedì 17/2/2026** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**1027090**). **Le registrazioni resteranno aperte dal 31/1/2026 al 13/2/2026**. Ulteriori informazioni verranno comunicate **dopo la chiusura delle iscrizioni**. Considerato l'elevato numero di partecipanti atteso, è molto probabile che la prova venga organizzata in più turni, ciascuno della durata di **45 minuti**.<br/>
 -->
+- **I Appello Orale del 28/1/2026 e 29/1/2026**<br/>
+La prova orale del I appello si svolgerà secondo le modalità indicate nel messaggio inviato sul forum Moodle.
+- **Esiti I Appello Scritto del 27/1/2026**<br/>
+Gli esiti dell'appello scritto del 27/1/2026 sono disponibili al seguente [link](./exams/2025-26/2026-01-27_esiti.pdf).
 - **I Appello Scritto del 27/1/2026**<br/>
 La prova d'esame scritta relativa al I appello dell'a.a. 2025-26 si svolgerà **martedì 27/1/2026** presso l'**Aula 17** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**1027089**). **Le registrazioni resteranno aperte dal 5/12/2025 al 23/1/2026**. <br/>
 La prova si svolgerà in **due turni distinti, ciascuno della durata di 45 minuti**. Pertanto, sarete suddivisi in due gruppi: **GRUPPO 1** e **GRUPPO 2**. Il **GRUPPO 1** svolgerà l'esame durante il primo turno, con inizio fissato alle **ore 14:00**. Il **GRUPPO 2** sosterrà la prova durante il secondo turno, che avrà inizio alle **ore 15:00**. Per ulteriori dettagli, si rimanda al messaggio inviato sul forum della pagina Moodle del corso.<br/>
