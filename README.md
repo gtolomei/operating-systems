@@ -29,9 +29,9 @@ Tutti gli studenti che hanno diritto a svolgere la prova straordinaria e fatto c
 La prova orale del 18/2/2025 si svolgerà a partire **dalle ore 9:30**, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
 - **Esiti II Appello Scritto dell'11/2/2025**<br/>
 Gli esiti dell'appello scritto dell'11/2/2025 sono disponibili al seguente [link](./exams/2024-25/2025-02-11_esiti.pdf).
-- **II Appello Scritto del 17/2/2026**<br/>
-La prova d'esame scritta relativa al II appello dell'a.a. 2025-26 si svolgerà **martedì 17/2/2026** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**1027090**). **Le registrazioni resteranno aperte dal 31/1/2026 al 13/2/2026**. Ulteriori informazioni verranno comunicate **dopo la chiusura delle iscrizioni**. Considerato l'elevato numero di partecipanti atteso, è molto probabile che la prova venga organizzata in più turni, ciascuno della durata di **45 minuti**.<br/>
 -->
+- **II Appello Scritto del 17/2/2026**<br/>
+La prova d'esame scritta relativa al II appello dell'a.a. 2025-26 si svolgerà **martedì 17/2/2026** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**1027090**). **Le registrazioni resteranno aperte dal 31/1/2026 al 13/2/2026**. Ulteriori informazioni verranno comunicate **dopo la chiusura delle iscrizioni**. Considerato l'elevato numero di partecipanti atteso, è molto probabile che la prova venga organizzata in più turni, ciascuno della durata di **45 minuti**, _presumibilmente_ a partire **dalle ore 14:00**.<br/>
 - **I Appello Orale del 28/1/2026 e 29/1/2026**<br/>
 La prova orale del I appello si svolgerà secondo le modalità indicate nel messaggio inviato sul forum Moodle.
 - **Esiti I Appello Scritto del 27/1/2026**<br/>
