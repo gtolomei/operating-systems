@@ -25,11 +25,11 @@ Gli esiti dell'appello scritto del 27/3/2025 sono disponibili al seguente [link]
 - **Appello Scritto Straordinario del 27/3/2025**<br/>
 La prova d'esame scritta relativa all'appello straordinario dell'a.a. 2024-25 si svolgerà **giovedì 27/3/2024** alle ore **10:00** (orario da confermare) presso il **Laboratorio Colossus** situato in via Salaria, 113 ([mappa](https://maps.app.goo.gl/VyND1LVq6VGDvv4c7)). Vi ricordo che potranno iscriversi a questa prova **esclusivamente gli studenti aventi diritto che faranno opportuna richiesta entro i termini stabiliti dalla segreteria didattica**. Per motivi organizzativi, **non saranno fatte eccezioni**.
 Tutti gli studenti che hanno diritto a svolgere la prova straordinaria e fatto correttamente richiesta presso la segreteria didattica dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**981673**). **Le registrazioni resteranno aperte dal 6/3/2025 al 23/3/2025**.
-- **II Appello Orale del 18/2/2025**<br/>
-La prova orale del 18/2/2025 si svolgerà a partire **dalle ore 9:30**, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
-- **Esiti II Appello Scritto dell'11/2/2025**<br/>
-Gli esiti dell'appello scritto dell'11/2/2025 sono disponibili al seguente [link](./exams/2024-25/2025-02-11_esiti.pdf).
 -->
+- **II Appello Orale del 18/2/2026**<br/>
+La prova orale del II appello si svolgerà secondo le modalità indicate nel messaggio inviato sul forum Moodle.
+- **Esiti II Appello Scritto del 17/2/2026**<br/>
+Gli esiti dell'appello scritto del 17/2/2026 sono disponibili al seguente [link](./exams/2025-26/2026-02-17_esiti.pdf).
 - **ANNUNCIO IMPORTANTE:** A causa dell'incidente informatico che sta provocando un prolungato disservizio dei sistemi Sapienza (incluso Infostud), al momento non è possibile effettuare la registrazione al **II appello del 17/02/2026**. Considerato che mancano ancora circa 10 giorni alla chiusura delle iscrizioni, si è deciso di attendere qualche giorno nella speranza che i problemi tecnici vengano risolti al più presto. Nel caso in cui il disservizio dovesse persistere oltre la fine di questa settimana, vi fornirò tempestivamente indicazioni su una procedura alternativa per l'iscrizione.<br/>
 **AGGIORNAMENTO:** Visto il protrarsi del disservizio che impedisce l'accesso a Infostud, coloro che intendono partecipare al **II appello scritto del 17/2/2026** devono **obbligatoriamente** registrarsi sull'apposito Google Form dedicato, disponibile al seguente [link](https://forms.gle/qChoi3vGJJdiktQc8). L'accesso al form è garantito esclusivamente tramite le vostre credenziali istituzionali e resterà disponibile fino al **15/2/2026 alle ore 23:59**. 
 - **II Appello Scritto del 17/2/2026**<br/>
