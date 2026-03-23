@@ -24,7 +24,7 @@ La prova orale del 31/3/2025 si svolgerà a partire **dalle ore 16:00**, secondo
 Gli esiti dell'appello scritto del 27/3/2025 sono disponibili al seguente [link](./exams/2024-25/2025-03-27_esiti.pdf).
 -->
 - **Appello Scritto Straordinario del 25/3/2026**<br/>
-La prova d'esame scritta relativa all'appello straordinario dell'a.a. 2025-26 si svolgerà **mercoledì 25/3/2026** alle ore **9:00** (orario da confermare) presso l'**Aula 17** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Vi ricordo che potranno iscriversi a questa prova **esclusivamente gli studenti aventi diritto che faranno opportuna richiesta entro i termini stabiliti dalla segreteria didattica**. Per motivi organizzativi, **non saranno fatte eccezioni**.
+La prova d'esame scritta relativa all'appello straordinario dell'a.a. 2025-26 si svolgerà **mercoledì 25/3/2026** alle ore **10:00** ~~**9:00** (orario da confermare)~~ presso l'**Aula 17** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Vi ricordo che potranno iscriversi a questa prova **esclusivamente gli studenti aventi diritto che faranno opportuna richiesta entro i termini stabiliti dalla segreteria didattica**. Per motivi organizzativi, **non saranno fatte eccezioni**.
 Tutti gli studenti che hanno diritto a svolgere la prova straordinaria e hanno fatto correttamente richiesta presso la segreteria didattica dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**1040280**). **Le registrazioni resteranno aperte dal 9/3/2026 al 22/3/2026**.
 - **II Appello Orale del 18/2/2026**<br/>
 La prova orale del II appello si svolgerà secondo le modalità indicate nel messaggio inviato sul forum Moodle.
