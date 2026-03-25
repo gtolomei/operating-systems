@@ -20,8 +20,8 @@ La prova d'esame scritta relativa al III appello dell'a.a. 2024-25 si svolgerà 
 [_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
 - **Appello Orale Straordinario del 31/3/2025**<br/>
 La prova orale del 31/3/2025 si svolgerà a partire **dalle ore 16:00**, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
-- **Esiti Appello Scritto Straordinario del 27/3/2025**<br/>
-Gli esiti dell'appello scritto del 27/3/2025 sono disponibili al seguente [link](./exams/2024-25/2025-03-27_esiti.pdf).
+- **Esiti Appello Scritto Straordinario del 25/3/2026**<br/>
+Gli esiti dell'appello scritto del 25/3/2026 sono disponibili al seguente [link](./exams/2025-26/2025-03-26_esiti.pdf).
 -->
 - **Appello Scritto Straordinario del 25/3/2026**<br/>
 La prova d'esame scritta relativa all'appello straordinario dell'a.a. 2025-26 si svolgerà **mercoledì 25/3/2026** alle ore **10:00** ~~**9:00** (orario da confermare)~~ presso l'**Aula 17** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Vi ricordo che potranno iscriversi a questa prova **esclusivamente gli studenti aventi diritto che faranno opportuna richiesta entro i termini stabiliti dalla segreteria didattica**. Per motivi organizzativi, **non saranno fatte eccezioni**.
