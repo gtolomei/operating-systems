@@ -15,12 +15,10 @@ Gli esiti dell'appello scritto del 3/7/2025 sono disponibili al seguente [link](
 La prova d'esame scritta relativa al IV appello dell'a.a. 2024-25 si svolgerà **giovedì 3/7/2025** alle ore **14:30** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**969903**). **Le registrazioni resteranno aperte dal 15/6/2025 al 30/6/2025**.<br/>
 - **Esiti III Appello Scritto del 4/6/2025**<br/>
 Gli esiti dell'appello scritto del 4/6/2025 sono disponibili al seguente [link](./exams/2024-25/2025-06-04_esiti.pdf).
-- **III Appello Scritto del 4/6/2025**<br/>
-La prova d'esame scritta relativa al III appello dell'a.a. 2024-25 si svolgerà **mercoledì 4/6/2025** alle ore **14:30** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**969899**). **Le registrazioni resteranno aperte dall'1/5/2025 al 31/5/2025**.<br/>
-[_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
-- **Appello Orale Straordinario del 31/3/2025**<br/>
-La prova orale del 31/3/2025 si svolgerà a partire **dalle ore 16:00**, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
 -->
+- **III Appello Scritto del 9/6/2026**<br/>
+La prova d'esame scritta relativa al III appello dell'a.a. 2025-26 si svolgerà **martedì 9/6/2026** alle ore **14:30** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**1027096**). **Le registrazioni resteranno aperte dall'1/5/2026 al 5/6/2026**.<br/>
+[_**NOTA:** L'orario della prova è ancora **indicativo** e potrà subire leggere variazioni. Inoltre, qualora alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
 - **Esiti Appello Scritto Straordinario del 25/3/2026**<br/>
 Gli esiti dell'appello scritto straordinario del 25/3/2026 sono disponibili al seguente [link](./exams/2025-26/2026-03-25_esiti.pdf).
 - **Appello Scritto Straordinario del 25/3/2026**<br/>
