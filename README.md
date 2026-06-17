@@ -11,9 +11,11 @@ La prova d'esame scritta relativa al V appello dell'a.a. 2024-25 si svolgerà **
 La prova orale del 7/7/2025 si svolgerà a partire **dalle ore 9:30**, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
 - **Esiti IV Appello Scritto del 3/7/2025**<br/>
 Gli esiti dell'appello scritto del 3/7/2025 sono disponibili al seguente [link](./exams/2024-25/2025-07-03_esiti.pdf).
-- **IV Appello Scritto del 3/7/2025**<br/>
-La prova d'esame scritta relativa al IV appello dell'a.a. 2024-25 si svolgerà **giovedì 3/7/2025** alle ore **14:30** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**969903**). **Le registrazioni resteranno aperte dal 15/6/2025 al 30/6/2025**.<br/>
 -->
+- **IV Appello Scritto del 7/7/2026**<br/>
+La prova d'esame scritta relativa al IV appello dell'a.a. 2025-26 si svolgerà **martedì 7/7/2026** alle ore **14:30** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**1027097**). **Le registrazioni resteranno aperte dal 17/6/2026 al 3/7/2026**.<br/>
+Coloro che si iscriveranno esclusivamente per verbalizzare il voto finale (sia perché hanno superato entrambi i moduli, sia perché hanno superato il primo modulo e tenteranno di superare il secondo durante l'appello di luglio) sono pregati di inviarmi un messaggio all'indirizzo tolomei@di.uniroma1.it in cui indicano il motivo per cui si sono iscritti.<br>
+[_**NOTA:** L'orario della prova è ancora **indicativo** e potrà subire leggere variazioni. Inoltre, qualora alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
 - **Esiti III Appello Scritto del 9/6/2026**<br/>
 Gli esiti dell'appello scritto del 9/6/2026 sono disponibili al seguente [link](./exams/2025-26/2026-06-09_esiti.pdf).
 - **III Appello Scritto del 9/6/2026**<br/>
