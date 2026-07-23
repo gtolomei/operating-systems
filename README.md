@@ -7,11 +7,11 @@
 - **V Appello Scritto del 9/9/2025**<br/>
 La prova d'esame scritta relativa al V appello dell'a.a. 2024-25 si svolgerà **martedì 9/9/2025** alle ore **14:15** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**969906**). **Le registrazioni resteranno aperte dal 22/7/2025 al 5/9/2025**.<br/>
 [_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
-- **IV Appello Orale del 7/7/2025**<br/>
-La prova orale del 7/7/2025 si svolgerà a partire **dalle ore 9:30**, secondo le modalità indicate nel messaggio inviato sul forum Moodle.
-- **Esiti IV Appello Scritto del 3/7/2025**<br/>
-Gli esiti dell'appello scritto del 3/7/2025 sono disponibili al seguente [link](./exams/2024-25/2025-07-03_esiti.pdf).
 -->
+- **IV Appello Orale del 24/7/2026**<br/>
+La prova orale del IV appello si svolgerà **venerdì 24/7/2026** alle ore **9:00** presso la **stanza 106** posta al **I piano dell'Edificio E** in Viale Regina Elena 295.
+- **Esiti IV Appello Scritto del 23/7/2026**<br/>
+Gli esiti dell'appello scritto del 23/7/2026 sono disponibili al seguente [link](./exams/2025-26/2026-07-23_esiti.pdf).
 - **IV Appello Scritto del ~7/7/2026~ 23/7/2026**<br/>
 La prova d'esame scritta relativa al IV appello dell'a.a. 2025-26 si svolgerà **~martedì 7/7/2026~** **giovedì 23/7/2026** alle ore **~14:30~** **15:15** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**1027097**). **Le registrazioni resteranno aperte dal 17/6/2026 al ~3/7/2026~ 20/7/2026**.<br/>
 Coloro che si iscriveranno esclusivamente per verbalizzare il voto finale (sia perché hanno superato entrambi i moduli, sia perché hanno superato il primo modulo e tenteranno di superare il secondo durante l'appello di luglio) sono pregati di inviarmi un messaggio all'indirizzo tolomei@di.uniroma1.it in cui indicano il motivo per cui si sono iscritti.<br>
