@@ -3,6 +3,10 @@
 [News](#News) | [Informazioni Generali](#Informazioni-Generali) | [Syllabus](#Syllabus) | [Materiale Didattico](#Materiale-Didattico) | [Anni Precedenti](#Anni-Precedenti)
 
 ## News
+- **V Appello Orale del 9/9/2026**<br/>
+La prova orale del V appello si svolgerà **mercoledì 9/9/2026** alle ore **9:00** presso la **stanza 106** posta al **I piano dell'Edificio E** in Viale Regina Elena 295.
+- **Esiti V Appello Scritto dell'8/9/2026**<br/>
+Gli esiti dell'appello scritto dell'8/9/2026 sono disponibili al seguente [link](./exams/2025-26/2026-09-08_esiti.pdf).
 - **V Appello Scritto dell'8/9/2026**<br/>
 La prova d'esame scritta relativa al V appello dell'a.a. 2025-26 si svolgerà **martedì 8/9/2026** alle ore **14:45** presso l'**Aula 15** dei laboratori situati in via Tiburtina, 205 ([mappa](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Tutti gli studenti interessati a partecipare alla prova dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**1027098**). **Le registrazioni resteranno aperte dal 15/7/2026 al 4/9/2026**. L'orario preciso della prova verrà comunicato nei giorni precedenti all'esame.<br/>
 [_Qualora, alla chiusura delle registrazioni, il numero di iscritti risultasse maggiore della capienza dell'aula, la prova si svolgerà su due turni consecutivi. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
