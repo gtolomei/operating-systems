@@ -6,7 +6,7 @@
 <!--- **Esiti Appello Scritto Straordinario del 14/10/2026**<br/>
 Gli esiti dell'appello scritto straordinario del 14/10/2026 sono disponibili al seguente [link](../exams/2025-26/2026-10-14_esiti.pdf).-->
 - **Appello Scritto Straordinario del 14/10/2026**<br/>
-La prova d'esame scritta relativa all'appello straordinario dell'a.a. 2025-26 si svolgerà **mercoledì 14/10/2026** alle ore **11:00** presso il **Laboratorio Colossus** situato in via Salaria, 113 ([mappa](https://maps.app.goo.gl/VyND1LVq6VGDvv4c7)). Le iscrizioni all'apposito verbale Infostud (**1066137**) resteranno aperte fino all'**11/10/2026**.<br/>
+La prova d'esame scritta relativa all'appello straordinario dell'a.a. 2025-26 si svolgerà **mercoledì 14/10/2026** alle ore **11:30** presso il **Laboratorio Colossus** situato in via Salaria, 113 ([mappa](https://maps.app.goo.gl/VyND1LVq6VGDvv4c7)). Le iscrizioni all'apposito verbale Infostud (**1066137**) resteranno aperte fino all'**11/10/2026**.<br/>
 [_**NOTA:** L'orario della prova è ancora **indicativo** e potrà subire leggere variazioni. Informazioni più accurate e definitive sulle modalità di partecipazione verranno pertanto rese note nei giorni immediatamente precedenti alla data d'esame._]
 <!--Vi ricordo che potranno iscriversi a questa prova **esclusivamente gli studenti aventi diritto che faranno opportuna richiesta entro i termini stabiliti dalla segreteria didattica**. Per motivi organizzativi, **non saranno fatte eccezioni**. Tutti gli studenti che hanno diritto di svolgere la prova straordinaria e hanno fatto correttamente richiesta presso la segreteria didattica dovranno **obbligatoriamente** registrarsi sull'apposito verbale Infostud (**1010655**).-->
 - **V Appello Orale del 9/9/2026**<br/>
